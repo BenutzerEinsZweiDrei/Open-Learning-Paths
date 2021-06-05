@@ -7,12 +7,14 @@ Alternativer Weg
 
 ## Grundlagen
 Einstiegsvideos
+
 		Philosophie für Neulinge - https://www.youtube.com/playlist?list=PLbWr3tnmt67VfDoJKtX_CYU8xXUTdV7gq
 		Crash Course Philosophy für Einsteiger - https://www.youtube.com/playlist?list=PL8dPuuaLjXtNgK6MZucdYldNkMybYIHKR
 		Coursera Introduction to Philospohy - https://www.coursera.org/learn/philosophy?ranMID=40328&ranEAID=%2Fmi9sWvzvR8&ranSiteID=_mi9sWvzvR8-yYplLb27xFsDzLmDZBfBvg&siteID=_mi9sWvzvR8-yYplLb27xFsDzLmDZBfBvg&utm_content=10&utm_medium=partners&utm_source=linkshare&utm_campaign=%2Fmi9sWvzvR8
 		Wireless Philosophy Introduction Videos - https://www.youtube.com/user/WirelessPhilosophy/playlists
 
 Einstiegsbücher
+
 	Paper http://www.philolex.de/einfphil.htm
 	Paper https://blog.zeit.de/schueler/2013/09/19/einfuehrung-in-die-philosophie/
 	free Book Introduction https://open.bccampus.ca/browse-our-collection/find-open-textbooks/?uuid=24d4160c-c8b2-4f3b-9d5c-7203c92b790b&contributor&keyword&subject
@@ -20,32 +22,41 @@ Einstiegsbücher
 	Introduction to Philosophy Book - https://open.umn.edu/opentextbooks/textbooks/598
 
 Alternativer Einstieg
+
 	10 Denker Kompakt https://www.stern.de/panorama/wissen/mensch/philosophie-zehn-denker-kompakt-3749076.html
 	Buch Richard David Precht wer bin ich und wenn ja wieviele
 	Film Sophies Welt
 
 Nachschlagewerk
+
 		Stanford Encyclopedia  - https://plato.stanford.edu/index.html
 		https://de.wikipedia.org/wiki/Portal:Philosophie
         http://www.philolex.de/philolex.htm
         http://www.philosophenlexikon.de/
 		
-##Einführung
+## Einführung
+
 Einführung in Geschichte der Philosophie
+
  - https://www.youtube.com/playlist?list=PL4O7bFNxwUHq6wwBcw1p6VNLmhMzxfPuP
  - http://electure.studiumdigitale.uni-frankfurt.de/index.php?cat=1&sem=5&videolist=217
  - https://www.youtube.com/playlist?list=PLNrDMx4WkLd8I5xjx7NmknDPGDAIqXDt-
  - Komplett https://www.youtube.com/playlist?list=PL9GwT4_YRZdBf9nIUHs0zjrnUVl-KBNSM
+ - 
 Einführung in theoretische Philosophie
+
  - https://www.youtube.com/playlist?list=PLHwUrKo7SDpTLWpbXS36aJ4vYjjVXrOcA
  - https://www.youtube.com/playlist?list=PLBUdCOZnbWlImFlu1q5Ij8Qebm9Xbdqf9
  - https://www.youtube.com/playlist?list=PLZodxGp7gj90i1QK2pwtG-mlFhm0-Wuxj
+ - 
 Einführung in praktische Philosophie
+
  - https://www.youtube.com/playlist?list=PLBUdCOZnbWlK9TF1eQofX5ImolL_eXvgW
  - https://www.youtube.com/playlist?list=PLLDsGZDNnTvDPD6vmIkAfPUjboy94YQzq
  - https://www.youtube.com/playlist?list=PLthgEimViqIlxphTiXHH8lmGElELCZqvd
 
 ## Allgemeines
+
 Textinterpretation
  -Textformen in der Philosophie https://openlearnware.tu-darmstadt.de/collection/textformen-der-philosophie-217
 Philosophische Methode
