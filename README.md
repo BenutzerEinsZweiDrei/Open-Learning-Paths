@@ -4,8 +4,8 @@ Dies sind Lernpfade für ein autodidaktisches Selbst-Studium. Es handelt sich um
 
 ## Lernpfade
  - [Philosophie](#philosophie)
- - [Economics]()
- - [Computer Science]()
+ - [Economics](#economics)
+ - [Computer Science](#computer-science)
 
 # Philosophie
 Alternativer Weg
