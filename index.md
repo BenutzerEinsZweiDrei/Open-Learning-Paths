@@ -356,6 +356,10 @@ Additional
 
 # Economics
 
+Alternative Way in Learning for Readers
+
+- https://openstax.org/details/books/principles-economics-2e
+
 ## General Ressources
 
 Buisness English
@@ -377,10 +381,6 @@ How the Economics Machine Works Einstiegsvideo
 Das Einmaleins der Wirtschaft
 
 - https://www.br.de/fernsehen/ard-alpha/sendungen/1-x-1-der-wirtschaft/1-x-1-der-wirtschaft102.html
-
-Alternative Way in Learning for Readers
-
-- https://openstax.org/details/books/principles-economics-2e
 
 Career Soft Skills
 
