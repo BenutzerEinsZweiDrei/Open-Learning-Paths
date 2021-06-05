@@ -59,7 +59,7 @@ Einführung in praktische Philosophie
 
 Textinterpretation
 
- -Textformen in der Philosophie https://openlearnware.tu-darmstadt.de/collection/textformen-der-philosophie-217
+ - Textformen in der Philosophie https://openlearnware.tu-darmstadt.de/collection/textformen-der-philosophie-217
  
 Philosophische Methode
 
@@ -124,20 +124,20 @@ Gegenwart
 
 Logik
 
-Einführung in die formale Logik
+1. Einführung in die formale Logik
 
 - Einführung https://www.youtube.com/playlist?list=PLHwUrKo7SDpTIMNb6uHZzscAhO3_v8F5d
  - https://www.youtube.com/playlist?list=PLBUdCOZnbWlLS1U_z9S_FNqPpN6KP_orL
 - https://www.youtube.com/playlist?list=PLHwUrKo7SDpQSH9Txz-3fEbKfCMORq8X9
 - https://www.youtube.com/playlist?list=PLS8vfA_ckeuZ9UjAHhA1q-ROZGuE_h21V
-- 
-Elementare Logik
+
+2. Elementare Logik
 
 - Einführung in die Logik https://www.youtube.com/playlist?list=PLHwUrKo7SDpTIMNb6uHZzscAhO3_v8F5d
 - Logik und Argumentation https://openlearnware.tu-darmstadt.de/collection/logik-und-argumentation-224
 - https://www.youtube.com/playlist?list=PLX5-_JxG9flbkEJR7e4tb2ND9HcjmRN0j
 
-Philosophie der Logik
+3. Philosophie der Logik
 
 - Formale Logik https://www.youtube.com/playlist?list=PLHwUrKo7SDpQSH9Txz-3fEbKfCMORq8X9
 - https://www.futurelearn.com/courses/logic-the-philosophical-science-of-truth?utm_source=RakutenMarketing&utm_medium=Affiliate&utm_campaign=3372145:Edukatico&utm_content=10:1&utm_term=UKNetwork&ranMID=42801&ranEAID=%2Fmi9sWvzvR8&ranSiteID=_mi9sWvzvR8-xggrJJBZnC53cQnmwLYQlw
