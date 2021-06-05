@@ -303,7 +303,8 @@ Tiere
  - https://www.edx.org/course/introduction-to-animal-ethics?source=aw&awc=6798_1622876783_439aad1628b2c4b3acc61b0e1576e6c3&utm_source=aw&utm_medium=affiliate_partner&utm_content=text-link&utm_term=284447_Edukatico+GmbH
 
 Technikphilosophie
-	 - https://www.futurelearn.com/courses/philosophy-of-technology?utm_source=RakutenMarketing&utm_medium=Affiliate&utm_campaign=3372145:Edukatico&utm_content=10:1&utm_term=UKNetwork&ranMID=42801&ranEAID=%2Fmi9sWvzvR8&ranSiteID=_mi9sWvzvR8-GB1Ku4R7ns8MW6uyTcp0yQ
+
+- https://www.futurelearn.com/courses/philosophy-of-technology?utm_source=RakutenMarketing&utm_medium=Affiliate&utm_campaign=3372145:Edukatico&utm_content=10:1&utm_term=UKNetwork&ranMID=42801&ranEAID=%2Fmi9sWvzvR8&ranSiteID=_mi9sWvzvR8-GB1Ku4R7ns8MW6uyTcp0yQ
 	 
 Gendertheorie
 
