@@ -1,11 +1,11 @@
 # Open Education Universität
 
 
-#Philosophie
+# Philosophie
 Alternativer Weg
 		Philosophy by Reading Books Reddit - https://www.reddit.com/r/philosophy/wiki/readinglist#wiki_general_introductory_texts
 
-##Grundlagen
+## Grundlagen
 Einstiegsvideos
 		Philosophie für Neulinge - https://www.youtube.com/playlist?list=PLbWr3tnmt67VfDoJKtX_CYU8xXUTdV7gq
 		Crash Course Philosophy für Einsteiger - https://www.youtube.com/playlist?list=PL8dPuuaLjXtNgK6MZucdYldNkMybYIHKR
@@ -45,7 +45,7 @@ Einführung in praktische Philosophie
  - https://www.youtube.com/playlist?list=PLLDsGZDNnTvDPD6vmIkAfPUjboy94YQzq
  - https://www.youtube.com/playlist?list=PLthgEimViqIlxphTiXHH8lmGElELCZqvd
 
-##Allgemeines
+## Allgemeines
 Textinterpretation
  -Textformen in der Philosophie https://openlearnware.tu-darmstadt.de/collection/textformen-der-philosophie-217
 Philosophische Methode
@@ -99,7 +99,7 @@ Kritisches Denken
 				 - Uni zu Köln https://www.youtube.com/playlist?list=PL3586DCA69D1DAD5A
 				 - Zusammenstellung https://www.youtube.com/playlist?list=PL5rv0LxqofNopzpYOp6Gf25IUKoFqogAN
 
-    ## Theoretische Philosophie
+## Theoretische Philosophie
 	
         4.3.1 Logik
 				Einführung in die formale Logik
@@ -154,7 +154,7 @@ Kritisches Denken
 				Ästhetik
 				- Zusammenstellung https://www.youtube.com/playlist?list=PL2FVYhOW9KqIG_BIt_UAe6WqhMjW_oETG
 				
-    ## Praktische Philosophie
+## Praktische Philosophie
 	
         4.4.1 Ethik und Metaethik
 				Moralphilosophie
