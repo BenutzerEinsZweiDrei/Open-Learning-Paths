@@ -198,7 +198,7 @@ Ethik und Metaethik
 - https://timms.uni-tuebingen.de/List/List?id=UT_201%5B67%5D_____00%5B12%5D_philob_000_&Headline=Philosophische%20Ethik
 - https://lecture2go.uni-hamburg.de/l2go/-/get/v/46481
 - https://www.youtube.com/playlist?list=PLH77zNaP0WKwneyCFViiCZIqp_LdTbsd3
-- 
+
 3. Angewandte Ethik
 				
 - Aktuelle Kontroversen https://www.fau.tv/course/id/384.html
