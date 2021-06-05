@@ -1,5 +1,11 @@
 # Open Education Universität
 
+Dies sind Lernpfade für ein autodidaktisches Selbst-Studium. Es handelt sich um Linklisten für OER Materialien (Open Educational Ressources).
+
+## Lernpfade
+ - Philosophie
+ - Economics
+ - Computer Science
 
 # Philosophie
 Alternativer Weg
@@ -346,4 +352,159 @@ Additional
 
 - https://ocw.mit.edu/courses/linguistics-and-philosophy/
 
-					
+
+
+# Economics
+
+## General Ressources
+
+Buisness English
+
+- https://www.oxfordonlineenglish.com/free-business-english-lessons
+
+Maths for Economics
+
+- https://github.com/rossant/awesome-math
+
+Statistics for Eonomics
+
+- https://studyflix.de/statistik
+
+How the Economics Machine Works Einstiegsvideo
+
+- https://youtu.be/PHe0bXAIuk0
+
+Das Einmaleins der Wirtschaft
+
+- https://www.br.de/fernsehen/ard-alpha/sendungen/1-x-1-der-wirtschaft/1-x-1-der-wirtschaft102.html
+
+Alternative Way in Learning for Readers
+
+- https://openstax.org/details/books/principles-economics-2e
+
+Career Soft Skills
+
+- https://www.youtube.com/c/GcflearnfreeOrgplus
+
+Scientific Writing
+
+- https://www.youtube.com/watch?v=x33Km7hRzP0&list=PL8yeejfiNxNBT2rTomRjmWNlgh4DBmHST
+
+College Success Simple Books
+
+- https://courses.lumenlearning.com/lumencollegesuccessxtraining2/
+
+
+## BWL
+
+Einstiegskurs
+
+- https://lecture2go.uni-hamburg.de/l2go/-/get/l/4980
+
+Einführung in die BWL
+
+- https://www.youtube.com/watch?v=HqbKjtxMrsI&list=PL-_cKNuVAYAWtIyJKuCrZPzpPld5eclu9
+
+Marketing
+
+- https://www.edukatico.org/de/kurs/marketing-grundlagen/click
+- https://mlecture.uni-bremen.de/ml/index.php?option=com_content&view=article&id=255
+
+Management
+
+- https://egs.zmml.uni-bremen.de/index.php/10?brsr=10
+- https://www.coursera.org/learn/wharton-social-human-capital?specialization=wharton-business-foundations
+
+Accounting
+
+- https://www.edx.org/course/financial-accounting-4
+- https://lecture2go.uni-hamburg.de/l2go/-/get/v/17304
+- https://www.coursera.org/learn/wharton-accounting?specialization=wharton-business-foundations
+
+Finance
+
+- https://www.youtube.com/watch?v=-RskmhmNSXU&list=PLgwdHNUa6i6TXTYbqynZ66fplrEm_9zBm
+- https://www.youtube.com/watch?v=iYx75vVnzmo&list=PLrClginNzxmNfNG7gz5QyU38HbwSQnCa3
+- https://www.coursera.org/learn/wharton-finance?specialization=wharton-business-foundations
+
+Ethics
+
+- https://lecture2go.uni-hamburg.de/l2go/-/get/v/18823
+
+Buisness Processes
+
+- https://mlecture.uni-bremen.de/ml/index.php?option=com_content&view=article&id=395
+- https://videoonline.edu.lmu.de/de/wintersemester-2011-2012/3240
+- https://www.futurelearn.com/courses/starting-a-business-4
+- https://www.coursera.org/learn/wharton-operations
+
+## VWL
+
+Einstiegskurs
+
+ - https://videoonline.edu.lmu.de/de/wintersemester-2016-2017/8159
+
+Einführung in die Volkswirtschaftslehre
+
+ - https://www.youtube.com/watch?v=db4iEbHNKqU&list=PLrClginNzxmNEG0n3U65lo2fNO7PFUUPA
+
+Microeconomics
+
+- https://videoonline.edu.lmu.de/de/wintersemester-2017-2018/9622
+- https://www.khanacademy.org/economics-finance-domain/microeconomics
+- https://www.youtube.com/watch?list=PLUl4u3cNGP62oJSoqb4Rf-vZMGUBe59G-&v=_OkTw766oCs&feature=emb_logo
+
+Macroeconomics
+
+- https://timms.uni-tuebingen.de/List/List?id=UT_201%5B89%5D_____00%5B12%5D_makrooeko_000_&Headline=Makro%C3%B6konomik%201
+- https://www.fau.tv/course/id/488.html
+- https://studyflix.de/wirtschaft/thema/makrookonomie-15
+- https://www.khanacademy.org/economics-finance-domain/macroeconomics
+- https://www.youtube.com/watch?v=p1RVce9DElI&list=PLUmHBswQv2jzQakfXMHGUo2keTyLnjEjG
+- https://www.youtube.com/playlist?list=PLdLiRaajwSXRcJxAeIHjVGukaJZoJtkXz
+
+Econometrics
+
+- https://www.coursera.org/learn/enjoyable-econometrics
+- https://www.youtube.com/watch?v=M_5SLG7sUa0&list=PLwJRxp3blEvZyQBTTOMFRP_TDaSdly3gU
+
+Politics
+
+- https://www.youtube.com/playlist?list=PL303D52E352C0B7D9&feature=plcp
+- https://www.youtube.com/playlist?list=PLUdzcjP6CshNeFb8wGQfMJeEfGvwiR3PN
+
+Public Economics and Finance
+
+- https://www.youtube.com/watch?list=PL2SOU6wwxB0v3c46v2ptuDKIHmXHRAmeU&v=wjuKvgQv51Y&feature=emb_logo
+
+
+## Advanced
+
+Programming for Economics
+
+ - following
+
+Law for Economics
+
+Questions of economic politics of today
+
+Digitale Transformation
+
+ - https://www.coursera.org/learn/bcg-uva-darden-digital-transformation
+
+Digital Marketing from Google
+
+- https://learndigital.withgoogle.com/digitalgarage/courses?category=digital_marketing
+
+Leadership Skills
+
+- https://www.coursera.org/learn/leadership-skills
+
+Awesome Leading and Managing
+
+- https://github.com/LappleApple/awesome-leading-and-managing#readme
+
+
+# Computer Science
+
+For Computer Science you should use OSSU https://github.com/ossu/
