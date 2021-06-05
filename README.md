@@ -543,23 +543,23 @@ Awesome Leading and Managing
 
 https://github.com/ossu/computer-science
 
-## Data Science
+# Data Science
 
 https://github.com/ossu/data-science
 
-## Bioinformatics
+# Bioinformatics
 
 https://github.com/ossu/bioinformatics
 
-## Software Engineer
+# Software Engineer
 
 https://github.com/jwasham/coding-interview-university
 
-## Environmental Science
+# Environmental Science
 
 https://github.com/hunglethanh9/environmental-science
 
-## Sustainable Cities
+# Sustainable Cities
 
 https://github.com/aniri/sustainable-cities-online-courses
 
