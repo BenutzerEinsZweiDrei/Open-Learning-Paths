@@ -3,9 +3,9 @@
 Dies sind Lernpfade für ein autodidaktisches Selbst-Studium. Es handelt sich um Linklisten für OER Materialien (Open Educational Ressources).
 
 ## Lernpfade
- - Philosophie
- - Economics
- - Computer Science
+ - [Philosophie](#philosophie)
+ - [Economics](#economics)
+ - [Computer Science](#computer-science)
 
 # Philosophie
 Alternativer Weg
