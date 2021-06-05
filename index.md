@@ -3,13 +3,27 @@
 Dies sind Lernpfade für ein autodidaktisches Selbst-Studium. Es handelt sich um Linklisten für OER Materialien (Open Educational Ressources).
 
 ## Lernpfade
+
+Auf dieser Seite
  - [Philosophie](#philosophie)
  - [Economics](#economics)
+
+Weitere
+
  - [Computer Science](#computer-science)
+ - [Data Science](#data-science)
+ - [Bioinformatics](#bioinformatics)
+ - [Software Engineer](#software-engineer)
+ - [Environmental Science](#environmental-science)
+ - [Sustainable Cities](#sustainable-cities)
+
 
 # Philosophie
+
 Alternativer Weg
+
 - Philosophy by Reading Books Reddit - https://www.reddit.com/r/philosophy/wiki/readinglist#wiki_general_introductory_texts
+- Philosophy with Podcasts https://historyofphilosophy.net/all-episodes
 
 ## Grundlagen
 Einstiegsvideos
@@ -18,6 +32,7 @@ Einstiegsvideos
 - Crash Course Philosophy für Einsteiger - https://www.youtube.com/playlist?list=PL8dPuuaLjXtNgK6MZucdYldNkMybYIHKR
 - Coursera Introduction to Philospohy - https://www.coursera.org/learn/philosophy?ranMID=40328&ranEAID=%2Fmi9sWvzvR8&ranSiteID=_mi9sWvzvR8-yYplLb27xFsDzLmDZBfBvg&siteID=_mi9sWvzvR8-yYplLb27xFsDzLmDZBfBvg&utm_content=10&utm_medium=partners&utm_source=linkshare&utm_campaign=%2Fmi9sWvzvR8
 - Wireless Philosophy Introduction Videos - https://www.youtube.com/user/WirelessPhilosophy/playlists
+- Einige Philosophy Explanations https://www.youtube.com/c/thephilosophytube/playlists
 
 Einstiegsbücher
 
@@ -39,6 +54,7 @@ Nachschlagewerk
 - https://de.wikipedia.org/wiki/Portal:Philosophie
 -  http://www.philolex.de/philolex.htm
 -   http://www.philosophenlexikon.de/
+-   modern books from philosophers http://www.earlymoderntexts.com/texts
 		
 ## Einführung
 
@@ -489,9 +505,17 @@ Wirtschaftsrecht
 - https://www.fau.tv/course/id/446.html
 - https://www.lecturio.de/wirtschaft/wirtschaftsrecht-privatrecht.kurs?pid=264
 
+Technology Entrepreneurship
+
+- https://www.youtube.com/playlist?list=PLF6C0319C607DEDC1
+
 Power and Politics in Todays World
 
  - https://www.youtube.com/playlist?list=PLh9mgdi4rNeyViG2ar68jkgEi4y6doNZy
+
+Google Talks to Economics
+
+- https://talksat.withgoogle.com/search?c=economics
 
 New Economic Thinking
 
@@ -517,4 +541,26 @@ Awesome Leading and Managing
 
 # Computer Science
 
-For Computer Science you should use OSSU https://github.com/ossu/
+https://github.com/ossu/computer-science
+
+## Data Science
+
+https://github.com/ossu/data-science
+
+## Bioinformatics
+
+https://github.com/ossu/bioinformatics
+
+## Software Engineer
+
+https://github.com/jwasham/coding-interview-university
+
+## Environmental Science
+
+https://github.com/hunglethanh9/environmental-science
+
+## Sustainable Cities
+
+https://github.com/aniri/sustainable-cities-online-courses
+
+[Back to top](#lernpfade)
