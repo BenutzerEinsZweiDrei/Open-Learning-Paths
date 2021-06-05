@@ -3,15 +3,15 @@
 
 # Philosophie
 Alternativer Weg
-		Philosophy by Reading Books Reddit - https://www.reddit.com/r/philosophy/wiki/readinglist#wiki_general_introductory_texts
+		- Philosophy by Reading Books Reddit - https://www.reddit.com/r/philosophy/wiki/readinglist#wiki_general_introductory_texts
 
 ## Grundlagen
 Einstiegsvideos
 
-		Philosophie für Neulinge - https://www.youtube.com/playlist?list=PLbWr3tnmt67VfDoJKtX_CYU8xXUTdV7gq
-		Crash Course Philosophy für Einsteiger - https://www.youtube.com/playlist?list=PL8dPuuaLjXtNgK6MZucdYldNkMybYIHKR
-		Coursera Introduction to Philospohy - https://www.coursera.org/learn/philosophy?ranMID=40328&ranEAID=%2Fmi9sWvzvR8&ranSiteID=_mi9sWvzvR8-yYplLb27xFsDzLmDZBfBvg&siteID=_mi9sWvzvR8-yYplLb27xFsDzLmDZBfBvg&utm_content=10&utm_medium=partners&utm_source=linkshare&utm_campaign=%2Fmi9sWvzvR8
-		Wireless Philosophy Introduction Videos - https://www.youtube.com/user/WirelessPhilosophy/playlists
+- Philosophie für Neulinge - https://www.youtube.com/playlist?list=PLbWr3tnmt67VfDoJKtX_CYU8xXUTdV7gq
+		- Crash Course Philosophy für Einsteiger - https://www.youtube.com/playlist?list=PL8dPuuaLjXtNgK6MZucdYldNkMybYIHKR
+		- Coursera Introduction to Philospohy - https://www.coursera.org/learn/philosophy?ranMID=40328&ranEAID=%2Fmi9sWvzvR8&ranSiteID=_mi9sWvzvR8-yYplLb27xFsDzLmDZBfBvg&siteID=_mi9sWvzvR8-yYplLb27xFsDzLmDZBfBvg&utm_content=10&utm_medium=partners&utm_source=linkshare&utm_campaign=%2Fmi9sWvzvR8
+		- Wireless Philosophy Introduction Videos - https://www.youtube.com/user/WirelessPhilosophy/playlists
 
 Einstiegsbücher
 
