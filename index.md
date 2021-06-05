@@ -394,6 +394,10 @@ College Success Simple Books
 
 - https://courses.lumenlearning.com/lumencollegesuccessxtraining2/
 
+Awesome List for Economics
+
+- https://project-awesome.org/antontarasenko/awesome-economics
+
 
 ## BWL
 
@@ -480,13 +484,18 @@ Public Economics and Finance
 
 ## Advanced
 
-Programming for Economics
+Wirtschaftsrecht
 
- - following
+- https://www.fau.tv/course/id/446.html
+- https://www.lecturio.de/wirtschaft/wirtschaftsrecht-privatrecht.kurs?pid=264
 
-Law for Economics
+Power and Politics in Todays World
 
-Questions of economic politics of today
+ - https://www.youtube.com/playlist?list=PLh9mgdi4rNeyViG2ar68jkgEi4y6doNZy
+
+New Economic Thinking
+
+ - https://www.youtube.com/user/INETeconomics
 
 Digitale Transformation
 
@@ -499,6 +508,7 @@ Digital Marketing from Google
 Leadership Skills
 
 - https://www.coursera.org/learn/leadership-skills
+- https://www.youtube.com/playlist?list=PLxq_lXOUlvQBKz9AGnj0F5M8H_fJkku8u
 
 Awesome Leading and Managing
 
