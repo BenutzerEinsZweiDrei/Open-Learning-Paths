@@ -3,36 +3,36 @@
 
 # Philosophie
 Alternativer Weg
-		- Philosophy by Reading Books Reddit - https://www.reddit.com/r/philosophy/wiki/readinglist#wiki_general_introductory_texts
+- Philosophy by Reading Books Reddit - https://www.reddit.com/r/philosophy/wiki/readinglist#wiki_general_introductory_texts
 
 ## Grundlagen
 Einstiegsvideos
 
 - Philosophie für Neulinge - https://www.youtube.com/playlist?list=PLbWr3tnmt67VfDoJKtX_CYU8xXUTdV7gq
-		- Crash Course Philosophy für Einsteiger - https://www.youtube.com/playlist?list=PL8dPuuaLjXtNgK6MZucdYldNkMybYIHKR
-		- Coursera Introduction to Philospohy - https://www.coursera.org/learn/philosophy?ranMID=40328&ranEAID=%2Fmi9sWvzvR8&ranSiteID=_mi9sWvzvR8-yYplLb27xFsDzLmDZBfBvg&siteID=_mi9sWvzvR8-yYplLb27xFsDzLmDZBfBvg&utm_content=10&utm_medium=partners&utm_source=linkshare&utm_campaign=%2Fmi9sWvzvR8
-		- Wireless Philosophy Introduction Videos - https://www.youtube.com/user/WirelessPhilosophy/playlists
+- Crash Course Philosophy für Einsteiger - https://www.youtube.com/playlist?list=PL8dPuuaLjXtNgK6MZucdYldNkMybYIHKR
+- Coursera Introduction to Philospohy - https://www.coursera.org/learn/philosophy?ranMID=40328&ranEAID=%2Fmi9sWvzvR8&ranSiteID=_mi9sWvzvR8-yYplLb27xFsDzLmDZBfBvg&siteID=_mi9sWvzvR8-yYplLb27xFsDzLmDZBfBvg&utm_content=10&utm_medium=partners&utm_source=linkshare&utm_campaign=%2Fmi9sWvzvR8
+- Wireless Philosophy Introduction Videos - https://www.youtube.com/user/WirelessPhilosophy/playlists
 
 Einstiegsbücher
 
-	Paper http://www.philolex.de/einfphil.htm
-	Paper https://blog.zeit.de/schueler/2013/09/19/einfuehrung-in-die-philosophie/
-	free Book Introduction https://open.bccampus.ca/browse-our-collection/find-open-textbooks/?uuid=24d4160c-c8b2-4f3b-9d5c-7203c92b790b&contributor&keyword&subject
-	free Book Introduction https://commons.bellevuecollege.edu/wrussellpayne/an-introduction-to-philosophy/
-	Introduction to Philosophy Book - https://open.umn.edu/opentextbooks/textbooks/598
+- Paper http://www.philolex.de/einfphil.htm
+- Paper https://blog.zeit.de/schueler/2013/09/19/einfuehrung-in-die-philosophie/
+- free Book Introduction https://open.bccampus.ca/browse-our-collection/find-open-textbooks/?uuid=24d4160c-c8b2-4f3b-9d5c-7203c92b790b&contributor&keyword&subject
+- free Book Introduction https://commons.bellevuecollege.edu/wrussellpayne/an-introduction-to-philosophy/
+- Introduction to Philosophy Book - https://open.umn.edu/opentextbooks/textbooks/598
 
 Alternativer Einstieg
 
-	10 Denker Kompakt https://www.stern.de/panorama/wissen/mensch/philosophie-zehn-denker-kompakt-3749076.html
-	Buch Richard David Precht wer bin ich und wenn ja wieviele
-	Film Sophies Welt
+- 10 Denker Kompakt https://www.stern.de/panorama/wissen/mensch/philosophie-zehn-denker-kompakt-3749076.html
+- Buch Richard David Precht wer bin ich und wenn ja wieviele
+- Film Sophies Welt
 
 Nachschlagewerk
 
-		Stanford Encyclopedia  - https://plato.stanford.edu/index.html
-		https://de.wikipedia.org/wiki/Portal:Philosophie
-        http://www.philolex.de/philolex.htm
-        http://www.philosophenlexikon.de/
+- Stanford Encyclopedia  - https://plato.stanford.edu/index.html
+- https://de.wikipedia.org/wiki/Portal:Philosophie
+-  http://www.philolex.de/philolex.htm
+-   http://www.philosophenlexikon.de/
 		
 ## Einführung
 
@@ -42,13 +42,13 @@ Einführung in Geschichte der Philosophie
  - http://electure.studiumdigitale.uni-frankfurt.de/index.php?cat=1&sem=5&videolist=217
  - https://www.youtube.com/playlist?list=PLNrDMx4WkLd8I5xjx7NmknDPGDAIqXDt-
  - Komplett https://www.youtube.com/playlist?list=PL9GwT4_YRZdBf9nIUHs0zjrnUVl-KBNSM
- - 
+
 Einführung in theoretische Philosophie
 
  - https://www.youtube.com/playlist?list=PLHwUrKo7SDpTLWpbXS36aJ4vYjjVXrOcA
  - https://www.youtube.com/playlist?list=PLBUdCOZnbWlImFlu1q5Ij8Qebm9Xbdqf9
  - https://www.youtube.com/playlist?list=PLZodxGp7gj90i1QK2pwtG-mlFhm0-Wuxj
- - 
+
 Einführung in praktische Philosophie
 
  - https://www.youtube.com/playlist?list=PLBUdCOZnbWlK9TF1eQofX5ImolL_eXvgW
@@ -218,7 +218,7 @@ Kritisches Denken
 				 
 				 
 ## Wahlmodule
-	Personen und Werke
+Personen und Werke
 	 - Versch Personen Vorlesungen https://www.youtube.com/playlist?list=PLfZkzMgLTWedHPyfIXTAG5m_RR5cmjYGx
 	 - Versch Werke Kurzvideos https://www.youtube.com/playlist?list=PLbWr3tnmt67Vmq5eZci4VPOtBzo2OctE5
 	 - Philosophie und Moderene Gesellschaft https://www.youtube.com/playlist?list=PLF_D2_tndvDxPyLZ2JuHNv2TFhDoc9oA7
@@ -230,13 +230,13 @@ Kritisches Denken
 	 - Carl Friedrich von Weizsäcker https://lecture2go.uni-hamburg.de/l2go/-/get/l/4816
 	 - Philosophie Augustins https://timms.uni-tuebingen.de/List/List?id=UT_201%5B67%5D_____00%5B12%5D_philaug_000_&Headline=Die%20Philosophie%20Augustins
 
-	 Richtungen
+Richtungen
 	 - Relativismus https://www.coursera.org/learn/relativism?ranMID=40328&ranEAID=%2Fmi9sWvzvR8&ranSiteID=_mi9sWvzvR8-HA.qp1wwmQ0VUe7KJopQDA&siteID=_mi9sWvzvR8-HA.qp1wwmQ0VUe7KJopQDA&utm_content=10&utm_medium=partners&utm_source=linkshare&utm_campaign=%2Fmi9sWvzvR8
 	 - Skeptizismus https://www.coursera.org/learn/skepticism?ranMID=40328&ranEAID=%2Fmi9sWvzvR8&ranSiteID=_mi9sWvzvR8-rcVlKCo8nW8k2ahwCAM8pQ&siteID=_mi9sWvzvR8-rcVlKCo8nW8k2ahwCAM8pQ&utm_content=10&utm_medium=partners&utm_source=linkshare&utm_campaign=%2Fmi9sWvzvR8
 	 - Pragmatism https://plato.stanford.edu/entries/pragmatism/
 	 - Realismus https://openlearnware.tu-darmstadt.de/collection/was-heisst-realismus-228
 	
-	Wirtschaftsphilosophie
+Wirtschaftsphilosophie
 	 - Philosphy of Economics https://www.youtube.com/playlist?list=PLHwUrKo7SDpTsPCfBE6SQ1hWe1ILiM7UE 
 	Ideologiekritik
 	 - Propaganda and Ideology in Everyday Life https://www.futurelearn.com/courses/propaganda?utm_source=RakutenMarketing&utm_medium=Affiliate&utm_campaign=3372145:Edukatico&utm_content=10:1&utm_term=UKNetwork&ranMID=42801&ranEAID=%2Fmi9sWvzvR8&ranSiteID=_mi9sWvzvR8-OllBeYwWkzb.mPrP5ECYIQ
