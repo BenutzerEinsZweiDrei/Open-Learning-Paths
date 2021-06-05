@@ -98,21 +98,25 @@ Mittelalter
  - Mittelalter https://www.youtube.com/playlist?list=PLxqtK4WevVmD1CX594Yp28WnvVQeZNspZ
 - Medieval https://www.youtube.com/playlist?list=PLS8vfA_ckeubG33pm_ngKvM89XucMNfDl
 - book https://hiw.kuleuven.be/en/study/prospective/OOCP/introduction-to-medieval-philosophy
+
 Neuzeit
-Neuzeit bis Kant
+
+1. Neuzeit bis Kant
 - https://www.youtube.com/playlist?list=PLSvsx8116eZh0pddUx2fGGXceexj0VHjb
  - Descartes to Kant Book https://opentextbc.ca/modernphilosophy/
  - Aufklärung Kurzvideos https://www.youtube.com/playlist?list=PL6cI1_8BvV-YlhdK0TyHqCGCVl7h66xsf
- Moderne 19. Jhd 20. Jhd
+
+2.  Moderne 19. Jhd 20. Jhd
+
 - Modern Philosophy https://www.youtube.com/playlist?list=PLS8vfA_ckeuYlEytOGGJNXPcY7QNa-VHy
  - Paper Einführung https://blog.zeit.de/schueler/2013/11/07/einfuhrung-in-philosophie-moderne/
  - Paper https://de.wikiversity.org/wiki/Benutzer:Jeanpol/philosophie
  - Paper https://de.wikiversity.org/wiki/Benutzer:Jeanpol/Geschichte_der_Philosophie#19._Jahrhundert
- - 19. Jhd versch. Personen https://www.youtube.com/playlist?list=PL6cI1_8BvV-YT5FgyP57nvsTEjsDKmD8M Marx Hegel Schelling Humboldt Schopenhauer Nietzsche https://de.wikipedia.org/wiki/Philosophie_des_19._Jahrhunderts
- - 20. Jhd Versch. Personen https://www.youtube.com/playlist?list=PLvhuEFK3eQ_C8v_Pw00s4iVI64Km2Zb4G https://de.wikipedia.org/wiki/Philosophie_des_20._Jahrhunderts
+ - Neunzehntes Jhd versch. Personen https://www.youtube.com/playlist?list=PL6cI1_8BvV-YT5FgyP57nvsTEjsDKmD8M Marx Hegel Schelling Humboldt Schopenhauer Nietzsche https://de.wikipedia.org/wiki/Philosophie_des_19._Jahrhunderts
+ - Zwanzigstes Jhd Versch. Personen https://www.youtube.com/playlist?list=PLvhuEFK3eQ_C8v_Pw00s4iVI64Km2Zb4G https://de.wikipedia.org/wiki/Philosophie_des_20._Jahrhunderts
 - https://www.edx.org/course/ideas-of-the-twentieth-century
 
-Gegenwart
+3. Gegenwart
 
 - Ein paar Videos https://www.srf.ch/kultur/gesellschaft-religion/filosofix/die-welt-neu-denken-philosophen-der-gegenwart
 - https://de.wikipedia.org/wiki/Philosophie_der_Gegenwart
@@ -185,21 +189,21 @@ Naturphilosophie
 	
 Ethik und Metaethik
 
-Moralphilosophie
+1. Moralphilosophie
 
 - Justice https://www.edx.org/course/justice-2?source=aw&awc=6798_1622877157_34b6758c365f644d6f0dd3dafafb9194&utm_source=aw&utm_medium=affiliate_partner&utm_content=text-link&utm_term=284447_Edukatico+GmbH
 
-Ethik
+2. Ethik
 
 - https://timms.uni-tuebingen.de/List/List?id=UT_201%5B67%5D_____00%5B12%5D_philob_000_&Headline=Philosophische%20Ethik
 - https://lecture2go.uni-hamburg.de/l2go/-/get/v/46481
 - https://www.youtube.com/playlist?list=PLH77zNaP0WKwneyCFViiCZIqp_LdTbsd3
 - 
-Angewandte Ethik
+3. Angewandte Ethik
 				
 - Aktuelle Kontroversen https://www.fau.tv/course/id/384.html
 
-Metaethik
+4. Metaethik
  - Überblick Paper https://uni-tuebingen.de/fileadmin/Uni_Tuebingen/Fakultaeten/PhiloGeschichte/Dokumente/Downloads/ver%C3%B6ffentlichungen/Metaethik.pdf
 - https://ocw.mit.edu/courses/linguistics-and-philosophy/24-230-meta-ethics-fall-2015/
 				 
