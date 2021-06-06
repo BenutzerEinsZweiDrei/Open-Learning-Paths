@@ -381,9 +381,9 @@ Additional
 
 # Economics
 
-Alternative Way in Learning for Readers
+Alternative Way
 
-- https://openstax.org/details/books/principles-economics-2e
+- https://github.com/dperconti/MOOC-MBA
 
 ## General Ressources
 
@@ -429,6 +429,7 @@ Awesome List for Economics
 Einstiegskurs
 
 - https://lecture2go.uni-hamburg.de/l2go/-/get/l/4980
+- for Readers https://openstax.org/details/books/principles-economics-2e
 
 Einführung in die BWL
 
