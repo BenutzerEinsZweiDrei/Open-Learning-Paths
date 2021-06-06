@@ -8,10 +8,6 @@ Auf dieser Seite
 
  - [Philosophie](#philosophie)
  - [Economics](#economics)
- - [Maths](#maths)
- - [Web Development](#web-development)
- - [Physics](#physics)
- - [Electrical Engineering](#electrical-engineering)
 
 Weitere
 
@@ -21,6 +17,10 @@ Weitere
  - [Software Engineer](#software-engineer)
  - [Environmental Science](#environmental-science)
  - [Sustainable Cities](#sustainable-cities)
+ - [Maths](#maths)
+ - [Web Development](#web-development)
+ - [Physics](#physics)
+ - [Electrical Engineering](#electrical-engineering)
 
 ## Qualität
 
