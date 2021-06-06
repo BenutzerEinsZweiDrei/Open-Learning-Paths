@@ -17,6 +17,9 @@ Weitere
  - [Environmental Science](#environmental-science)
  - [Sustainable Cities](#sustainable-cities)
 
+## Qualität
+
+Die Lernpfade beinhalten die Teilgebiete, die auch in einem regulären Bachelor Studium an einer Universität unterrichtet würden. Viele der Links führen zu veröffentlichten Vorlesungen von Universitäten als Videos. Alle Links wurden zusammen getragen - sind aber weitestgehend ungetestet. Hilf mit die Qualität dieser Lernpfade zu verbessern über Github Issues oder Pull Requests.
 
 # Philosophie
 
