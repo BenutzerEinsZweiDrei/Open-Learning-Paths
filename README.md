@@ -21,6 +21,7 @@ Weitere
  - [Physics](#physics)
  - [Electrical Engineering](#electrical-engineering)
  - [Cyber Security](#cyber-security)
+ - [Health Science](#health-science)
 
 ## Qualität
 
@@ -381,9 +382,11 @@ Additional
 
 # Economics
 
-Alternative Way
+Alternative Ways
 
 - https://github.com/dperconti/MOOC-MBA
+- https://www.mooclab.club/resources/categories/ba-core.55/?prefix_id=35
+- https://www.classcentral.com/report/free-online-mba-top-b-schools/
 
 ## General Ressources
 
@@ -394,6 +397,10 @@ Buisness English
 Maths for Economics
 
 - https://github.com/rossant/awesome-math
+
+General Education
+
+- https://www.mooclab.club/resources/categories/general-education.47/?prefix_id=35
 
 Statistics for Eonomics
 
@@ -599,6 +606,10 @@ https://i-kh.net/2021/03/20/electrical-engineering-study-plan/
 # Cyber Security
 
 https://www.cybersecuritydegrees.com/faq/obtain-cyber-security-education-free-moocs/
+
+# Health Science
+
+https://www.mooclab.club/resources/categories/health-science-core.66/
 
 
 
