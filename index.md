@@ -5,7 +5,6 @@ Dies sind Lernpfade für ein autodidaktisches Selbst-Studium. Es handelt sich um
 ## Lernpfade
 
 Auf dieser Seite
-
  - [Philosophie](#philosophie)
  - [Economics](#economics)
 
@@ -21,6 +20,8 @@ Weitere
  - [Web Development](#web-development)
  - [Physics](#physics)
  - [Electrical Engineering](#electrical-engineering)
+ - [Cyber Security](#cyber-security)
+ - [Health Science](#health-science)
 
 ## Qualität
 
@@ -381,9 +382,11 @@ Additional
 
 # Economics
 
-Alternative Way
+Alternative Ways
 
 - https://github.com/dperconti/MOOC-MBA
+- https://www.mooclab.club/resources/categories/ba-core.55/?prefix_id=35
+- https://www.classcentral.com/report/free-online-mba-top-b-schools/
 
 ## General Ressources
 
@@ -394,6 +397,10 @@ Buisness English
 Maths for Economics
 
 - https://github.com/rossant/awesome-math
+
+General Education
+
+- https://www.mooclab.club/resources/categories/general-education.47/?prefix_id=35
 
 Statistics for Eonomics
 
@@ -553,6 +560,8 @@ Awesome Leading and Managing
 
 https://github.com/ossu/computer-science
 
+https://teachyourselfcs.com/
+
 # Data Science
 
 https://github.com/ossu/data-science
@@ -573,6 +582,7 @@ https://github.com/hunglethanh9/environmental-science
 
 https://github.com/aniri/sustainable-cities-online-courses
 
+
 # Maths
 
 https://artofproblemsolving.com/store/list/aops-curriculum
@@ -592,6 +602,15 @@ https://www.susanrigetti.com/physics
 # Electrical Engineering
 
 https://i-kh.net/2021/03/20/electrical-engineering-study-plan/
+
+# Cyber Security
+
+https://www.cybersecuritydegrees.com/faq/obtain-cyber-security-education-free-moocs/
+
+# Health Science
+
+https://www.mooclab.club/resources/categories/health-science-core.66/
+
 
 
 [Back to top](#lernpfade)
