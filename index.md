@@ -8,6 +8,10 @@ Auf dieser Seite
 
  - [Philosophie](#philosophie)
  - [Economics](#economics)
+ - [Maths](#maths)
+ - [Web Development](#web-development)
+ - [Physics](#physics)
+ - [Electrical Engineering](#electrical-engineering)
 
 Weitere
 
@@ -26,6 +30,7 @@ Die Lernpfade beinhalten die Teilgebiete, die auch in einem regulären Bachelor 
 
 Alternativer Weg
 
+- Susan Rigettis Study Guide https://www.susanrigetti.com/philosophy
 - Philosophy by Reading Books Reddit - https://www.reddit.com/r/philosophy/wiki/readinglist#wiki_general_introductory_texts
 - Philosophy with Podcasts https://historyofphilosophy.net/all-episodes
 
@@ -566,5 +571,26 @@ https://github.com/hunglethanh9/environmental-science
 # Sustainable Cities
 
 https://github.com/aniri/sustainable-cities-online-courses
+
+# Maths
+
+https://artofproblemsolving.com/store/list/aops-curriculum
+
+https://github.com/shanirivers/open-source-mathematics-degree
+
+# Web Development
+
+https://github.com/TheOdinProject/curriculum
+
+# Physics
+
+https://www.goodtheorist.science/
+
+https://www.susanrigetti.com/physics
+
+# Electrical Engineering
+
+https://i-kh.net/2021/03/20/electrical-engineering-study-plan/
+
 
 [Back to top](#lernpfade)
