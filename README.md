@@ -20,6 +20,7 @@ Weitere
  - [Web Development](#web-development)
  - [Physics](#physics)
  - [Electrical Engineering](#electrical-engineering)
+ - [Cyber Security](#cyber-security)
 
 ## Qualität
 
@@ -594,6 +595,11 @@ https://www.susanrigetti.com/physics
 # Electrical Engineering
 
 https://i-kh.net/2021/03/20/electrical-engineering-study-plan/
+
+# Cyber Security
+
+https://www.cybersecuritydegrees.com/faq/obtain-cyber-security-education-free-moocs/
+
 
 
 [Back to top](#lernpfade)
