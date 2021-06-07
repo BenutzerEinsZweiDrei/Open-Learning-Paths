@@ -2,22 +2,10 @@
 
 Dies sind Lernpfade für ein autodidaktisches Selbststudium. Diese sollen ermöglichen das Wissen eines Studiums durch frei zugängliche Bildung zu erwerben. Es handelt sich mehrheitlich um Linklisten für MOOCs oder OER Materialien (Open Educational Ressources). Es wurde versucht möglichst kostenfreie Lernnmaterialien zusammenzustellen.
 
-## Alternativen
-
-Three Sites that offer a lot of online degree learning paths with free MOOCs:
-
-- https://www.coursebuffet.com/subjects
-- http://myeducationpath.com/paths/
-- https://github.com/ossu/
-
-You can always go over to MIT University; take a [degree chart](catalog.mit.edu/degree-charts/) and search for its courses in their [OCW Course Index](https://ocw.mit.edu/courses/).
-
-Khan Academy offers in-depth courses on various subjects for free. edX offers MicroBachelors and MicroMasters and various other Certificates for free. [Alison](https://alison.com/learning-paths) offers various learning paths and certificates for free. Udemy, Coursera, Udacity, Futurelearn and a lot of universities nowadays offer online degrees that you have to pay for.
-
-
 ## Lernpfade
 
 Auf dieser Seite
+
  - [Philosophie](#philosophie)
  - [Economics](#economics)
 
@@ -45,6 +33,14 @@ Weitere
 ## Qualität
 
 Die Lernpfade beinhalten die Teilgebiete, die auch in einem regulären Bachelor Studium an einer Universität unterrichtet würden. Viele der Links führen zu veröffentlichten Vorlesungen von (Top-) Universitäten als Videos / MOOC. Alle Links wurden zusammen getragen - sind aber weitestgehend ungetestet. Hilf mit die Qualität dieser Lernpfade zu verbessern über Github Issues oder Pull Requests.
+
+## Alternativen und Abgrenzung
+
+[Coursebuffet](https://www.coursebuffet.com/subjects) bietet viele Lernpfade, dabei werden aber nur Kurse nach ihrem Schwierigkeitsgrad sortiert. Auf [MyEducationPath](http://myeducationpath.com/paths/) können Nutzer eigene MOOC Lernpfade erstellen. Die [Open Source Society University](https://github.com/ossu/) bietet 3 Computer Studiengänge an mit hohem Qualitätsanspruch. Diese wurden hier aufgelistet.
+
+Khan Academy offers in-depth courses on various subjects for free but they are rarely on university level. edX offers MicroBachelors and MicroMasters and various other Certificates for free. [Alison](https://alison.com/learning-paths) offers various learning paths and certificates for free which you can often complete in one weekeend. Udemy, Coursera, Udacity, Futurelearn and a lot of universities nowadays offer online degrees that you have to pay for.
+
+You can always go over to MIT University; take a [degree chart](catalog.mit.edu/degree-charts/) and search for its courses in their [OCW Course Index](https://ocw.mit.edu/courses/).
 
 # Philosophie
 
