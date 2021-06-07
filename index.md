@@ -1,6 +1,18 @@
 # Open Education Universität
 
-Dies sind Lernpfade für ein autodidaktisches Selbst-Studium. Es handelt sich um Linklisten für OER Materialien (Open Educational Ressources).
+Dies sind Lernpfade für ein autodidaktisches Selbststudium. Diese sollen ermöglichen das Wissen eines Studiums durch frei zugängliche Bildung zu erwerben. Es handelt sich mehrheitlich um Linklisten für MOOCs oder OER Materialien (Open Educational Ressources). Es wurde versucht möglichst kostenfreie Lernnmaterialien zusammenzustellen.
+
+## Alternativen
+
+Two Sites that offer a lot of online degree learning paths with free MOOCs:
+
+- https://www.coursebuffet.com/subjects
+- http://myeducationpath.com/paths/
+
+You can always go over to MIT University; take a [degree chart](catalog.mit.edu/degree-charts/) and search for its courses in their [OCW Course Index](https://ocw.mit.edu/courses/).
+
+Khan Academy offers in-depth courses on various subjects for free. edX offers MicroBachelors and MicroMasters and various other Certificates for free. [Alison](https://alison.com/learning-paths) offers various learning paths and certificates for free. Udemy, Coursera, Udacity, Futurelearn and a lot of universities nowadays offer online degrees that you have to pay for.
+
 
 ## Lernpfade
 
@@ -22,16 +34,24 @@ Weitere
  - [Electrical Engineering](#electrical-engineering)
  - [Cyber Security](#cyber-security)
  - [Health Science](#health-science)
+ - [Psychology](#psychology)
+ - [Biology](#biology)
+ - [Robotics](#robotics)
+ - [Machine Learning](#machine-learning)
+ - [Game Programmer](#game-programmer)
+ - [Engineering](#engineering)
 
 ## Qualität
 
-Die Lernpfade beinhalten die Teilgebiete, die auch in einem regulären Bachelor Studium an einer Universität unterrichtet würden. Viele der Links führen zu veröffentlichten Vorlesungen von Universitäten als Videos. Alle Links wurden zusammen getragen - sind aber weitestgehend ungetestet. Hilf mit die Qualität dieser Lernpfade zu verbessern über Github Issues oder Pull Requests.
+Die Lernpfade beinhalten die Teilgebiete, die auch in einem regulären Bachelor Studium an einer Universität unterrichtet würden. Viele der Links führen zu veröffentlichten Vorlesungen von (Top-) Universitäten als Videos / MOOC. Alle Links wurden zusammen getragen - sind aber weitestgehend ungetestet. Hilf mit die Qualität dieser Lernpfade zu verbessern über Github Issues oder Pull Requests.
 
 # Philosophie
 
 Alternativer Weg
 
 - Susan Rigettis Study Guide https://www.susanrigetti.com/philosophy
+- Pathways to Philosophy http://www.philosophypathways.com/
+- How to self learn philosophy https://iamautodidact.com/how-to-self-learn-philosophy-the-complete-guide/
 - Philosophy by Reading Books Reddit - https://www.reddit.com/r/philosophy/wiki/readinglist#wiki_general_introductory_texts
 - Philosophy with Podcasts https://historyofphilosophy.net/all-episodes
 
@@ -387,6 +407,7 @@ Alternative Ways
 - https://github.com/dperconti/MOOC-MBA
 - https://www.mooclab.club/resources/categories/ba-core.55/?prefix_id=35
 - https://www.classcentral.com/report/free-online-mba-top-b-schools/
+- https://iamautodidact.com/how-to-self-learn-economics-the-complete-guide/
 
 ## General Ressources
 
@@ -566,6 +587,8 @@ https://teachyourselfcs.com/
 
 https://github.com/ossu/data-science
 
+https://github.com/airalcorn2/Michael-s-Data-Science-Curriculum
+
 # Bioinformatics
 
 https://github.com/ossu/bioinformatics
@@ -611,6 +634,29 @@ https://www.cybersecuritydegrees.com/faq/obtain-cyber-security-education-free-mo
 
 https://www.mooclab.club/resources/categories/health-science-core.66/
 
+# Psychology
+
+https://iamautodidact.com/how-to-self-learn-psychology-the-complete-guide/
+
+# Biology
+
+https://iamautodidact.com/can-you-teach-yourself-biology/
+
+# Robotics
+
+https://iamautodidact.com/can-you-teach-yourself-robotics/
+
+# Machine Learning
+
+https://github.com/off99555/machine-learning-curriculum
+
+# Game Programmer
+
+https://github.com/miloyip/game-programmer
+
+# Engineering
+
+https://www.engineer4free.com/
 
 
 [Back to top](#lernpfade)
