@@ -4,10 +4,11 @@ Dies sind Lernpfade für ein autodidaktisches Selbststudium. Diese sollen ermög
 
 ## Alternativen
 
-Two Sites that offer a lot of online degree learning paths with free MOOCs:
+Three Sites that offer a lot of online degree learning paths with free MOOCs:
 
 - https://www.coursebuffet.com/subjects
 - http://myeducationpath.com/paths/
+- https://github.com/ossu/
 
 You can always go over to MIT University; take a [degree chart](catalog.mit.edu/degree-charts/) and search for its courses in their [OCW Course Index](https://ocw.mit.edu/courses/).
 
