@@ -96,7 +96,7 @@ You can always go over to MIT University; take a [degree chart](catalog.mit.edu/
   * [Wahlmodule](#wahlmodule)
 
 <details>
-	<summary>&#10149;>Alternativer Weg</summary>
+	<summary>&#10149;Alternativer Weg</summary>
 	
 - Susan Rigettis Study Guide https://www.susanrigetti.com/philosophy
 - Pathways to Philosophy http://www.philosophypathways.com/
@@ -139,7 +139,8 @@ You can always go over to MIT University; take a [degree chart](catalog.mit.edu/
 
 </details>
 	
-Nachschlagewerk
+<details>
+	<summary>&#10149;Nachschlagewerk</summary>
 
 - Stanford Encyclopedia  - https://plato.stanford.edu/index.html
 - https://de.wikipedia.org/wiki/Portal:Philosophie
@@ -147,55 +148,74 @@ Nachschlagewerk
 -   http://www.philosophenlexikon.de/
 -   modern books from philosophers http://www.earlymoderntexts.com/texts
 		
+</details>
+
 ## Einführung
 
-Einführung in Geschichte der Philosophie
+<details>
+	<summary>&#10149;Einführung in Geschichte der Philosophie</summary>
 
  - https://www.youtube.com/playlist?list=PL4O7bFNxwUHq6wwBcw1p6VNLmhMzxfPuP
  - http://electure.studiumdigitale.uni-frankfurt.de/index.php?cat=1&sem=5&videolist=217
  - https://www.youtube.com/playlist?list=PLNrDMx4WkLd8I5xjx7NmknDPGDAIqXDt-
  - Komplett https://www.youtube.com/playlist?list=PL9GwT4_YRZdBf9nIUHs0zjrnUVl-KBNSM
 
-Einführung in theoretische Philosophie
+</details>
+
+<details>
+	<summary>&#10149;Einführung in theoretische Philosophie</summary>
 
  - https://www.youtube.com/playlist?list=PLHwUrKo7SDpTLWpbXS36aJ4vYjjVXrOcA
  - https://www.youtube.com/playlist?list=PLBUdCOZnbWlImFlu1q5Ij8Qebm9Xbdqf9
  - https://www.youtube.com/playlist?list=PLZodxGp7gj90i1QK2pwtG-mlFhm0-Wuxj
 
-Einführung in praktische Philosophie
+</details>
+
+<details>
+	<summary>&#10149;Einführung in praktische Philosophie</summary>
 
  - https://www.youtube.com/playlist?list=PLBUdCOZnbWlK9TF1eQofX5ImolL_eXvgW
  - https://www.youtube.com/playlist?list=PLLDsGZDNnTvDPD6vmIkAfPUjboy94YQzq
  - https://www.youtube.com/playlist?list=PLthgEimViqIlxphTiXHH8lmGElELCZqvd
 
+</details>
+
 ## Allgemeines
 
-Textinterpretation
+<details>
+	<summary>&#10149;Textinterpretation</summary>
 
  - Textformen in der Philosophie https://openlearnware.tu-darmstadt.de/collection/textformen-der-philosophie-217
  
-Philosophische Methode
+</details>
+
+<details>
+	<summary>&#10149;Philosophische Methode</summary>
 
  - https://de.wikipedia.org/wiki/Kategorie:Philosophische_Methode
 
-Argumentieren
+</details>
+
+<details>
+	<summary>&#10149;Argumentieren</summary>
 
  - Logik und Argumentation https://openlearnware.tu-darmstadt.de/collection/logik-und-argumentation-224
  - https://www.youtube.com/playlist?list=PLxqtK4WevVmAJDP7__Rizq_tmoWKt70ih
  
-Kritisches Denken
+</details>
+
+<details>
+	<summary>&#10149;Kritisches Denken</summary>
 
  - Critical Thinking https://www.youtube.com/playlist?list=PLBUdCOZnbWlLV8rlYgJi2gqVWg5JcyELA
  - https://www.edx.org/course/philosophy-and-critical-thinking
 
+ </details>
  
- 
-
-
-
 ## Geschichte
 
- Antike
+ <details>
+	<summary>&#10149;Antike</summary>
  
 - https://www.youtube.com/playlist?list=PLmbzLDB0GOlNJZ_U19CreR-b6T4M16oGC
 - https://www.youtube.com/playlist?list=PLxqtK4WevVmCIcVZJGqOg22pdDLYfRSeg
@@ -206,13 +226,19 @@ Kritisches Denken
  - https://www.youtube.com/playlist?list=PL4O7bFNxwUHq6wwBcw1p6VNLmhMzxfPuP
  - https://www.youtube.com/playlist?list=PLS8vfA_ckeuaq2DiFTGZsFQuGXJ6YSr8z
 
-Mittelalter
+</details>
+
+<details>
+	<summary>&#10149;Mittelalter</summary>
 
  - Mittelalter https://www.youtube.com/playlist?list=PLxqtK4WevVmD1CX594Yp28WnvVQeZNspZ
 - Medieval https://www.youtube.com/playlist?list=PLS8vfA_ckeubG33pm_ngKvM89XucMNfDl
 - book https://hiw.kuleuven.be/en/study/prospective/OOCP/introduction-to-medieval-philosophy
 
-Neuzeit
+</details>
+
+<details>
+	<summary>&#10149;Neuzeit</summary>
 
 1. Neuzeit bis Kant
 - https://www.youtube.com/playlist?list=PLSvsx8116eZh0pddUx2fGGXceexj0VHjb
@@ -239,9 +265,12 @@ Neuzeit
  - Uni zu Köln https://www.youtube.com/playlist?list=PL3586DCA69D1DAD5A
  - Zusammenstellung https://www.youtube.com/playlist?list=PL5rv0LxqofNopzpYOp6Gf25IUKoFqogAN
 
+</details>
+
 ## Theoretische Philosophie
 
-Logik
+<details>
+	<summary>&#10149;Logik</summary>
 
 1. Einführung in die formale Logik
 
@@ -261,48 +290,72 @@ Logik
 - Formale Logik https://www.youtube.com/playlist?list=PLHwUrKo7SDpQSH9Txz-3fEbKfCMORq8X9
 - https://www.futurelearn.com/courses/logic-the-philosophical-science-of-truth
 
-Erkenntnistheorie
+</details>
+
+<details>
+	<summary>&#10149;Erkenntnistheorie</summary>
 
 - Erkenntnistheorie und Wissenschaftstheorie https://www.youtube.com/playlist?list=PLHwUrKo7SDpTopKrKgq392CkbIgQQMuXN
 - https://www.youtube.com/playlist?list=PLEJ1VSP-rVPdn8vYrjivA3gNH-p3G6Xhl
 - https://www.youtube.com/playlist?list=PLEJ1VSP-rVPdCylgGvlBEA6kJU6v7yDGO
 - Erkenntnistheorie 2020 https://www.youtube.com/playlist?list=PLEJ1VSP-rVPdn8vYrjivA3gNH-p3G6Xhl
 				 
-Wissenschaftstheorie
+</details>
+
+<details>
+	<summary>&#10149;Wissenschaftstheorie</summary>
 
  - Was ist Wissenschaft https://www.youtube.com/playlist?list=PLnTXp9V_W8tpp5EbzyANavmMQdHuVR1P7
  - Philosophy of Science https://www.youtube.com/playlist?list=PLHwUrKo7SDpQQcNZ142H91Dby-kBkAe9V
 - Erkenntnistheorie und Wissenschaftstheorie https://www.youtube.com/playlist?list=PLHwUrKo7SDpTopKrKgq392CkbIgQQMuXN
  - https://www.youtube.com/playlist?list=PL4O7bFNxwUHpxnd77NrkTMeJV67vd1n_p
-				 
-Metaphysik und Ontologie
+			
+</details>
+
+<details>
+	<summary>&#10149;Metaphysik und Ontologie</summary>
 
  - https://www.youtube.com/playlist?list=PLHwUrKo7SDpSrOA0Bjg5CDFqnGj_e_w1d
  - https://timms.uni-tuebingen.de/List/List?id=UT_201%5B45%5D_____00%5B12%5D_metaphys_000_&Headline=Metaphysik
 				 
-Sprachphilosophie
+</details>
+
+<details>
+	<summary>&#10149;Sprachphilosophie</summary>
 
 - https://www.youtube.com/playlist?list=PLEJ1VSP-rVPcEAK9oqU6s5kKRUo6HAVET
 - Zusammenstellung https://www.youtube.com/playlist?list=PL8nE-9fMtiq2qK4rGyzQmCR_MlG6Bsvkh
 				 
-Philosophie des Geistes
+</details>
+
+<details>
+	<summary>&#10149;Philosophie des Geistes</summary>
 
 - https://timms.uni-tuebingen.de/tp/UT_20170424_001_philogeist_0001
 - Geist, Gehirn, Bewusstsein https://lecture2go.uni-hamburg.de/l2go/-/get/l/5132
 - https://www.youtube.com/playlist?list=PLZodxGp7gj92bENCwxnb4GZuCJODNYBED
 
-Naturphilosophie
+</details>
+
+<details>
+	<summary>&#10149;Naturphilosophie</summary>
 
 - Harald Lesch https://www.youtube.com/playlist?list=PLmDf0YliVUvEqkCmvp3BnOIxIoi_dPYa5
 - Naturphilosophie und Wissenschaftstheorie https://www.youtube.com/playlist?list=OLAK5uy_kmRVh-4jx-mTndOjzaUC_hPQUwxbnJBoA
 
-Ästhetik
+</details>
+
+<details>
+	<summary>&#10149;Ästhetik</summary>
 
 - Zusammenstellung https://www.youtube.com/playlist?list=PL2FVYhOW9KqIG_BIt_UAe6WqhMjW_oETG
 				
+</details>
+
 ## Praktische Philosophie
 	
-Ethik und Metaethik
+<details>
+	<summary>&#10149;Ethik und Metaethik</summary>
 
 1. Moralphilosophie
 
@@ -322,45 +375,67 @@ Ethik und Metaethik
  - Überblick Paper https://uni-tuebingen.de/fileadmin/Uni_Tuebingen/Fakultaeten/PhiloGeschichte/Dokumente/Downloads/ver%C3%B6ffentlichungen/Metaethik.pdf
 - https://ocw.mit.edu/courses/linguistics-and-philosophy/24-230-meta-ethics-fall-2015/
 				 
-Rechtsphilosophie
+</details>
+
+<details>
+	<summary>&#10149;Rechtsphilosophie</summary>
 
 - https://www.youtube.com/playlist?list=PLewWtnjxflqu5KuYVEBXBNTwQphlwDZQK
 				 
-Politische Philosophie
+</details>
+
+<details>
+	<summary>&#10149;Politische Philosophie</summary>
 
 - https://www.youtube.com/playlist?list=PLk_GxBAz3VM9wY2Awi8558W0YZVnBgjwk
 - https://www.youtube.com/playlist?list=PLLDsGZDNnTvBr60lqaUe7pCVy8grm7rvR
 - https://www.youtube.com/playlist?list=PLGuVb-05Yvmq22n5B1o3goiXTddUDzp8c		 
 				 
-Sozialphilosophie
+</details>
+
+<details>
+	<summary>&#10149;Sozialphilosophie</summary>
 
 - Paper https://vu.fernuni-hagen.de/lvuweb/lvu/file/FeU/KSW/2018SS/33434/oeffentlich/33434-6-01-S2+Vorschau.pdf
 				
-Anthropologie
+</details>
+
+<details>
+	<summary>&#10149;Anthropologie</summary>
 
 - https://timms.uni-tuebingen.de/List/List?id=UT_2016_____00%5B12%5D_philanth_000_&Headline=Phil.%20Anthropologie%20-%20Leib%20und%20Seele
 - Was ist der Mensch https://lecture2go.uni-hamburg.de/l2go/-/get/l/6013
 - https://www.youtube.com/playlist?list=PL5OyXsSIhtO-3TzztuH2F9HrvBfGFkgmS
 				 
-Religionsphilosophie
+</details>
+
+<details>
+	<summary>&#10149;Religionsphilosophie</summary>
 
 - https://timms.uni-tuebingen.de/List/List?id=UT_20%5B12%5D%5B90%5D_____00%5B12%5D_relphil_000_&Headline=Religionsphilosophie
 				 
-Geschichtsphilosophie
+</details>
+
+<details>
+	<summary>&#10149;Geschichtsphilosophie</summary>
 
 - https://av.tib.eu/media/31982
 - Eine Vorlesung https://www.youtube.com/watch?v=Y-kuhfP6zlk&list=PLLDsGZDNnTvAV-Hoa0YcwWSlzCaAdYvii
 				
-Kulturphilosophie
+</details>
+
+<details>
+	<summary>&#10149;Kulturphilosophie</summary>
 
 - https://lecture2go.uni-hamburg.de/l2go/-/get/v/27771
 - https://www.youtube.com/playlist?list=PLEJ1VSP-rVPeFvNHTLYClobgV4CyXJJwn
  
-				 
-				 
+</details>
+				 			 
 ## Wahlmodule
 
-Personen und Werke
+<details>
+	<summary>&#10149;Personen und Werke</summary>
 
 - Versch Personen Vorlesungen https://www.youtube.com/playlist?list=PLfZkzMgLTWedHPyfIXTAG5m_RR5cmjYGx
 - Versch Werke Kurzvideos https://www.youtube.com/playlist?list=PLbWr3tnmt67Vmq5eZci4VPOtBzo2OctE5
@@ -373,95 +448,158 @@ Personen und Werke
 - Carl Friedrich von Weizsäcker https://lecture2go.uni-hamburg.de/l2go/-/get/l/4816
  - Philosophie Augustins https://timms.uni-tuebingen.de/List/List?id=UT_201%5B67%5D_____00%5B12%5D_philaug_000_&Headline=Die%20Philosophie%20Augustins
 
-Richtungen
+</details>
+
+<details>
+	<summary>&#10149;Richtungen</summary>
 
 - Relativismus https://www.coursera.org/learn/relativism
  - Skeptizismus https://www.coursera.org/learn/skepticism
 - Pragmatism https://plato.stanford.edu/entries/pragmatism/
  - Realismus https://openlearnware.tu-darmstadt.de/collection/was-heisst-realismus-228
-	
-Wirtschaftsphilosophie
+
+</details>
+
+<details>
+	<summary>&#10149;Wirtschaftsphilosophie</summary>
 
 - Philosphy of Economics https://www.youtube.com/playlist?list=PLHwUrKo7SDpTsPCfBE6SQ1hWe1ILiM7UE 
 
-Ideologiekritik
+</details>
+
+<details>
+	<summary>&#10149;Ideologiekritik</summary>
 
 - Propaganda and Ideology in Everyday Life https://www.futurelearn.com/courses/propaganda
 
-Handlungsphilosophie
+</details>
+
+<details>
+	<summary>&#10149;Handlungsphilosophie</summary>
 
 - Handlung Argumente Realismus https://www.youtube.com/watch?v=IvL_DkOfroA&list=PLgoN3qG5DZH1QyypcqYmoTQyhhypw9KbC
 - https://www.youtube.com/playlist?list=PLgoN3qG5DZH1QyypcqYmoTQyhhypw9KbC
 	
-Soziologische Theorien
+</details>
+
+<details>
+	<summary>&#10149;Soziologische Theorien</summary>
 
 - https://www.youtube.com/playlist?list=PLthgEimViqInWzv7qMnseAbO3kMz5GKkK
 
-Kritische Theorie
+</details>
+
+<details>
+	<summary>&#10149;Kritische Theorie</summary>
 	
 - Einleitung Paper https://www.marxists.org/subject/frankfurt-school/index.htm
 - Guide Paper https://cla.purdue.edu/academic/english/theory/
 
-Internationale Beziehungen
+</details>
+
+<details>
+	<summary>&#10149;Internationale Beziehungen</summary>
+	
 - https://www.youtube.com/playlist?list=PLsUEDhdw74mI_7P0nqZSEKbqc9Y7Py4tL
 
-Leib Seele Problem
+</details>
+
+<details>
+	<summary>&#10149;Leib Seele Problem</summary>
+	
 - https://www.youtube.com/playlist?list=PLbWr3tnmt67V1sKpKB2CrTaO24w9K5qz-
 
-Feministische Philosophie
+</details>
+
+<details>
+	<summary>&#10149;Feministische Philosophie</summary>
+	
  - Frauen in der Antike https://www.youtube.com/playlist?list=PLmbzLDB0GOlNn_KedyuqlUj3CffI8NQrh
 - https://www.coursera.org/learn/feminism-social-justice
 
-Tiere
+</details>
 
+<details>
+	<summary>&#10149;Tiere</summary>
+	
  - https://www.youtube.com/playlist?list=PLmbzLDB0GOlMHHVqiWwtxkQ-W9WMuZOb4
  - https://www.edx.org/course/introduction-to-animal-ethics
 
-Technikphilosophie
+</details>
+
+<details>
+	<summary>&#10149;Technikphilosophie</summary>
 
 - https://www.futurelearn.com/courses/philosophy-of-technology
 	 
-Gendertheorie
+</details>
+
+<details>
+	<summary>&#10149;Gendertheorie</summary>
 
 - free book https://genderate.files.wordpress.com/2021/03/gender-theory-syllabus-1.pdf
 - Sceptiscism and Gender https://lecture2go.uni-hamburg.de/l2go/-/get/l/4826
 
-Emotionen
+</details>
+
+<details>
+	<summary>&#10149;Emotionen</summary>
 
 - https://www.coursera.org/learn/emotions
 
-Ist der Mensch frei?
+</details>
+
+<details>
+	<summary>&#10149;Ist der Mensch frei?</summary>
 
 - https://timms.uni-tuebingen.de/List/List?id=UT_2016_____00%5B12%5D_freiheit_000_&Headline=Ist%20der%20Mensch%20frei%3F%20Das%20Freiheitsproblem%20in%20philosophischer%20Sicht
 
-Philosophische Zwickmühlen Kontroversen
+</details>
+
+<details>
+	<summary>&#10149;Philosophische Zwickmühlen Kontroversen</summary>
 
  - https://lecture2go.uni-hamburg.de/l2go/-/get/v/18505
  - https://www.youtube.com/playlist?list=PLkCg3e67djg4HObKPmRJRvlrM4e2LZYzG
 	 
-Toleranz
+</details>
+
+<details>
+	<summary>&#10149;Toleranz</summary>
 
  - https://lecture2go.uni-hamburg.de/l2go/-/get/l/5111
 - https://lecture2go.uni-hamburg.de/l2go/-/get/v/20502
 	 
-Medizinethik
+</details>
+
+<details>
+	<summary>&#10149;Medizinethik</summary>
 
  - https://lecture2go.uni-hamburg.de/l2go/-/get/l/3769
 	 
-Philosophische Kosmologie
+</details>
+
+<details>
+	<summary>&#10149;Philosophische Kosmologie</summary>
 
 - https://timms.uni-tuebingen.de/List/List?id=UT_2020_____00%5B12%5D_philkos_000_&Headline=Philosophische%20Kosmologie
 	 
-Analytische Philosphie
+</details>
+
+<details>
+	<summary>&#10149;Analytische Philosphie</summary>
 
 - http://www.philolex.de/analphil.htm
 - https://www.philoclopedia.de/einzeldisziplinen/philosophie/analytische-philosophie/
 	 
-Additional
+</details>
+
+<details>
+	<summary>&#10149;Additional</summary>
 
 - https://ocw.mit.edu/courses/linguistics-and-philosophy/
 
-
+</details>
 
 # Economics
 
@@ -470,118 +608,184 @@ Additional
   * [VWL](#vwl)
   * [Advanced](#advanced)
 
-Alternative Ways
+<details>
+	<summary>&#10149;Alternative Ways</summary>
 
 - https://github.com/dperconti/MOOC-MBA
 - https://www.mooclab.club/resources/categories/ba-core.55/?prefix_id=35
 - https://www.classcentral.com/report/free-online-mba-top-b-schools/
 - https://iamautodidact.com/how-to-self-learn-economics-the-complete-guide/
 
+</details>
+
 ## General Ressources
 
-Buisness English
+<details>
+	<summary>&#10149;Buisness English</summary>
 
 - https://www.oxfordonlineenglish.com/free-business-english-lessons
 
-Maths for Economics
+</details>
+
+<details>
+	<summary>&#10149;Maths for Economics</summary>
 
 - https://github.com/rossant/awesome-math
 
-General Education
+</details>
+
+<details>
+	<summary>&#10149;General Education</summary>
 
 - https://www.mooclab.club/resources/categories/general-education.47/?prefix_id=35
 - Adult Basic Education Pathway https://bccampus.ca/projects/open-education/pathway-to-adult-basic-education/
 
-Statistics for Eonomics
+</details>
+
+<details>
+	<summary>&#10149;Statistics for Eonomics</summary>
 
 - https://studyflix.de/statistik
 
-How the Economics Machine Works Einstiegsvideo
+</details>
+
+<details>
+	<summary>&#10149;How the Economics Machine Works Einstiegsvideo</summary>
 
 - https://youtu.be/PHe0bXAIuk0
 
-Das Einmaleins der Wirtschaft
+</details>
+
+<details>
+	<summary>&#10149;Das Einmaleins der Wirtschaft</summary>
 
 - https://www.br.de/fernsehen/ard-alpha/sendungen/1-x-1-der-wirtschaft/1-x-1-der-wirtschaft102.html
 
-Career Soft Skills
+</details>
+
+<details>
+	<summary>&#10149;Career Soft Skills</summary>
 
 - https://www.youtube.com/c/GcflearnfreeOrgplus
 
-Scientific Writing
+</details>
+
+<details>
+	<summary>&#10149;Scientific Writing</summary>
 
 - https://www.youtube.com/watch?v=x33Km7hRzP0&list=PL8yeejfiNxNBT2rTomRjmWNlgh4DBmHST
 
-College Success Simple Books
+</details>
+
+<details>
+	<summary>&#10149;College Success Simple Books</summary>
 
 - https://courses.lumenlearning.com/lumencollegesuccessxtraining2/
 
-Awesome List for Economics
+</details>
+
+<details>
+	<summary>&#10149;Awesome List for Economics</summary>
 
 - https://project-awesome.org/antontarasenko/awesome-economics
 
+</details>
 
 ## BWL
 
-Einstiegskurs
+<details>
+	<summary>&#10149;Einstiegskurs</summary>
 
 - https://lecture2go.uni-hamburg.de/l2go/-/get/l/4980
 - for Readers https://openstax.org/details/books/principles-economics-2e
 
-Einführung in die BWL
+</details>
+
+<details>
+	<summary>&#10149;Einführung in die BWL</summary>
 
 - https://www.youtube.com/watch?v=HqbKjtxMrsI&list=PL-_cKNuVAYAWtIyJKuCrZPzpPld5eclu9
 
-Marketing
+</details>
+
+<details>
+	<summary>&#10149;Marketing</summary>
 
 - https://www.edukatico.org/de/kurs/marketing-grundlagen/click
 - https://mlecture.uni-bremen.de/ml/index.php?option=com_content&view=article&id=255
 
-Management
+</details>
+
+<details>
+	<summary>&#10149;Management</summary>
 
 - https://egs.zmml.uni-bremen.de/index.php/10?brsr=10
 - https://www.coursera.org/learn/wharton-social-human-capital?specialization=wharton-business-foundations
 
-Accounting
+</details>
+
+<details>
+	<summary>&#10149;Accounting</summary>
 
 - https://www.edx.org/course/financial-accounting-4
 - https://lecture2go.uni-hamburg.de/l2go/-/get/v/17304
 - https://www.coursera.org/learn/wharton-accounting?specialization=wharton-business-foundations
 
-Finance
+</details>
+
+<details>
+	<summary>&#10149;Finance</summary>
 
 - https://www.youtube.com/watch?v=-RskmhmNSXU&list=PLgwdHNUa6i6TXTYbqynZ66fplrEm_9zBm
 - https://www.youtube.com/watch?v=iYx75vVnzmo&list=PLrClginNzxmNfNG7gz5QyU38HbwSQnCa3
 - https://www.coursera.org/learn/wharton-finance?specialization=wharton-business-foundations
 
-Ethics
+</details>
+
+<details>
+	<summary>&#10149;Ethics</summary>
 
 - https://lecture2go.uni-hamburg.de/l2go/-/get/v/18823
 
-Buisness Processes
+</details>
+
+<details>
+	<summary>&#10149;Buisness Processes</summary>
 
 - https://mlecture.uni-bremen.de/ml/index.php?option=com_content&view=article&id=395
 - https://videoonline.edu.lmu.de/de/wintersemester-2011-2012/3240
 - https://www.futurelearn.com/courses/starting-a-business-4
 - https://www.coursera.org/learn/wharton-operations
 
+</details>
+
 ## VWL
 
-Einstiegskurs
+<details>
+	<summary>&#10149;Einstiegskurs</summary>
 
  - https://videoonline.edu.lmu.de/de/wintersemester-2016-2017/8159
 
-Einführung in die Volkswirtschaftslehre
+</details>
+
+<details>
+	<summary>&#10149;Einführung in die Volkswirtschaftslehre</summary>
 
  - https://www.youtube.com/watch?v=db4iEbHNKqU&list=PLrClginNzxmNEG0n3U65lo2fNO7PFUUPA
 
-Microeconomics
+</details>
+
+<details>
+	<summary>&#10149;Microeconomics</summary>
 
 - https://videoonline.edu.lmu.de/de/wintersemester-2017-2018/9622
 - https://www.khanacademy.org/economics-finance-domain/microeconomics
 - https://www.youtube.com/watch?list=PLUl4u3cNGP62oJSoqb4Rf-vZMGUBe59G-&v=_OkTw766oCs&feature=emb_logo
 
-Macroeconomics
+</details>
+
+<details>
+	<summary>&#10149;Macroeconomics</summary>
 
 - https://timms.uni-tuebingen.de/List/List?id=UT_201%5B89%5D_____00%5B12%5D_makrooeko_000_&Headline=Makro%C3%B6konomik%201
 - https://www.fau.tv/course/id/488.html
@@ -590,61 +794,97 @@ Macroeconomics
 - https://www.youtube.com/watch?v=p1RVce9DElI&list=PLUmHBswQv2jzQakfXMHGUo2keTyLnjEjG
 - https://www.youtube.com/playlist?list=PLdLiRaajwSXRcJxAeIHjVGukaJZoJtkXz
 
-Econometrics
+</details>
+
+<details>
+	<summary>&#10149;Econometrics</summary>
 
 - https://www.coursera.org/learn/enjoyable-econometrics
 - https://www.youtube.com/watch?v=M_5SLG7sUa0&list=PLwJRxp3blEvZyQBTTOMFRP_TDaSdly3gU
 
-Politics
+</details>
+
+<details>
+	<summary>&#10149;Politics</summary>
 
 - https://www.youtube.com/playlist?list=PL303D52E352C0B7D9&feature=plcp
 - https://www.youtube.com/playlist?list=PLUdzcjP6CshNeFb8wGQfMJeEfGvwiR3PN
 
-Public Economics and Finance
+</details>
+
+<details>
+	<summary>&#10149;Public Economics and Finance</summary>
 
 - https://www.youtube.com/watch?list=PL2SOU6wwxB0v3c46v2ptuDKIHmXHRAmeU&v=wjuKvgQv51Y&feature=emb_logo
 
+</details>
 
 ## Advanced
 
-Wirtschaftsrecht
+<details>
+	<summary>&#10149;Wirtschaftsrecht</summary>
 
 - https://www.fau.tv/course/id/446.html
 - https://www.lecturio.de/wirtschaft/wirtschaftsrecht-privatrecht.kurs?pid=264
 
-Technology Entrepreneurship
+</details>
+
+<details>
+	<summary>&#10149;Technology Entrepreneurship</summary>
 
 - https://www.youtube.com/playlist?list=PLF6C0319C607DEDC1
 
-Power and Politics in Todays World
+</details>
+
+<details>
+	<summary>&#10149;Power and Politics in Todays World</summary>
 
  - https://www.youtube.com/playlist?list=PLh9mgdi4rNeyViG2ar68jkgEi4y6doNZy
 
-Google Talks to Economics
+</details>
+
+<details>
+	<summary>&#10149;Google Talks to Economics</summary>
 
 - https://talksat.withgoogle.com/search?c=economics
 
-New Economic Thinking
+</details>
+
+<details>
+	<summary>&#10149;New Economic Thinking</summary>
 
  - https://www.youtube.com/user/INETeconomics
 
-Digitale Transformation
+</details>
+
+<details>
+	<summary>&#10149;Digitale Transformation</summary>
 
  - https://www.coursera.org/learn/bcg-uva-darden-digital-transformation
 
-Digital Marketing from Google
+</details>
+
+<details>
+	<summary>&#10149;Digital Marketing from Google</summary>
 
 - https://learndigital.withgoogle.com/digitalgarage/courses?category=digital_marketing
 
-Leadership Skills
+</details>
+
+<details>
+	<summary>&#10149;Leadership Skills</summary>
 
 - https://www.coursera.org/learn/leadership-skills
 - https://www.youtube.com/playlist?list=PLxq_lXOUlvQBKz9AGnj0F5M8H_fJkku8u
 
-Awesome Leading and Managing
+</details>
+
+<details>
+	<summary>&#10149;Awesome Leading and Managing</summary>
 
 - https://github.com/LappleApple/awesome-leading-and-managing#readme
 
+</details>
 
 # Computer Science
 
