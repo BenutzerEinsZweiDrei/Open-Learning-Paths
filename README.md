@@ -54,6 +54,11 @@ Weitere
  - [Game Programmer](#game-programmer)
  - [Engineering](#engineering)
  - [Assosciate of Science](#assosciate-of-science)
+ - [Accounting](#accounting)
+ - [Buisness Administration](#buisness-administration)
+ - [Software Development](#software-development)
+ - [Neurology](#neurology)
+ - 
 
 ## Qualität
 
@@ -63,7 +68,7 @@ Die Lernpfade beinhalten die Teilgebiete, die auch in einem regulären Bachelor 
 
 Two generel learning ressources that you should know, but dont cover learning paths are [FreeLearningList](https://freelearninglist.org/) and [NoExcuseList](http://noexcuselist.com/). 
 
-[Coursebuffet](https://www.coursebuffet.com/subjects) bietet viele Lernpfade, dabei werden aber nur Kurse nach ihrem Schwierigkeitsgrad sortiert. Auf [MyEducationPath](http://myeducationpath.com/paths/) können Nutzer eigene MOOC Lernpfade erstellen. Die [Open Source Society University](https://github.com/ossu/) hat eine aktive Community und bietet 3 Computer Studiengänge an mit hohem Qualitätsanspruch. Diese wurden hier aufgelistet.
+[Coursebuffet](https://www.coursebuffet.com/subjects) bietet viele Lernpfade, dabei werden aber nur Kurse nach ihrem Schwierigkeitsgrad sortiert. Auf [MyEducationPath](http://myeducationpath.com/paths/) können Nutzer eigene MOOC Lernpfade erstellen. Die Besten wurden hier hinzugefügt. Die [Open Source Society University](https://github.com/ossu/) hat eine aktive Community und bietet 3 Computer Studiengänge an mit hohem Qualitätsanspruch. Diese wurden hier aufgelistet.
 
 Khan Academy and [Simple Studies](https://www.studie.xyz/) offers in-depth courses on various subjects for free but they are rarely on university level. edX offers MicroBachelors and MicroMasters and various other Certificates for free. [Alison](https://alison.com/learning-paths) offers various learning paths and certificates for free which you can often complete in one weekeend. Udemy, [Coursera](https://blog.coursera.org/introducing-career-learning-paths/), Udacity, Futurelearn and a lot of universities nowadays offer online degrees that you have to pay for. For example the [Open University](http://www.openuniversity.edu) and the [University of the People](https://www.uopeople.edu) cost around 4800$ to 26000$.
 
@@ -599,6 +604,8 @@ You can always go over to MIT University; take a [degree chart](https://catalog.
 - https://www.mooclab.club/resources/categories/ba-core.55/?prefix_id=35
 - https://www.classcentral.com/report/free-online-mba-top-b-schools/
 - https://iamautodidact.com/how-to-self-learn-economics-the-complete-guide/
+- http://myeducationpath.com/paths/22/bachelor-of-science-in-business-with-degree-assigned.htm
+- http://myeducationpath.com/paths/29/coursera-advance-diploma-in-economics-finance.htm
 
 </details>
 
@@ -909,6 +916,10 @@ https://github.com/shanirivers/open-source-mathematics-degree
 
 https://github.com/sturrion/maths-learning-path
 
+http://myeducationpath.com/paths/13/mathematics.htm
+
+http://myeducationpath.com/paths/4/applied-mathematics.htm
+
 # Web Development
 
 https://github.com/TheOdinProject/curriculum
@@ -920,6 +931,8 @@ https://www.goodtheorist.science/
 https://www.susanrigetti.com/physics
 
 https://github.com/sturrion/physics-learning-path
+
+http://myeducationpath.com/paths/17/physics.htm
 
 # Electrical Engineering
 
@@ -960,6 +973,22 @@ https://www.engineer4free.com/
 # Assosciate of Science
 
 https://bccampus.ca/projects/open-education/pathway-to-associate-of-science-degree/
+
+# Accounting
+
+http://myeducationpath.com/paths/3/accounting.htm
+
+# Buisness Administration
+
+http://myeducationpath.com/paths/9/business-administration.htm
+
+# Software Development
+
+http://myeducationpath.com/paths/7/software-development.htm
+
+# Neurology
+
+http://myeducationpath.com/paths/131/neurology.htm
 
 
 [Back to top](#lernpfade)  |  [View on Github](https://github.com/BenutzerEinsZweiDrei/BenutzerEinsZweiDrei.github.io)
