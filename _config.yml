@@ -1,4 +1,6 @@
 theme: jekyll-theme-cayman
+title: Open Education Universität
+logo:
 markdown: CommonMarkGhPages
 commonmark:
   options: ["SMART", "FOOTNOTES"]
