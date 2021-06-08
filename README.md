@@ -958,4 +958,4 @@ https://www.engineer4free.com/
 https://bccampus.ca/projects/open-education/pathway-to-associate-of-science-degree/
 
 
-[Back to top](#lernpfade)
+[Back to top](#lernpfade)  |  [View on Github](https://github.com/BenutzerEinsZweiDrei/BenutzerEinsZweiDrei.github.io)
