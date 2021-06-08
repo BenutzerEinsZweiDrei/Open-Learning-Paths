@@ -1,6 +1,6 @@
 # Open Education Universität
 
-Dies sind Lernpfade für ein autodidaktisches Selbststudium. Diese sollen ermöglichen das Wissen eines Studiums durch frei zugängliche Bildung zu erwerben. Es handelt sich mehrheitlich um Linklisten für MOOCs oder OER Materialien (Open Educational Ressources). Es wurde versucht möglichst kostenfreie Lernnmaterialien zusammenzustellen.
+Dies sind Lernpfade für ein autodidaktisches Selbststudium. Diese sollen ermöglichen das Wissen eines Studiums durch frei zugängliche Bildungmaterialien zu erwerben. Es handelt sich mehrheitlich um Linklisten für Video Vorlesungen / MOOCs (Massive Open Online Courses) oder OER Ressourcen (Open Educational Ressources). Es wurde versucht möglichst kostenfreie Lernnmaterialien zusammenzustellen.
 
 <details>
 	<summary>&#10149;Table of Contents</summary>
@@ -60,6 +60,8 @@ Weitere
 Die Lernpfade beinhalten die Teilgebiete, die auch in einem regulären Bachelor Studium an einer Universität unterrichtet würden. Viele der Links führen zu veröffentlichten Vorlesungen von (Top-) Universitäten als Videos / MOOC. Alle Links wurden zusammen getragen - sind aber weitestgehend ungetestet. Hilf mit die Qualität dieser Lernpfade zu verbessern über Github Issues oder Pull Requests.
 
 ## Alternativen und Abgrenzung
+
+Two generel learning ressources that you should know, but dont cover learning paths are [FreeLearningList](https://freelearninglist.org/) and [NoExcuseList](http://noexcuselist.com/). 
 
 [Coursebuffet](https://www.coursebuffet.com/subjects) bietet viele Lernpfade, dabei werden aber nur Kurse nach ihrem Schwierigkeitsgrad sortiert. Auf [MyEducationPath](http://myeducationpath.com/paths/) können Nutzer eigene MOOC Lernpfade erstellen. Die [Open Source Society University](https://github.com/ossu/) bietet 3 Computer Studiengänge an mit hohem Qualitätsanspruch. Diese wurden hier aufgelistet.
 
