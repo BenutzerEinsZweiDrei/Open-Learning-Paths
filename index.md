@@ -5,6 +5,7 @@ Dies sind Lernpfade für ein autodidaktisches Selbststudium. Diese sollen ermög
 <details>
 <summary>Table of Contents</summary>
 	
+<pre>
 - [Open Education Universität](#open-education-universit-t)
   * [Lernpfade](#lernpfade)
   * [Qualität](#qualit-t)
@@ -42,6 +43,7 @@ Dies sind Lernpfade für ein autodidaktisches Selbststudium. Diese sollen ermög
 - [Engineering](#engineering)
 - [Assosciate of Science](#assosciate-of-science)
 	
+</pre>
 </details>
 
 ## Lernpfade
