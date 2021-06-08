@@ -3,55 +3,44 @@
 Dies sind Lernpfade für ein autodidaktisches Selbststudium. Diese sollen ermöglichen das Wissen eines Studiums durch frei zugängliche Bildung zu erwerben. Es handelt sich mehrheitlich um Linklisten für MOOCs oder OER Materialien (Open Educational Ressources). Es wurde versucht möglichst kostenfreie Lernnmaterialien zusammenzustellen.
 
 <details>
-<summary>Table of Contents</summary>
+	<summary>Table of Contents</summary>
 	
-<ul>
-  <li><a href="#open-education-universität">Open Education Universität</a>
-    <ul>
-      <li><a href="#lernpfade">Lernpfade</a></li>
-      <li><a href="#qualität">Qualität</a></li>
-      <li><a href="#alternativen-und-abgrenzung">Alternativen und Abgrenzung</a></li>
-    </ul>
-  </li>
-  <li><a href="#philosophie">Philosophie</a>
-    <ul>
-      <li><a href="#grundlagen">Grundlagen</a></li>
-      <li><a href="#einf-hrung">Einführung</a></li>
-      <li><a href="#allgemeines">Allgemeines</a></li>
-      <li><a href="#geschichte">Geschichte</a></li>
-      <li><a href="#theoretische-philosophie">Theoretische Philosophie</a></li>
-      <li><a href="#praktische-philosophie">Praktische Philosophie</a></li>
-      <li><a href="#wahlmodule">Wahlmodule</a></li>
-    </ul>
-  </li>
-  <li><a href="#economics">Economics</a>
-    <ul>
-      <li><a href="#general-ressources">General Ressources</a></li>
-      <li><a href="#bwl">BWL</a></li>
-      <li><a href="#vwl">VWL</a></li>
-      <li><a href="#advanced">Advanced</a></li>
-    </ul>
-  </li>
-  <li><a href="#computer-science">Computer Science</a></li>
-  <li><a href="#data-science">Data Science</a></li>
-  <li><a href="#bioinformatics">Bioinformatics</a></li>
-  <li><a href="#software-engineer">Software Engineer</a></li>
-  <li><a href="#environmental-science">Environmental Science</a></li>
-  <li><a href="#sustainable-cities">Sustainable Cities</a></li>
-  <li><a href="#maths">Maths</a></li>
-  <li><a href="#web-development">Web Development</a></li>
-  <li><a href="#physics">Physics</a></li>
-  <li><a href="#electrical-engineering">Electrical Engineering</a></li>
-  <li><a href="#cyber-security">Cyber Security</a></li>
-  <li><a href="#health-science">Health Science</a></li>
-  <li><a href="#psychology">Psychology</a></li>
-  <li><a href="#biology">Biology</a></li>
-  <li><a href="#robotics">Robotics</a></li>
-  <li><a href="#machine-learning">Machine Learning</a></li>
-  <li><a href="#game-programmer">Game Programmer</a></li>
-  <li><a href="#engineering">Engineering</a></li>
-  <li><a href="#assosciate-of-science">Assosciate of Science</a></li>
-</ul>
+- [Open Education Universität](#open-education-universität)
+  * [Lernpfade](#lernpfade)
+  * [Qualität](#qualität)
+  * [Alternativen und Abgrenzung](#alternativen-und-abgrenzung)
+- [Philosophie](#philosophie)
+  * [Grundlagen](#grundlagen)
+  * [Einführung](#einf-hrung)
+  * [Allgemeines](#allgemeines)
+  * [Geschichte](#geschichte)
+  * [Theoretische Philosophie](#theoretische-philosophie)
+  * [Praktische Philosophie](#praktische-philosophie)
+  * [Wahlmodule](#wahlmodule)
+- [Economics](#economics)
+  * [General Ressources](#general-ressources)
+  * [BWL](#bwl)
+  * [VWL](#vwl)
+  * [Advanced](#advanced)
+- [Computer Science](#computer-science)
+- [Data Science](#data-science)
+- [Bioinformatics](#bioinformatics)
+- [Software Engineer](#software-engineer)
+- [Environmental Science](#environmental-science)
+- [Sustainable Cities](#sustainable-cities)
+- [Maths](#maths)
+- [Web Development](#web-development)
+- [Physics](#physics)
+- [Electrical Engineering](#electrical-engineering)
+- [Cyber Security](#cyber-security)
+- [Health Science](#health-science)
+- [Psychology](#psychology)
+- [Biology](#biology)
+- [Robotics](#robotics)
+- [Machine Learning](#machine-learning)
+- [Game Programmer](#game-programmer)
+- [Engineering](#engineering)
+- [Assosciate of Science](#assosciate-of-science)
 	
 </details>
 
