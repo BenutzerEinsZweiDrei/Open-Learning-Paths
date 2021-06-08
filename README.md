@@ -106,13 +106,14 @@ You can always go over to MIT University; take a [degree chart](catalog.mit.edu/
   * [Praktische Philosophie](#praktische-philosophie)
   * [Wahlmodule](#wahlmodule)
 
-Alternativer Weg
-
+<details>
+	<summary>Alternativer Weg</summary>
 - Susan Rigettis Study Guide https://www.susanrigetti.com/philosophy
 - Pathways to Philosophy http://www.philosophypathways.com/
 - How to self learn philosophy https://iamautodidact.com/how-to-self-learn-philosophy-the-complete-guide/
 - Philosophy by Reading Books Reddit - https://www.reddit.com/r/philosophy/wiki/readinglist#wiki_general_introductory_texts
 - Philosophy with Podcasts https://historyofphilosophy.net/all-episodes
+<details>
 
 ## Grundlagen
 Einstiegsvideos
