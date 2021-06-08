@@ -96,7 +96,7 @@ You can always go over to MIT University; take a [degree chart](catalog.mit.edu/
   * [Wahlmodule](#wahlmodule)
 
 <details>
-	<summary>Alternativer Weg</summary>
+	<summary>&#10149;>Alternativer Weg</summary>
 	
 - Susan Rigettis Study Guide https://www.susanrigetti.com/philosophy
 - Pathways to Philosophy http://www.philosophypathways.com/
@@ -107,7 +107,9 @@ You can always go over to MIT University; take a [degree chart](catalog.mit.edu/
 </details>
 
 ## Grundlagen
-Einstiegsvideos
+
+<details>
+	<summary>&#10149;Einstiegsvideos</summary>
 
 - Philosophie für Neulinge - https://www.youtube.com/playlist?list=PLbWr3tnmt67VfDoJKtX_CYU8xXUTdV7gq
 - Crash Course Philosophy für Einsteiger - https://www.youtube.com/playlist?list=PL8dPuuaLjXtNgK6MZucdYldNkMybYIHKR
@@ -115,7 +117,10 @@ Einstiegsvideos
 - Wireless Philosophy Introduction Videos - https://www.youtube.com/user/WirelessPhilosophy/playlists
 - Einige Philosophy Explanations https://www.youtube.com/c/thephilosophytube/playlists
 
-Einstiegsbücher
+</details>
+
+<details>
+	<summary>&#10149;Einstiegsbücher</summary>
 
 - Paper http://www.philolex.de/einfphil.htm
 - Paper https://blog.zeit.de/schueler/2013/09/19/einfuehrung-in-die-philosophie/
@@ -123,12 +128,17 @@ Einstiegsbücher
 - free Book Introduction https://commons.bellevuecollege.edu/wrussellpayne/an-introduction-to-philosophy/
 - Introduction to Philosophy Book - https://open.umn.edu/opentextbooks/textbooks/598
 
-Alternativer Einstieg
+</details>
+
+<details>
+	<summary>&#10149;Alternativer Einstieg</summary>
 
 - 10 Denker Kompakt https://www.stern.de/panorama/wissen/mensch/philosophie-zehn-denker-kompakt-3749076.html
 - Buch Richard David Precht wer bin ich und wenn ja wieviele
 - Film Sophies Welt
 
+</details>
+	
 Nachschlagewerk
 
 - Stanford Encyclopedia  - https://plato.stanford.edu/index.html
