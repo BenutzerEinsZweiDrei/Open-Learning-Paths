@@ -2,3 +2,6 @@ theme: jekyll-theme-cayman
 title: OpenEd
 logo:
 markdown: CommonMarkGhPages
+commonmark:
+  options: ["SMART", "FOOTNOTES"]
+  extensions: ["strikethrough", "autolink", "table", "tagfilter"]
