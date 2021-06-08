@@ -3,9 +3,12 @@
 Dies sind Lernpfade für ein autodidaktisches Selbststudium. Diese sollen ermöglichen das Wissen eines Studiums durch frei zugängliche Bildung zu erwerben. Es handelt sich mehrheitlich um Linklisten für MOOCs oder OER Materialien (Open Educational Ressources). Es wurde versucht möglichst kostenfreie Lernnmaterialien zusammenzustellen.
 
 <details>
-<summary>Table of Contents</summary>
 	
-<pre>
+<summary>
+	Table of Contents
+</summary>
+	
+
 - [Open Education Universität](#open-education-universit-t)
   * [Lernpfade](#lernpfade)
   * [Qualität](#qualit-t)
@@ -43,7 +46,7 @@ Dies sind Lernpfade für ein autodidaktisches Selbststudium. Diese sollen ermög
 - [Engineering](#engineering)
 - [Assosciate of Science](#assosciate-of-science)
 	
-</pre>
+
 </details>
 
 ## Lernpfade
