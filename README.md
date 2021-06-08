@@ -11,7 +11,7 @@ Dies sind Lernpfade für ein autodidaktisches Selbststudium. Diese sollen ermög
   * [Alternativen und Abgrenzung](#alternativen-und-abgrenzung)
 - [Philosophie](#philosophie)
   * [Grundlagen](#grundlagen)
-  * [Einführung](#einf-hrung)
+  * [Einführung](#einführung)
   * [Allgemeines](#allgemeines)
   * [Geschichte](#geschichte)
   * [Theoretische Philosophie](#theoretische-philosophie)
@@ -35,29 +35,32 @@ Auf dieser Seite
 
 Weitere
 
+ - [Assosciate of Science](#assosciate-of-science)
+ - [Psychology](#psychology)
+ - [Biology](#biology)
+ - [Engineering](#engineering)
+ - [Neurology](#neurology)
+ - [Environmental Science](#environmental-science)
+ - [Sustainable Cities](#sustainable-cities)
+ - [Maths](#maths)
+ - [Physics](#physics)
+ - [Electrical Engineering](#electrical-engineering)
+ - [Health Science](#health-science)
+
+Weitere in IT
+
  - [Computer Science](#computer-science)
  - [Data Science](#data-science)
  - [Bioinformatics](#bioinformatics)
  - [Software Engineer](#software-engineer)
- - [Environmental Science](#environmental-science)
- - [Sustainable Cities](#sustainable-cities)
- - [Maths](#maths)
  - [Web Development](#web-development)
- - [Physics](#physics)
- - [Electrical Engineering](#electrical-engineering)
  - [Cyber Security](#cyber-security)
- - [Health Science](#health-science)
- - [Psychology](#psychology)
- - [Biology](#biology)
  - [Robotics](#robotics)
  - [Machine Learning](#machine-learning)
  - [Game Programmer](#game-programmer)
- - [Engineering](#engineering)
- - [Assosciate of Science](#assosciate-of-science)
  - [Accounting](#accounting)
  - [Buisness Administration](#buisness-administration)
  - [Software Development](#software-development)
- - [Neurology](#neurology)
 
 
 ## Qualität
