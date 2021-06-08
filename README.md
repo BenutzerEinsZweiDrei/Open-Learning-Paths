@@ -884,6 +884,8 @@ https://github.com/airalcorn2/Michael-s-Data-Science-Curriculum
 
 https://github.com/ossu/bioinformatics
 
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3441465/
+
 # Software Engineer
 
 https://github.com/jwasham/coding-interview-university
