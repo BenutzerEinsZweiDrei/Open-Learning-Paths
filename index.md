@@ -29,6 +29,7 @@ Weitere
  - [Machine Learning](#machine-learning)
  - [Game Programmer](#game-programmer)
  - [Engineering](#engineering)
+ - [Assosciate of Science](#assosciate-of-science)
 
 ## Qualität
 
@@ -38,7 +39,7 @@ Die Lernpfade beinhalten die Teilgebiete, die auch in einem regulären Bachelor 
 
 [Coursebuffet](https://www.coursebuffet.com/subjects) bietet viele Lernpfade, dabei werden aber nur Kurse nach ihrem Schwierigkeitsgrad sortiert. Auf [MyEducationPath](http://myeducationpath.com/paths/) können Nutzer eigene MOOC Lernpfade erstellen. Die [Open Source Society University](https://github.com/ossu/) bietet 3 Computer Studiengänge an mit hohem Qualitätsanspruch. Diese wurden hier aufgelistet.
 
-Khan Academy offers in-depth courses on various subjects for free but they are rarely on university level. edX offers MicroBachelors and MicroMasters and various other Certificates for free. [Alison](https://alison.com/learning-paths) offers various learning paths and certificates for free which you can often complete in one weekeend. Udemy, Coursera, Udacity, Futurelearn and a lot of universities nowadays offer online degrees that you have to pay for.
+Khan Academy offers in-depth courses on various subjects for free but they are rarely on university level. edX offers MicroBachelors and MicroMasters and various other Certificates for free. [Alison](https://alison.com/learning-paths) offers various learning paths and certificates for free which you can often complete in one weekeend. Udemy, [Coursera](https://blog.coursera.org/introducing-career-learning-paths/), Udacity, Futurelearn and a lot of universities nowadays offer online degrees that you have to pay for.
 
 You can always go over to MIT University; take a [degree chart](catalog.mit.edu/degree-charts/) and search for its courses in their [OCW Course Index](https://ocw.mit.edu/courses/).
 
@@ -57,7 +58,7 @@ Einstiegsvideos
 
 - Philosophie für Neulinge - https://www.youtube.com/playlist?list=PLbWr3tnmt67VfDoJKtX_CYU8xXUTdV7gq
 - Crash Course Philosophy für Einsteiger - https://www.youtube.com/playlist?list=PL8dPuuaLjXtNgK6MZucdYldNkMybYIHKR
-- Coursera Introduction to Philospohy - https://www.coursera.org/learn/philosophy?ranMID=40328&ranEAID=%2Fmi9sWvzvR8&ranSiteID=_mi9sWvzvR8-yYplLb27xFsDzLmDZBfBvg&siteID=_mi9sWvzvR8-yYplLb27xFsDzLmDZBfBvg&utm_content=10&utm_medium=partners&utm_source=linkshare&utm_campaign=%2Fmi9sWvzvR8
+- Coursera Introduction to Philospohy - https://www.coursera.org/learn/philosophy
 - Wireless Philosophy Introduction Videos - https://www.youtube.com/user/WirelessPhilosophy/playlists
 - Einige Philosophy Explanations https://www.youtube.com/c/thephilosophytube/playlists
 
@@ -122,7 +123,7 @@ Argumentieren
 Kritisches Denken
 
  - Critical Thinking https://www.youtube.com/playlist?list=PLBUdCOZnbWlLV8rlYgJi2gqVWg5JcyELA
- - https://www.edx.org/course/philosophy-and-critical-thinking?source=aw&awc=6798_1622876189_266ad755d4fc59e4329bd8d8c6554b96&utm_source=aw&utm_medium=affiliate_partner&utm_content=text-link&utm_term=284447_Edukatico+GmbH
+ - https://www.edx.org/course/philosophy-and-critical-thinking
 
  
  
@@ -137,7 +138,7 @@ Kritisches Denken
 - https://www.youtube.com/playlist?list=PLxqtK4WevVmCIcVZJGqOg22pdDLYfRSeg
 - Litosophie https://www.youtube.com/playlist?list=PLRS2k2rE3bDLj8cZH8eCQsJmb_-Hr5mPf
 - SalmPhilosophie https://www.youtube.com/playlist?list=PLrp3WCgdWumi1ou58Gzf_vJWPbRVrde1Q
-- Acient Philosophy https://www.coursera.org/learn/plato?ranMID=40328&ranEAID=%2Fmi9sWvzvR8&ranSiteID=_mi9sWvzvR8-pI2wkYg3GhczLf6AvRXATQ&siteID=_mi9sWvzvR8-pI2wkYg3GhczLf6AvRXATQ&utm_content=10&utm_medium=partners&utm_source=linkshare&utm_campaign=%2Fmi9sWvzvR8
+- Acient Philosophy https://www.coursera.org/learn/plato
 - Kurzvideos https://www.youtube.com/playlist?list=PLbWr3tnmt67UTht8J_X7kAICy9evHgNBz
  - https://www.youtube.com/playlist?list=PL4O7bFNxwUHq6wwBcw1p6VNLmhMzxfPuP
  - https://www.youtube.com/playlist?list=PLS8vfA_ckeuaq2DiFTGZsFQuGXJ6YSr8z
@@ -161,8 +162,10 @@ Neuzeit
  - Paper Einführung https://blog.zeit.de/schueler/2013/11/07/einfuhrung-in-philosophie-moderne/
  - Paper https://de.wikiversity.org/wiki/Benutzer:Jeanpol/philosophie
  - Paper https://de.wikiversity.org/wiki/Benutzer:Jeanpol/Geschichte_der_Philosophie#19._Jahrhundert
- - Neunzehntes Jhd versch. Personen https://www.youtube.com/playlist?list=PL6cI1_8BvV-YT5FgyP57nvsTEjsDKmD8M Marx Hegel Schelling Humboldt Schopenhauer Nietzsche https://de.wikipedia.org/wiki/Philosophie_des_19._Jahrhunderts
- - Zwanzigstes Jhd Versch. Personen https://www.youtube.com/playlist?list=PLvhuEFK3eQ_C8v_Pw00s4iVI64Km2Zb4G https://de.wikipedia.org/wiki/Philosophie_des_20._Jahrhunderts
+ - Neunzehntes Jhd versch. Personen https://www.youtube.com/playlist?list=PL6cI1_8BvV-YT5FgyP57nvsTEjsDKmD8M 
+ - https://de.wikipedia.org/wiki/Philosophie_des_19._Jahrhunderts
+ - Zwanzigstes Jhd Versch. Personen https://www.youtube.com/playlist?list=PLvhuEFK3eQ_C8v_Pw00s4iVI64Km2Zb4G 
+ - https://de.wikipedia.org/wiki/Philosophie_des_20._Jahrhunderts
 - https://www.edx.org/course/ideas-of-the-twentieth-century
 
 3. Gegenwart
@@ -193,7 +196,7 @@ Logik
 3. Philosophie der Logik
 
 - Formale Logik https://www.youtube.com/playlist?list=PLHwUrKo7SDpQSH9Txz-3fEbKfCMORq8X9
-- https://www.futurelearn.com/courses/logic-the-philosophical-science-of-truth?utm_source=RakutenMarketing&utm_medium=Affiliate&utm_campaign=3372145:Edukatico&utm_content=10:1&utm_term=UKNetwork&ranMID=42801&ranEAID=%2Fmi9sWvzvR8&ranSiteID=_mi9sWvzvR8-xggrJJBZnC53cQnmwLYQlw
+- https://www.futurelearn.com/courses/logic-the-philosophical-science-of-truth
 
 Erkenntnistheorie
 
@@ -240,7 +243,7 @@ Ethik und Metaethik
 
 1. Moralphilosophie
 
-- Justice https://www.edx.org/course/justice-2?source=aw&awc=6798_1622877157_34b6758c365f644d6f0dd3dafafb9194&utm_source=aw&utm_medium=affiliate_partner&utm_content=text-link&utm_term=284447_Edukatico+GmbH
+- Justice https://www.edx.org/course/justice-2
 
 2. Ethik
 
@@ -309,8 +312,8 @@ Personen und Werke
 
 Richtungen
 
-- Relativismus https://www.coursera.org/learn/relativism?ranMID=40328&ranEAID=%2Fmi9sWvzvR8&ranSiteID=_mi9sWvzvR8-HA.qp1wwmQ0VUe7KJopQDA&siteID=_mi9sWvzvR8-HA.qp1wwmQ0VUe7KJopQDA&utm_content=10&utm_medium=partners&utm_source=linkshare&utm_campaign=%2Fmi9sWvzvR8
- - Skeptizismus https://www.coursera.org/learn/skepticism?ranMID=40328&ranEAID=%2Fmi9sWvzvR8&ranSiteID=_mi9sWvzvR8-rcVlKCo8nW8k2ahwCAM8pQ&siteID=_mi9sWvzvR8-rcVlKCo8nW8k2ahwCAM8pQ&utm_content=10&utm_medium=partners&utm_source=linkshare&utm_campaign=%2Fmi9sWvzvR8
+- Relativismus https://www.coursera.org/learn/relativism
+ - Skeptizismus https://www.coursera.org/learn/skepticism
 - Pragmatism https://plato.stanford.edu/entries/pragmatism/
  - Realismus https://openlearnware.tu-darmstadt.de/collection/was-heisst-realismus-228
 	
@@ -320,7 +323,7 @@ Wirtschaftsphilosophie
 
 Ideologiekritik
 
-- Propaganda and Ideology in Everyday Life https://www.futurelearn.com/courses/propaganda?utm_source=RakutenMarketing&utm_medium=Affiliate&utm_campaign=3372145:Edukatico&utm_content=10:1&utm_term=UKNetwork&ranMID=42801&ranEAID=%2Fmi9sWvzvR8&ranSiteID=_mi9sWvzvR8-OllBeYwWkzb.mPrP5ECYIQ
+- Propaganda and Ideology in Everyday Life https://www.futurelearn.com/courses/propaganda
 
 Handlungsphilosophie
 
@@ -344,16 +347,16 @@ Leib Seele Problem
 
 Feministische Philosophie
  - Frauen in der Antike https://www.youtube.com/playlist?list=PLmbzLDB0GOlNn_KedyuqlUj3CffI8NQrh
-- https://www.coursera.org/learn/feminism-social-justice?ranMID=40328&ranEAID=%2Fmi9sWvzvR8&ranSiteID=_mi9sWvzvR8-32IGMJY5YfA2zbAuhaGmeQ&siteID=_mi9sWvzvR8-32IGMJY5YfA2zbAuhaGmeQ&utm_content=10&utm_medium=partners&utm_source=linkshare&utm_campaign=%2Fmi9sWvzvR8
+- https://www.coursera.org/learn/feminism-social-justice
 
 Tiere
 
  - https://www.youtube.com/playlist?list=PLmbzLDB0GOlMHHVqiWwtxkQ-W9WMuZOb4
- - https://www.edx.org/course/introduction-to-animal-ethics?source=aw&awc=6798_1622876783_439aad1628b2c4b3acc61b0e1576e6c3&utm_source=aw&utm_medium=affiliate_partner&utm_content=text-link&utm_term=284447_Edukatico+GmbH
+ - https://www.edx.org/course/introduction-to-animal-ethics
 
 Technikphilosophie
 
-- https://www.futurelearn.com/courses/philosophy-of-technology?utm_source=RakutenMarketing&utm_medium=Affiliate&utm_campaign=3372145:Edukatico&utm_content=10:1&utm_term=UKNetwork&ranMID=42801&ranEAID=%2Fmi9sWvzvR8&ranSiteID=_mi9sWvzvR8-GB1Ku4R7ns8MW6uyTcp0yQ
+- https://www.futurelearn.com/courses/philosophy-of-technology
 	 
 Gendertheorie
 
@@ -362,7 +365,7 @@ Gendertheorie
 
 Emotionen
 
-- https://www.coursera.org/learn/emotions?ranMID=40328&ranEAID=%2Fmi9sWvzvR8&ranSiteID=_mi9sWvzvR8-6GogHk9KoWD0zNbg15tjjQ&siteID=_mi9sWvzvR8-6GogHk9KoWD0zNbg15tjjQ&utm_content=10&utm_medium=partners&utm_source=linkshare&utm_campaign=%2Fmi9sWvzvR8
+- https://www.coursera.org/learn/emotions
 
 Ist der Mensch frei?
 
@@ -419,6 +422,7 @@ Maths for Economics
 General Education
 
 - https://www.mooclab.club/resources/categories/general-education.47/?prefix_id=35
+- Adult Basic Education Pathway https://bccampus.ca/projects/open-education/pathway-to-adult-basic-education/
 
 Statistics for Eonomics
 
@@ -609,6 +613,8 @@ https://artofproblemsolving.com/store/list/aops-curriculum
 
 https://github.com/shanirivers/open-source-mathematics-degree
 
+https://github.com/sturrion/maths-learning-path
+
 # Web Development
 
 https://github.com/TheOdinProject/curriculum
@@ -618,6 +624,8 @@ https://github.com/TheOdinProject/curriculum
 https://www.goodtheorist.science/
 
 https://www.susanrigetti.com/physics
+
+https://github.com/sturrion/physics-learning-path
 
 # Electrical Engineering
 
@@ -654,6 +662,10 @@ https://github.com/miloyip/game-programmer
 # Engineering
 
 https://www.engineer4free.com/
+
+# Assosciate of Science
+
+https://bccampus.ca/projects/open-education/pathway-to-associate-of-science-degree/
 
 
 [Back to top](#lernpfade)
