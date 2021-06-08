@@ -87,6 +87,14 @@ You can always go over to MIT University; take a [degree chart](catalog.mit.edu/
 
 # Philosophie
 
+  * [Grundlagen](#grundlagen)
+  * [Einführung](#einf-hrung)
+  * [Allgemeines](#allgemeines)
+  * [Geschichte](#geschichte)
+  * [Theoretische Philosophie](#theoretische-philosophie)
+  * [Praktische Philosophie](#praktische-philosophie)
+  * [Wahlmodule](#wahlmodule)
+
 Alternativer Weg
 
 - Susan Rigettis Study Guide https://www.susanrigetti.com/philosophy
@@ -443,6 +451,11 @@ Additional
 
 
 # Economics
+
+  * [General Ressources](#general-ressources)
+  * [BWL](#bwl)
+  * [VWL](#vwl)
+  * [Advanced](#advanced)
 
 Alternative Ways
 
