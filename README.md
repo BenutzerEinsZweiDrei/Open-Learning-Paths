@@ -58,7 +58,7 @@ Weitere
  - [Buisness Administration](#buisness-administration)
  - [Software Development](#software-development)
  - [Neurology](#neurology)
- - 
+
 
 ## Qualität
 
