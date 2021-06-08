@@ -65,7 +65,7 @@ Die Lernpfade beinhalten die Teilgebiete, die auch in einem regulären Bachelor 
 
 Khan Academy offers in-depth courses on various subjects for free but they are rarely on university level. edX offers MicroBachelors and MicroMasters and various other Certificates for free. [Alison](https://alison.com/learning-paths) offers various learning paths and certificates for free which you can often complete in one weekeend. Udemy, [Coursera](https://blog.coursera.org/introducing-career-learning-paths/), Udacity, Futurelearn and a lot of universities nowadays offer online degrees that you have to pay for. For example the [Open University](http://www.openuniversity.edu) and the [University of the People](https://www.uopeople.edu) cost around 4800$ to 26000$.
 
-You can always go over to MIT University; take a [degree chart](catalog.mit.edu/degree-charts/) and search for its courses in their [OCW Course Index](https://ocw.mit.edu/courses/).
+You can always go over to MIT University; take a [degree chart](https://catalog.mit.edu/degree-charts/) and search for its courses in their [OCW Course Index](https://ocw.mit.edu/courses/).
 
 # Philosophie
 
