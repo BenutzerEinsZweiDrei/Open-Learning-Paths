@@ -22,6 +22,13 @@ Dies sind Lernpfade für ein autodidaktisches Selbststudium. Diese sollen ermög
   * [BWL](#bwl)
   * [VWL](#vwl)
   * [Advanced](#advanced)
+- [Psychologie](#psychologie)
+  * [Studieneingang](#studieneingang)
+  * [Grundlagenfächer](#grundlagenfächer)
+  * [Methodenlehre](#methodenlehre)
+  * [Angewandte Psychologie](#angewandte-psychologie)
+  * [Vertiefungen](#vertiefungen)
+  * [Wahlmodule](#wahlmodule)
 - [Weitere Lernpfade](#computer-science)
 	
 </details>
@@ -881,6 +888,367 @@ You can always go over to MIT University; take a [degree chart](https://catalog.
 - https://github.com/LappleApple/awesome-leading-and-managing#readme
 
 </details>
+
+# Psychologie
+
+  * [Studieneingang](#studieneingang)
+  * [Grundlagenfächer](#grundlagenfächer)
+  * [Methodenlehre](#methodenlehre)
+  * [Angewandte Psychologie](#angewandte-psychologie)
+  * [Vertiefungen](#vertiefungen)
+  * [Wahlmodule](#wahlmodule)
+
+<details>
+	<summary>Alternative Wege</summary>
+	
+- https://iamautodidact.com/how-to-self-learn-psychology-the-complete-guide/
+- https://psychologie.de/studium/open-learning-open-science/e-learning/#Teilgebietsspezifische-Angebote
+- https://www.youtube.com/c/VirtualUniversityPakistan/playlists
+- https://docs.google.com/spreadsheets/d/1IOr7jInR6SFTUHRXrlldB_dUQrWjEHEnHcIwDlx_AZg/edit#gid=0
+- https://www.verywellmind.com/learn-psychology-2795592
+	
+</details>
+
+## Studieneingang
+
+<details>
+	<summary>&#10149;Einstieg</summary>
+	
+ - psychologeek https://www.youtube.com/channel/UClimlKiB3xLJlpP1BbzfXSA/featured
+ - Crash Course https://www.youtube.com/playlist?list=PL8dPuuaLjXtOPRKzVLY0jJY-uHOH9KVU6
+ - https://www.youtube.com/watch?v=NuBDqjyP_oA
+ - https://www.youtube.com/watch?v=1phRLKoyAvY
+ - https://www.youtube.com/watch?v=jpCBfXcnHQw
+	
+</details>
+
+<details>
+	<summary>&#10149;Einführung in die Psychologie</summary>
+	
+ - https://www.youtube.com/playlist?list=PL44ABC9278E2EE706
+ - https://timms.uni-tuebingen.de/List/List?id=UT_20%5B12%5D%5B90%5D_____00%5B12%5D_psycho_000_&Headline=Einf%C3%BChrung%20in%20die%20Psychologie
+ - https://www.lecturio.de/medizin/einfuehrung-psychologie.kurs?pid=264
+ - https://ocw.mit.edu/courses/brain-and-cognitive-sciences/9-00sc-introduction-to-psychology-fall-2011/
+ - https://www.coursera.org/learn/introduction-psych
+ - https://www.youtube.com/channel/UCD5GQBoWsWBL3dAulK71XEg/videos
+ - https://www.youtube.com/playlist?list=PL44ABC9278E2EE706
+ - Book https://openstax.org/details/books/psychology-2e
+ - Hörbuch https://www.youtube.com/playlist?list=OLAK5uy_kcflZICEkQm-iOIfyg4Vu2_cnPep9Cu54
+ - Paper https://memucho.de/Einfuehrung-in-die-Psychologie/932
+ - Lernplattform http://www.lern-psychologie.de/
+ - Lernplattform https://learn.canvas.net/courses/65/modules
+ - Lernplattform https://www.learner.org/series/discovering-psychology/
+	
+</details>
+
+<details>
+	<summary>&#10149;Psychologie als Wissenschaft</summary>
+	
+ - https://www.youtube.com/playlist?list=PL4O7bFNxwUHpxnd77NrkTMeJV67vd1n_p
+ - https://www.youtube.com/watch?v=2J3DLFMsGaE
+	
+</details>
+
+<details>
+	<summary>&#10149;Geschichte der Psychologie</summary>
+	
+ - https://www.futurelearn.com/courses/history-science-psychology
+ - Paper https://courses.lumenlearning.com/atd-bhcc-intropsych/chapter/history-of-psychology/
+ - Freud https://www.lecturio.de/medizin/freud-psychoanalyse.kurs
+ - Verschiedene Videos https://www.youtube.com/playlist?list=PLxoLPZqbvRIpwfcOa3kJ0Xt_xzEFSOdY8
+
+</details>
+
+<details>
+	<summary>&#10149;Ressourcen</summary>
+	
+ - Lexikon https://dorsch.hogrefe.com/
+ - Lexikon https://lexikon.stangl.eu/
+ - Awesome Psychology https://github.com/weeeBox/awesome-psychology
+ - Awesome Social Engineering https://github.com/v2-dev/awesome-social-engineering
+
+</details>
+
+## Grundlagenfächer
+
+<details>
+	<summary>&#10149;Allgemeine Psychologie</summary>
+	
+ - https://www.youtube.com/playlist?list=PLFX_EwFvKKWNfG98mjs5SA_A7iNA9P8-f
+ - https://www.youtube.com/playlist?list=PLK3eIt61XPo2hD-Ud1uy9oCN98UaUP6_D
+ - Verschiedene Videos https://www.youtube.com/playlist?list=PLY21JVL2Hhbq4VxuuDAxbcW5JM8Lt16Uw
+ - Verschiedene Videos https://www.youtube.com/playlist?list=PLsSZu-n49w1MqDuTuq249zmNIrQEHQRmN
+ - Kurzvideos https://www.youtube.com/playlist?list=PLwfvrjoV7AmHPfiWCIuxVECKER4LPm3MU
+ - Kurzvideos https://www.youtube.com/playlist?list=PL_1vlszGElqnZjWV2yFtNh_Ipwzdo_OAJ
+ - Kurzvideos https://www.youtube.com/playlist?list=PLwfvrjoV7AmH8Ce31ZinADSlBxUdHR5XK
+ - Kurzvideos https://www.youtube.com/playlist?list=PL_1vlszGElqnFNxqgjYUXuAnTZAs_pdZp
+ - Paper https://memucho.de/Allgemeine-Psychologie-Studium/265
+ - Buch https://archive.org/details/bub_gb_ici1AAAAIAAJ/mode/2up
+ - Paper https://www.psychologie.uni-heidelberg.de/ae/allg/lehre/skripte.html
+	
+</details>
+
+<details>
+	<summary>&#10149;Biologische Psychologie</summary>
+	
+ - https://www.youtube.com/playlist?list=PLwvJ43Jc6KSgxzJtsU933w4MiNo-Relb0
+ - https://www.youtube.com/playlist?list=PLMwddpZ_3nkAWijQlBnkwnr9wfcuderVe
+ - https://www.youtube.com/channel/UCBwgyFHg9R8sGvEi1jv93Aw/videos
+ - Verschiedene Videos https://www.youtube.com/playlist?list=PLxoLPZqbvRIrH2p3qx8aWXMdlWVPcAMIk
+ - Verschiedene Videos https://www.youtube.com/playlist?list=PLxoLPZqbvRIrH2p3qx8aWXMdlWVPcAMIk
+
+</details>
+
+<details>
+	<summary>&#10149;Differentielle und Persönlichkeitspsychologie</summary>
+
+ - https://www.youtube.com/playlist?list=PLRYFl6RFOLJdLj-xD-4cAOw1-qjy-MPVG
+ - Verschiedene Videos https://www.youtube.com/playlist?list=PLxoLPZqbvRIpwvWCJnWbrHEvpLmsTER0V
+ - Verschiedene Videos https://www.youtube.com/playlist?list=PLdPcmDM9L7hHcrnx5zPhUkeEIY0k02Thq
+ - Verschiedene Videos https://www.youtube.com/playlist?list=PLqNqsEZwFXyYO6NyeNHITcsflAAQpuxXd
+ - Paper https://www.teachsam.de/psy/psy_pers/psy_pers0.htm
+ - https://www.youtube.com/playlist?list=PLFX_EwFvKKWMW5EaZVAmGL3bIz9WVHPgN
+
+</details>
+
+<details>
+	<summary>&#10149;Entwicklungspsychologie</summary>
+	
+ - https://www.lecturio.de/medizin/entwicklungspsychologie.kurs?pid=264
+ - https://www.edx.org/course/introduction-to-developmental-psychology
+ - https://www.edx.org/course/psychology-of-personal-growth
+ - Verschiedene Videos https://www.youtube.com/playlist?list=PLxoLPZqbvRIqyBir5p1tIiEV22mlHQaxp
+ - Verschiedene Videos https://www.youtube.com/playlist?list=PL8whm7AGv2VSTWja3b0vavNYs4ntGob-f
+ - Verschiedene Videos https://www.youtube.com/playlist?list=PLXodyhkH9U8cFDgRzZ-CNZJPey4l8112n
+ - Verschiedene Videos https://www.youtube.com/playlist?list=PL7K9tB28X4QF1sfawLFwFBprTkfBvBfzF
+
+</details>
+
+<details>
+	<summary>&#10149;Sozialpsychologie</summary>
+	
+ - https://videoonline.edu.lmu.de/de/sommersemester-2008/03
+ - https://www.coursera.org/learn/social-psychology
+ - http://electure.studiumdigitale.uni-frankfurt.de/index.php?cat=1&videolist=1049
+ - https://www.youtube.com/watch?v=LOdKBns0KL4&list=PLyO_pzmRk9cP3Lc8beXj1WrSulSeN1dtF&index=2
+ - https://www.youtube.com/playlist?list=PLanjs8ek9qQHcCJjOiPUUwlEv5g8ub7aK
+ - Verschiedene Videos https://www.youtube.com/playlist?list=PLdk2daGVaaqcQ1vDK31zHpW9hNMvz1T1m
+ - https://www.youtube.com/playlist?list=PLjC2h4kdrY9Tn3bcMiHAblCkquqXeyQKj
+ - https://www.youtube.com/playlist?list=PLFX_EwFvKKWOSzEKoaD0uMoq2uB5w3NTQ
+
+</details>
+
+## Methodenlehre
+
+<details>
+	<summary>&#10149;Statistik</summary>
+	
+ - https://www.lecturio.de/medizin/statistik-psychologie.kurs?pid=264
+ - https://openlearnware.tu-darmstadt.de/collection/statistik-i-fur-human-und-sozialwissenschaft-282
+ - Verschiedene Videos https://www.youtube.com/playlist?list=PLxoLPZqbvRIrS_Vu_wr_BNMKmTWO7Q8fz
+ - https://www.youtube.com/watch?v=ycgMqSRZthk
+ - deskriptive Statistik https://www.youtube.com/playlist?list=PLT8sNozm-d__Z50V6Wzu_KPQaRfpYY31G
+ - Kurzvideos https://www.youtube.com/playlist?list=PLWxcH_ZbKPA1TFDB9CPGKfZj7LFl47HLu
+ - Tutorium https://www.youtube.com/channel/UCtBEklAtHHji2V1TsaTzZXw/playlists
+ - Online Book https://www.crumplab.com/statistics/
+
+</details>
+
+<details>
+	<summary>&#10149;Forschungsmethoden</summary>
+	
+ - https://timms.uni-tuebingen.de/List/List?id=UT_2015_____00%5B12%5D_ebisoz_000_&Headline=Empirische%20Bildungs-%20und%20Sozialforschung
+ - https://www.edx.org/course/introduction-to-psychological-research-methods
+ - https://www.coursera.org/learn/quantitative-methods
+ - https://www.youtube.com/playlist?list=PL4O7bFNxwUHpxnd77NrkTMeJV67vd1n_p
+ - Testtheorie und Testkonstruktion https://www.youtube.com/playlist?list=PLRYFl6RFOLJeuANAmAE7DEDOe0zwGJfjo
+
+</details>
+
+<details>
+	<summary>&#10149;Diagnostik</summary>
+	
+ - https://www.coursera.org/learn/psychodiagnostics
+ - Kurzvideos https://www.youtube.com/playlist?list=PL20iMRylq59kzdWvj0fb5VoayUlkaIm53
+ - Kurzvideos https://www.youtube.com/playlist?list=PLgwdHNUa6i6QjzMrJmuxvwUmrZ8rSkRAt
+
+</details>
+
+## Angewandte Psychologie
+
+<details>
+	<summary>&#10149;Klinische Psychologie</summary>
+	
+ - https://www.youtube.com/playlist?list=PLFX_EwFvKKWMO9YuRpFOTZb8s43Xdlu1X
+ - https://www.edx.org/course/introduction-to-clinical-psychology
+ - https://www.youtube.com/watch?v=iLV4x5SnA0s&list=PLyO_pzmRk9cP3Lc8beXj1WrSulSeN1dtF&index=6
+ - Verschiedene Videos https://www.youtube.com/playlist?list=PLxoLPZqbvRIqi5ehtNPWByudDzYqUMJTa
+ - Hörbuch https://www.youtube.com/watch?v=C4emO3YxJNI&list=PLwti7Ek7GIofcbWD5opMK9ZCe43ZQVK7-&index=5
+
+</details>
+
+<details>
+	<summary>&#10149;Arbeits-, Organisations- und Wirtschaftspsychologie</summary>
+	
+ - https://www.oncampus.de/weiterbildung/moocs/arbeitspsychologie
+ - http://electure.studiumdigitale.uni-frankfurt.de/index.php?cat=1&sem=10&videolist=745
+ - https://www.lecturio.de/persoenlichkeitsentwicklung/wirtschaftspsychologie.kurs
+ - https://www.youtube.com/watch?v=KM1Ba55sh-k&list=PLyO_pzmRk9cP3Lc8beXj1WrSulSeN1dtF&index=20
+ - Verschiedene Videos https://www.youtube.com/playlist?list=PLdPcmDM9L7hE4CEJlqgJqFte9I9rcWh2v
+ - https://www.youtube.com/playlist?list=PLB91F2870B3764858
+ - Verschiedene Videos https://www.youtube.com/playlist?list=PLln4Ps1CEq7OIexXY5wOj__Y9iSF0uOl2
+ - https://iversity.org/de/courses/einfuehrung-in-die-arbeitspsychologie
+ - Paper https://www.yumpu.com/de/document/view/22716805/vorlesung-organisationspsychologie-ws-06-07
+
+</details>
+
+<details>
+	<summary>&#10149;Pädagogische Psychologie</summary>
+	
+ - https://www.youtube.com/playlist?list=PLWKLhM4VbMAwomUDBSEe-NDVdEB9q6quQ
+ - Verschiedene Videos https://www.youtube.com/playlist?list=PLxoLPZqbvRIpZc1jsB_8mxJDe3Mv18WvB
+ - Verschiedene Videos https://www.youtube.com/playlist?list=PL-ySyVbLioWCg0ny41SjV7xUKn-KUGllu
+ - Verschiedene Videos https://www.youtube.com/playlist?list=PLZq9DbCtuOh7p3OuTCSgmIsHEGiI7DL09
+ - Verschiedene Videos https://www.youtube.com/playlist?list=PLyWamU0hZzX2OnjsKOzVsXhOz4up1f58Y
+ - Kurzvideos https://www.youtube.com/playlist?list=PLizjIEisIYEuH-oNPxMPv_irZBPsN1I-P
+ - https://www.youtube.com/playlist?list=PLFX_EwFvKKWPx6Ll0TLIsGoub1BvIux2E
+
+</details>
+
+## Vertiefungen
+
+<details>
+	<summary>&#10149;Wahrnehmungspsychologie</summary>
+	
+ - https://www.youtube.com/playlist?list=PLfyM3MMa4nF1s8nkUgMQegCwgaZt8WIrb
+
+</details>
+
+<details>
+	<summary>&#10149;Kognitive Psychologie</summary>
+	
+ - https://www.futurelearn.com/courses/an-introduction-to-cognitive-psychology-as-an-experimental-science
+ - Verschiedene Videos https://www.youtube.com/playlist?list=PLxoLPZqbvRIoouxLA9aiWwXO_szee1LkU
+ - Paper https://www.teachsam.de/psy/psy_kog/psy_kog_0.htm
+ - Paper http://capone.mtsu.edu/sschmidt/Cognitive/outline.html
+
+</details>
+
+<details>
+	<summary>&#10149;Kommunikationspsychologie</summary>
+	
+ - Paper https://www.teachsam.de/psy/psy_kom/psy_kom0.htm
+
+</details>
+
+<details>
+	<summary>&#10149;Wahrnehmungspsychologie</summary>
+	
+ - Paper https://www.teachsam.de/psy/psy_wahrn/psy_wahrn_0.htm
+
+</details>
+
+<details>
+	<summary>&#10149;Forensische Psychologie und Rechtspsychologie</summary>
+	
+ - https://www.futurelearn.com/courses/forensic-psychology
+ - https://online-learning.harvard.edu/course/law-and-psychology?delta=0
+ - Verschiedene Videos https://www.youtube.com/playlist?list=PLxoLPZqbvRIrKFAJgIZiltEuTaE4efCK1
+
+</details>
+
+<details>
+	<summary>&#10149;Psychotherapie</summary>
+	
+ - https://www.lecturio.de/medizin/psychotherapie.kurs
+
+</details>
+
+<details>
+	<summary>&#10149;Ehtik und Recht</summary>
+	
+ - https://lecture2go.uni-hamburg.de/l2go/-/get/l/4862
+
+</details>
+
+<details>
+	<summary>&#10149;Positive Psychologie</summary>
+	
+ - https://www.edx.org/course/the-science-of-happiness-3
+
+</details>
+
+<details>
+	<summary>&#10149;Prosoziales Verhalten</summary>
+	
+ - https://lecture2go.uni-hamburg.de/l2go/-/get/v/15185
+
+</details>
+
+<details>
+	<summary>&#10149;Politische Psychologie</summary>
+	
+ - https://www.youtube.com/playlist?list=PLa57umzCluJCnsTqzsUcmY_aGpl5aR8Z8
+
+</details>
+
+<details>
+	<summary>&#10149;Urteils und Entscheidungspsychologie</summary>
+	
+ - https://www.edx.org/course/the-science-of-everyday-thinking
+ - https://www.lecturio.de/persoenlichkeitsentwicklung/entscheidungsfindung.kurs
+
+</details>
+
+<details>
+	<summary>&#10149;Schizophrenia</summary>
+	
+ - https://www.coursera.org/learn/schizophrenia
+
+</details>
+
+## Wahlmodule
+
+<details>
+	<summary>&#10149;Disziplin</summary>
+	
+  - Kritische Psychologie https://www.youtube.com/playlist?list=PL7E1814226F08D434
+  - Religionspsychologie https://www.youtube.com/watch?v=RNYq1MuuaV8
+  - Verhaltenstherapie Verschiedene Videos https://www.youtube.com/playlist?list=PLxoLPZqbvRIpAb3oNbSSPHB_Q0tNIyUA6
+  - Psychoneuroimmunologie Verschiedene Videos https://www.youtube.com/playlist?list=PLveNtq9OEjVEiFejEVn55hPlqYo3hRdgH
+  - Funktionelle Neuroanatomie https://www.youtube.com/playlist?list=PLwvJ43Jc6KSiGV_l6fyxv4hDVSpnjpVXj
+  - Psychopharmakologie https://www.youtube.com/watch?v=uD6N8Px6Dqg
+  - Psychoanalyse Verschiedene Videos https://www.youtube.com/playlist?list=PLxoLPZqbvRIr1wkQJZy7C8JHvP32JbCz3
+ 
+</details>
+
+<details>
+	<summary>&#10149;Forschungsgegenstand</summary>
+	
+ - Hallucinations https://iai.tv/iai-academy/courses/info?course=hallucinations
+ - Biology of Conciousness https://worldscienceu.com/courses/the-biology-of-consciousness-chistof-koch/
+ - Science of Psychedelics https://iai.tv/iai-academy/courses/info?course=the-science-of-psychedelics
+ - Psychology of Food https://oyc.yale.edu/NODE/236
+ - Mensch Maschine Kommunikation https://www.youtube.com/playlist?list=PLQE-5zOMij8Y_RXDlzG7PZej9dTcNWoPe
+ - Psychologie des sozial-ökologischen Wandels https://www.youtube.com/playlist?list=PLPyxQ128gxypoSxO_Euu5yM2cD_RoE3a2
+ - Psychologie der Lebenskunst https://www.youtube.com/watch?v=UlglG8rA8Vc
+ - Denken Verschiedene Videos https://www.youtube.com/playlist?list=PLxoLPZqbvRIqVD12Eh_BWq7-J4nRPzEYb
+ - Wie entstehen Träume https://www.youtube.com/watch?v=CZc6I_iASeg
+ - Wahrnehmung und Selbstbewusstsein https://www.youtube.com/watch?v=pl5MhWGP3bE
+ 
+</details>
+
+<details>
+	<summary>&#10149;Aspekte</summary>
+	
+ - Psychology in the 21th century https://www.open.edu/openlearn/people-politics-law/politics-policy-people/sociology/psychology-the-21st-century/content-section-0?intro=1
+ - Personen https://www.youtube.com/playlist?list=PLxoLPZqbvRIoRo2pOfYlgDXr2TVCRdWDP
+ - Vera F Birkenbiehl https://www.youtube.com/playlist?list=PL74q6FOTalp5Ov29eBq4xYU7wQLSrYebw
+ - Trends in e-psychology https://www.edx.org/course/trends-in-e-psychology
+ - Diversitäts und Genderforschung in der Psychologie https://ocw.mit.edu/courses/brain-and-cognitive-sciences/9-75j-psychology-of-gender-spring-2003/
+
+</details>
+
 
 # Computer Science
 
