@@ -899,7 +899,7 @@ You can always go over to MIT University; take a [degree chart](https://catalog.
   * [Wahlmodule](#wahlmodule)
 
 <details>
-	<summary>Alternative Wege</summary>
+	<summary>&#10149;Alternative Wege</summary>
 	
 - https://iamautodidact.com/how-to-self-learn-psychology-the-complete-guide/
 - https://psychologie.de/studium/open-learning-open-science/e-learning/#Teilgebietsspezifische-Angebote
