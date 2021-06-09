@@ -934,7 +934,8 @@ You can always go over to MIT University; take a [degree chart](https://catalog.
  - https://www.coursera.org/learn/introduction-psych
  - https://www.youtube.com/channel/UCD5GQBoWsWBL3dAulK71XEg/videos
  - https://www.youtube.com/playlist?list=PL44ABC9278E2EE706
- - Book https://openstax.org/details/books/psychology-2e
+ - Online Book https://openstax.org/details/books/psychology-2e
+ - Online Book https://open.umn.edu/opentextbooks/textbooks/48
  - Hörbuch https://www.youtube.com/playlist?list=OLAK5uy_kcflZICEkQm-iOIfyg4Vu2_cnPep9Cu54
  - Paper https://memucho.de/Einfuehrung-in-die-Psychologie/932
  - Lernplattform http://www.lern-psychologie.de/
