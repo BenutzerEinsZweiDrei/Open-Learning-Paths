@@ -39,11 +39,11 @@ Auf dieser Seite
 
  - [Philosophie](#philosophie)
  - [Economics](#economics)
+ - [Psychologie](#psychologie)
 
 Weitere
 
  - [Assosciate of Science](#assosciate-of-science)
- - [Psychology](#psychology)
  - [Biology](#biology)
  - [Engineering](#engineering)
  - [Neurology](#neurology)
@@ -1318,10 +1318,6 @@ https://www.cybersecuritydegrees.com/faq/obtain-cyber-security-education-free-mo
 # Health Science
 
 https://www.mooclab.club/resources/categories/health-science-core.66/
-
-# Psychology
-
-https://iamautodidact.com/how-to-self-learn-psychology-the-complete-guide/
 
 # Biology
 
