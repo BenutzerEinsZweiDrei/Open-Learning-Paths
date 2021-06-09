@@ -906,6 +906,7 @@ You can always go over to MIT University; take a [degree chart](https://catalog.
 - https://www.youtube.com/c/VirtualUniversityPakistan/playlists
 - https://docs.google.com/spreadsheets/d/1IOr7jInR6SFTUHRXrlldB_dUQrWjEHEnHcIwDlx_AZg/edit#gid=0
 - https://www.verywellmind.com/learn-psychology-2795592
+- Mit Büchern http://lehrbuch-psychologie.springer.com/
 	
 </details>
 
@@ -919,6 +920,7 @@ You can always go over to MIT University; take a [degree chart](https://catalog.
  - https://www.youtube.com/watch?v=NuBDqjyP_oA
  - https://www.youtube.com/watch?v=1phRLKoyAvY
  - https://www.youtube.com/watch?v=jpCBfXcnHQw
+ - Paper https://www.studie.xyz/studyguides/psychology
 	
 </details>
 
@@ -1246,6 +1248,7 @@ You can always go over to MIT University; take a [degree chart](https://catalog.
  - Vera F Birkenbiehl https://www.youtube.com/playlist?list=PL74q6FOTalp5Ov29eBq4xYU7wQLSrYebw
  - Trends in e-psychology https://www.edx.org/course/trends-in-e-psychology
  - Diversitäts und Genderforschung in der Psychologie https://ocw.mit.edu/courses/brain-and-cognitive-sciences/9-75j-psychology-of-gender-spring-2003/
+ - Einzelkurse Vertiefung https://www.edx.org/search?q=psychology&tab=course
 
 </details>
 
