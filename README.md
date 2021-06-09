@@ -47,7 +47,7 @@ Weitere
  - [Electrical Engineering](#electrical-engineering)
  - [Health Science](#health-science)
 
-Weitere in IT
+Weitere in IT und Buisness
 
  - [Computer Science](#computer-science)
  - [Data Science](#data-science)
