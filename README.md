@@ -1261,6 +1261,8 @@ https://github.com/ossu/computer-science
 
 https://teachyourselfcs.com/
 
+https://github.com/ossu/computer-science/blob/master/extras/other_curricula.md
+
 # Data Science
 
 https://github.com/ossu/data-science
