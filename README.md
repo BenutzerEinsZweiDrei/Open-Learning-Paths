@@ -968,6 +968,7 @@ You can always go over to MIT University; take a [degree chart](https://catalog.
  - Lexikon https://lexikon.stangl.eu/
  - Awesome Psychology https://github.com/weeeBox/awesome-psychology
  - Awesome Social Engineering https://github.com/v2-dev/awesome-social-engineering
+ - OER Overview https://www.youtube.com/watch?v=YAtFZ_A6YDg
 
 </details>
 
