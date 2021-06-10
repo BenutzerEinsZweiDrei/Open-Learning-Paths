@@ -53,6 +53,8 @@ Weitere
  - [Physics](#physics)
  - [Electrical Engineering](#electrical-engineering)
  - [Health Science](#health-science)
+ - [Social Work](#social-work)
+ - [Political Science](#political-science)
 
 Weitere in IT und Buisness
 
