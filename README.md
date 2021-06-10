@@ -1269,11 +1269,15 @@ https://github.com/ossu/computer-science/blob/master/extras/other_curricula.md
 
 https://campus.kiron.ngo/category/computer-science
 
+https://github.com/prakhar1989/awesome-courses
+
 # Data Science
 
 https://github.com/ossu/data-science
 
 https://github.com/airalcorn2/Michael-s-Data-Science-Curriculum
+
+http://nirvacana.com/thoughts/2013/07/08/becoming-a-data-scientist/
 
 # Bioinformatics
 
