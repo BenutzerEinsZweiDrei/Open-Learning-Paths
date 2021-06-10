@@ -620,6 +620,7 @@ You can always go over to MIT University; take a [degree chart](https://catalog.
 - https://iamautodidact.com/how-to-self-learn-economics-the-complete-guide/
 - http://myeducationpath.com/paths/22/bachelor-of-science-in-business-with-degree-assigned.htm
 - http://myeducationpath.com/paths/29/coursera-advance-diploma-in-economics-finance.htm
+- https://campus.kiron.ngo/category/business-and-economics
 
 </details>
 
@@ -1265,6 +1266,8 @@ https://teachyourselfcs.com/
 
 https://github.com/ossu/computer-science/blob/master/extras/other_curricula.md
 
+https://campus.kiron.ngo/category/computer-science
+
 # Data Science
 
 https://github.com/ossu/data-science
@@ -1350,6 +1353,8 @@ https://github.com/miloyip/game-programmer
 
 https://www.engineer4free.com/
 
+https://campus.kiron.ngo/category/mechanical-engineering
+
 # Assosciate of Science
 
 https://bccampus.ca/projects/open-education/pathway-to-associate-of-science-degree/
@@ -1369,6 +1374,14 @@ http://myeducationpath.com/paths/7/software-development.htm
 # Neurology
 
 http://myeducationpath.com/paths/131/neurology.htm
+
+# Social Work
+
+https://campus.kiron.ngo/category/social-work
+
+# Political Science
+
+https://campus.kiron.ngo/category/political-science
 
 
 [Back to top](#lernpfade)  |  [View on Github](https://github.com/BenutzerEinsZweiDrei/BenutzerEinsZweiDrei.github.io)
