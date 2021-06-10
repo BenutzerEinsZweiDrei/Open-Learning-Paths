@@ -1304,6 +1304,8 @@ http://myeducationpath.com/paths/4/applied-mathematics.htm
 
 https://github.com/TheOdinProject/curriculum
 
+https://www.coursereactor.org/programs/web-development
+
 # Physics
 
 https://www.goodtheorist.science/
