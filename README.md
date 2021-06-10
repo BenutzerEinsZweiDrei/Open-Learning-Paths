@@ -621,6 +621,7 @@ You can always go over to MIT University; take a [degree chart](https://catalog.
 - http://myeducationpath.com/paths/22/bachelor-of-science-in-business-with-degree-assigned.htm
 - http://myeducationpath.com/paths/29/coursera-advance-diploma-in-economics-finance.htm
 - https://campus.kiron.ngo/category/business-and-economics
+- https://www.hippocampus.org/HippoCampus/Economics
 
 </details>
 
