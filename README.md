@@ -28,7 +28,7 @@ Dies sind Lernpfade für ein autodidaktisches Selbststudium. Diese sollen ermög
   * [Methodenlehre](#methodenlehre)
   * [Angewandte Psychologie](#angewandte-psychologie)
   * [Vertiefungen](#vertiefungen)
-  * [Wahlmodule](#wahlmodule)
+  * [Wahlmodule](#wahlmodul)
 - [Weitere Lernpfade](#computer-science)
 	
 </details>
@@ -896,7 +896,7 @@ You can always go over to MIT University; take a [degree chart](https://catalog.
   * [Methodenlehre](#methodenlehre)
   * [Angewandte Psychologie](#angewandte-psychologie)
   * [Vertiefungen](#vertiefungen)
-  * [Wahlmodule](#wahlmodule)
+  * [Wahlmodule](#wahlmodul)
 
 <details>
 	<summary>&#10149;Alternative Wege</summary>
@@ -1211,7 +1211,7 @@ You can always go over to MIT University; take a [degree chart](https://catalog.
 
 </details>
 
-## Wahlmodule
+## Wahlmodul
 
 <details>
 	<summary>&#10149;Disziplin</summary>
