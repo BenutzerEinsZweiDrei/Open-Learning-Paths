@@ -106,6 +106,7 @@ You can always go over to MIT University; take a [degree chart](https://catalog.
 - How to self learn philosophy https://iamautodidact.com/how-to-self-learn-philosophy-the-complete-guide/
 - Philosophy by Reading Books Reddit - https://www.reddit.com/r/philosophy/wiki/readinglist#wiki_general_introductory_texts
 - Philosophy with Podcasts https://historyofphilosophy.net/all-episodes
+- Readinglist https://ucl.rl.talis.com/search.html?q=philosophy
 	
 </details>
 
