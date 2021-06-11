@@ -1,11 +1,11 @@
-# Open Education Universität
+# Open Learning Paths
 
-Dies sind Lernpfade für ein autodidaktisches Selbststudium. Diese sollen ermöglichen das Wissen eines Studiums durch frei zugängliche Bildungmaterialien zu erwerben. Es handelt sich mehrheitlich um Linklisten für Video Vorlesungen / MOOCs (Massive Open Online Courses) oder OER Ressourcen (Open Educational Ressources). Es wurde versucht möglichst kostenfreie Lernnmaterialien zusammenzustellen.
+Dies sind Lernpfade für ein autodidaktisches Selbststudium. Diese sollen ermöglichen das Wissen eines Studiums durch frei zugängliche Bildungmaterialien zu erwerben. Es handelt sich mehrheitlich um strukturierte Linksammlungen für Video Vorlesungen / MOOCs (Massive Open Online Courses) oder OER (Open Educational Ressources). Es wurde versucht möglichst kostenfreie Lernnmaterialien zusammenzustellen.
 
 <details>
 	<summary>&#10149;Table of Contents</summary>
 	
-- [Open Education Universität](#open-education-universität)
+- [Open Learning Paths](#open-learning-paths)
   * [Lernpfade](#lernpfade)
   * [Qualität](#qualität)
   * [Alternativen und Abgrenzung](#alternativen-und-abgrenzung)
@@ -74,7 +74,7 @@ Weitere in IT und Buisness
 
 ## Qualität
 
-Die Lernpfade beinhalten die Teilgebiete, die auch in einem regulären Bachelor Studium an einer Universität unterrichtet würden. Viele der Links führen zu veröffentlichten Vorlesungen von (Top-) Universitäten als Videos / MOOC. Alle Links wurden zusammen getragen - sind aber weitestgehend ungetestet. Hilf mit die Qualität dieser Lernpfade zu verbessern über Github Issues oder Pull Requests.
+Die Lernpfade bestehen aus den Teilgebieten, die auch in einem regulären Studium an einer Universität unterrichtet würden. Es wurde also herausgestellt welche Vorlesungen für ein Bachelorstudium relevant sind und daraus ein Lernweg erstellt mit entsprechenden Onlineinhalten zu den jeweiligen Themen, sodass diese ein autodidaktisches Studium ermöglichen. Viele der Links führen zu veröffentlichten Vorlesungen von (Top-) Universitäten als Videos / MOOC. Alle Links wurden gesammelt - sind aber weitestgehend ungetestet. Hilf mit die Qualität dieser Lernpfade zu verbessern über Github Issues oder Pull Requests.
 
 Am Ende der Lernpfade steht kein Abschlusszeugnis. Der Erwerb eines Bachelor oder Master Degree allein über ein autodidaktisches Studium ist nur selten über Umwege machbar und daher eröffnen diese Lernpfade auch wenig Karrierechancen. Bereits ein Online- oder Fernstudium hat Vor- und Nachteile gegenüber einem Präsenzstudiengang. Ein autodidaktisches Studium hat die wesentlichen Nachteile, dass eine Einbettung in die soziale und fachliche universitäre und wissenschaftliche Umgebung fehlt und somit beispielsweise Soft Skills, praktische (wissenschafltiche) Erfahrung, sowie Feedback auf das Verständnis der gelernten Inhalte nicht in diesem Rahmen erlernt oder erworben werden können. Diese Seite sollte also vorranging dem freien Erwerb von Wissen dienen. Denkbare Szenarien sind beispielsweise ein Studieneinblick oder eine Vorbereitung für Studieninteressierte oder Weiterbildung, wenn man bereits einen (anderen) Abschluss besitzt. Lies mehr über [Open Education](https://www.oeglobal.org/) und [Open Learning](https://oli.cmu.edu/) sowie [OER](https://open-educational-resources.de/).
 
@@ -82,7 +82,7 @@ Am Ende der Lernpfade steht kein Abschlusszeugnis. Der Erwerb eines Bachelor ode
 
 Two generel learning ressources that you should know, but dont cover learning paths are [FreeLearningList](https://freelearninglist.org/) and [NoExcuseList](http://noexcuselist.com/). Also find [University Videos](https://universityvideos.org/Home) on youtube.
 
-[Coursebuffet](https://www.coursebuffet.com/subjects) und [study.com](https://study.com/academy/course/index.html) bietet viele [Lernpfade](https://en.wikipedia.org/wiki/Open-source_curriculum), dabei werden aber nur Kurse nach ihrem Schwierigkeitsgrad sortiert. Auf [MyEducationPath](http://myeducationpath.com/paths/) können Nutzer eigene MOOC Lernpfade erstellen. Die Besten wurden hier hinzugefügt. Die [Open Source Society University](https://github.com/ossu/) hat eine aktive Community und bietet 3 Computer Studiengänge an mit hohem Qualitätsanspruch. Diese wurden hier aufgelistet.
+[Coursebuffet](https://www.coursebuffet.com/subjects) und [study.com](https://study.com/academy/course/index.html) bieten viele [Lernpfade](https://en.wikipedia.org/wiki/Open-source_curriculum), dabei werden aber nur Kurse nach ihrem Schwierigkeitsgrad sortiert. Auf [MyEducationPath](http://myeducationpath.com/paths/) können Nutzer eigene MOOC Lernpfade erstellen. Die Besten wurden hier hinzugefügt. Die [Open Source Society University](https://github.com/ossu/) hat eine aktive Community und bietet 3 Computer Studiengänge an mit hohem Qualitätsanspruch. Diese wurden hier aufgelistet.
 
 [You can find](https://www.google.com/search?q=AP+classes) a lot of material online for Advanced Placement Courses, which offer introductory level knowledge to college. Khan Academy, Saylor.org and [Simple Studies](https://www.studie.xyz/) offers in-depth courses on various subjects for free but they are rarely on university level or have a full curriculum. edX offers MicroBachelors and MicroMasters and various other Certificates for free. [Alison](https://alison.com/learning-paths) offers various learning paths and certificates for free which you can often complete in one weekeend. Udemy, [Coursera](https://blog.coursera.org/introducing-career-learning-paths/), Udacity, Futurelearn, [OSU](https://app.os.university/programs/) and [a lot of universities](https://en.wikipedia.org/wiki/List_of_open_universities) nowadays offer [online degrees](https://www.onlinedegree.com/free-courses/)  that you have to pay for. For example the [Open University](http://www.openuniversity.edu) and the [University of the People](https://www.uopeople.edu) cost around 4800$ to 26000$.
 
