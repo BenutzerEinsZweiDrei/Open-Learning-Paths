@@ -9,9 +9,13 @@ Einführung Ethnologie
 ## Grundlagen
 
 Religionspsychologie
+
 Religionsphilosophie
+
 Kulturtheorie
+
 Analyse religiöser Literatur
+
 Kritische Ethnologie
 
 ## Studium
@@ -31,11 +35,17 @@ Ideologien und Weltansschauungen
 [Religionsethnologie](https://de.m.wikipedia.org/wiki/Portal:Ethnologie/Fachgebiete#Religionsethnologie)
 
 Geheimwissen/Sekten/Mystik/Alchemie
+
 Weisheit/Lebensphilosophie
+
 Evangelische Theologie
+
 Transpersonale Psychologie
+
 Metaphysik
+
 Mythos/Transzendenz
+
 Riten/Symbole
 
 (Ideengeschichte/Geistesgeschichte)
