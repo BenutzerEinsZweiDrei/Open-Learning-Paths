@@ -3,6 +3,7 @@
 ## Basis
 
 Einführung Religionswissenschaft
+
 Einführung Ethnologie
 
 ## Grundlagen
