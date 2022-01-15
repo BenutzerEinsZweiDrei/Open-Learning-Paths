@@ -55,6 +55,7 @@ Kritische Ethnologie
 5. Spiritualität: Antike, Mittelalter, Moderne
 
 Ideologien und Weltansschauungen
+- _
     - Agnostizismus
     - Anarchismus
     - Anthroposophie
