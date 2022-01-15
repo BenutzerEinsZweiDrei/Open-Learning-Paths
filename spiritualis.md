@@ -22,9 +22,9 @@ Kritische Ethnologie
 
 Überblick und wichtige Werke: Religionen:
 1. Weltreligionen
-1.1 Christentum
-1.2 Judentum
-1.3 Islam
+    - Christentum
+    - Judentum
+    - Islam
 - Asien/Afrika/Indigene
 - Gnostizismus, Esoterik und Heidentum
 - Historische Religion und Mythologie
