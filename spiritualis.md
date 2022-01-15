@@ -25,12 +25,51 @@ Kritische Ethnologie
     - Christentum
     - Judentum
     - Islam
-- Asien/Afrika/Indigene
-- Gnostizismus, Esoterik und Heidentum
-- Historische Religion und Mythologie
-- Spiritualität: Antike, Mittelalter, Moderne
+    - Hinduismus
+    - Buddhismus
+2. Asien/Afrika/Indigene
+    - Jesiden
+    - Zaroastrismus
+    - Daoismus/Konfuzianismus
+    - Shinto
+    - Religion der Yoruba
+    - Animismus
+    - Vodoo
+    - indigene Religionen
+    - Traumzeit
+    - Europäischer Schamanismus
+3. Gnostizismus, Esoterik und Heidentum
+    - Hermetik
+    - Rosenkreuzer
+    - Spiritismus
+    - Theosophie
+    - Neopaganismus
+    - Druidentum
+    - Scientology
+4. Historische Religion und Mythologie
+    - Antike Mythologie
+    - Germanische Mythologie
+    - Keltentum
+    - Nordische Mythologie
+    - Slwaische Mythologie
+5. Spiritualität: Antike, Mittelalter, Moderne
 
 Ideologien und Weltansschauungen
+    - Agnostizismus
+    - Anarchismus
+    - Anthroposophie
+    - Atheismus
+    - Determinismus
+    - Evolutionärer Humanismus
+    - Freidenker
+    - Freimaurer
+    - Humanismus
+    - Nihilismus
+    - Objektivismus
+    - Pantheismus/Panenthismus
+    - Positivismus
+    - Transhumanismus
+    - Unitarier
 
 ## Vertiefung
 
@@ -51,6 +90,8 @@ Metaphysik
 Mythos/Transzendenz
 
 Riten/Symbole
+
+Parawissenschaften/Parapsychologie
 
 (Ideengeschichte/Geistesgeschichte)
 (Kunstgeschichte, Literatur, Musik)
