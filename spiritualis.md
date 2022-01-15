@@ -21,7 +21,10 @@ Kritische Ethnologie
 ## Studium
 
 Überblick und wichtige Werke: Religionen:
-- Weltreligionen
+1. Weltreligionen
+1.1 Christentum
+1.2 Judentum
+1.3 Islam
 - Asien/Afrika/Indigene
 - Gnostizismus, Esoterik und Heidentum
 - Historische Religion und Mythologie
@@ -32,6 +35,7 @@ Ideologien und Weltansschauungen
 ## Vertiefung
 
 [Geschichte der Religion](https://de.m.wikipedia.org/wiki/Kategorie:Geschichte_der_Religion)
+
 [Religionsethnologie](https://de.m.wikipedia.org/wiki/Portal:Ethnologie/Fachgebiete#Religionsethnologie)
 
 Geheimwissen/Sekten/Mystik/Alchemie
