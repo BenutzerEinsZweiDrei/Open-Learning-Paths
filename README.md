@@ -3,11 +3,8 @@
 Dies sind Lernpfade für ein autodidaktisches Selbststudium. Diese sollen ermöglichen das Wissen eines Studiums durch frei zugängliche Bildungmaterialien zu erwerben. Es handelt sich mehrheitlich um strukturierte Linksammlungen für Video Vorlesungen / MOOCs (Massive Open Online Courses) oder OER (Open Educational Ressources). Es wurde versucht möglichst kostenfreie Lernnmaterialien und offen verfügbare Online-Bildung zu autodidaktischen Leitfaden zusammenzustellen.
 
 <details>
-	
 	<summary>
-		
 		&#10149;Table of Contents
-	
 	</summary>
 	
 - [Open Learning Paths](#open-learning-paths)
