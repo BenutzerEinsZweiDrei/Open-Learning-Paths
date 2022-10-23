@@ -1,6 +1,6 @@
 # Weltwissen:Geschichte, Politik und Gesellschaft sowie Kultur der Menschheit				
 
-Exkurs		
+Dieser Exkurs stellt kein volles Curriculum dar, sondern soll bloß helfen das Weltwissen zu vertiefen, durch einen Einblick in die Themen.
 
 
 ## Geschichte
