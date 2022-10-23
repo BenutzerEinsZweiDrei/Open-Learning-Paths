@@ -42,7 +42,7 @@ Auf dieser Seite
  - [Psychologie](#psychologie)
 
 
-Exkurs
+Exkurs in Humanities
 
  - [Weltwissen: Geschichte, Politik, Kultur und Gesellschaft der Menschheit](exkurs.md)
 
