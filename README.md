@@ -2,6 +2,18 @@
 
 Dies sind Lernpfade für ein autodidaktisches Selbststudium. Diese sollen ermöglichen das Wissen eines Studiums durch frei zugängliche Bildungmaterialien zu erwerben. Es handelt sich mehrheitlich um strukturierte Linksammlungen für Video Vorlesungen / MOOCs (Massive Open Online Courses) oder OER (Open Educational Ressources). Es wurde versucht möglichst kostenfreie Lernnmaterialien und offen verfügbare Online-Bildung zu autodidaktischen Leitfaden zusammenzustellen.
 
+{::options parse_block_html="true" /}
+
+<details><summary markdown="span">Let's see some code!</summary>
+```python
+print('Hello World!')
+```
+Of course, it has to be Hello World, right?
+</details>
+<br/>
+
+{::options parse_block_html="false" /}
+
 <details>
 	<summary>&#10149;Table of Contents</summary>
 	
