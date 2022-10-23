@@ -40,6 +40,9 @@ Auf dieser Seite
  - [Philosophie](#philosophie)
  - [Economics](#economics)
  - [Psychologie](#psychologie)
+ - historische Kulturwissenschaften(Kunst,Literatur,Geschichte)
+ - Religionswissenschaften
+ - Pädagogik? Anthropologie?
 
 Weitere
 
