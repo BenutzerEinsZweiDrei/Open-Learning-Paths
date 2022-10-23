@@ -44,7 +44,7 @@ Auf dieser Seite
 
 Exkurs
 
- - Weltwissen: Geschichte, Politik, Kultur und Gesellschaft der Menschheit (Planned)
+ - [Weltwissen: Geschichte, Politik, Kultur und Gesellschaft der Menschheit](exkurs.md)
 
 Weitere in Hard Sciences
 
