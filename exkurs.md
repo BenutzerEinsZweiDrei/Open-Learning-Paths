@@ -49,3 +49,5 @@ Dieser Exkurs stellt kein volles Curriculum dar, sondern soll bloß helfen das W
 
 - Youtube Crash Course Geography https://www.youtube.com/playlist?list=PL8dPuuaLjXtO85Sl24rSiVQ93q7vcntNF
 - Grundlagen der Physischen Geographie https://timms.uni-tuebingen.de/List/List/UT_201%5B01%5D_____00%5B12%5D_phygeo_000_
+
+[BACK](README.md)
