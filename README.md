@@ -40,29 +40,21 @@ Auf dieser Seite
  - [Philosophie](#philosophie)
  - [Economics](#economics)
  - [Psychologie](#psychologie)
- - Sozialwissenschaften
- - historische Kulturwissenschaften(Kunst,Literatur,Geschichte)
- - Religionswissenschaften
- - Pädagogik? Anthropologie?
 
-Naturwissenschaft/Technologie/Mathematik
 
-Weitere
+Exkurs
+
+ - Weltwissen: Geschichte, Politik, Kultur und Gesellschaft der Menschheit (Planned)
+
+Weitere in Hard Sciences
 
  - [Assosciate of Science](#assosciate-of-science)
- - [Biology](#biology)
- - [Engineering](#engineering)
- - [Neurology](#neurology)
- - [Environmental Science](#environmental-science)
- - [Sustainable Cities](#sustainable-cities)
  - [Maths](#maths)
+ - [Biology](#biology)
  - [Physics](#physics)
- - [Electrical Engineering](#electrical-engineering)
- - [Health Science](#health-science)
- - [Social Work](#social-work)
- - [Political Science](#political-science)
-
-Weitere in IT und Buisness
+ - [Chemistry](#chemistry)
+ 
+Weitere in IT, Buisness, Technology
 
  - [Computer Science](#computer-science)
  - [Data Science](#data-science)
@@ -77,7 +69,29 @@ Weitere in IT und Buisness
  - [Buisness Administration](#buisness-administration)
  - [Software Development](#software-development)
 
-
+ - [Engineering](#engineering)
+ - [Electrical Engineering](#electrical-engineering)
+ 
+ - [Environmental Science](#environmental-science)
+ - [Sustainable Cities](#sustainable-cities)
+ 
+ Weitere 
+ 
+ - [Neurology](#neurology)
+ - [Health Science](#health-science)
+ - [Social Work](#social-work)
+ - [Political Science](#political-science)
+ 
+ Planned:
+ 
+ - Medizin(Planned)				
+ - Jura(Planned)
+ 
+ - Luft- und Raumfahrttechnik(Planned)				
+ - Pharmazie(Planned)				
+ - Kerntechnik(Planned)				
+ - Neuroscience(Planned)
+ 
 ## Qualität
 
 Die Lernpfade bestehen aus den Teilgebieten, die auch in einem regulären Studium an einer Universität unterrichtet würden. Es wurde also herausgestellt welche Vorlesungen für ein Bachelorstudium relevant sind und daraus ein Lernweg erstellt mit entsprechenden Onlineinhalten zu den jeweiligen Themen, sodass diese ein autodidaktisches Studium ermöglichen. Viele der Links führen zu veröffentlichten Vorlesungen von (Top-) Universitäten als Videos / MOOC. Alle Links wurden gesammelt - sind aber weitestgehend ungetestet. Hilf mit die Qualität dieser Lernpfade zu verbessern über Github Issues oder Pull Requests.
@@ -1334,6 +1348,10 @@ https://www.susanrigetti.com/physics
 https://github.com/sturrion/physics-learning-path
 
 http://myeducationpath.com/paths/17/physics.htm
+
+# Chemistry
+
+https://www.reddit.com/r/chemistry/comments/2kqe53/if_youve_ever_wanted_to_learn_university_level/
 
 # Electrical Engineering
 
