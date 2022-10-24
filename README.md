@@ -5,7 +5,7 @@ Dies sind Lernpfade für ein autodidaktisches Selbststudium. Diese sollen ermög
 <details>
 	<summary>
 		&#10149;Table of Contents
-	</summary>
+	</summary><p>
 	
 - [Open Learning Paths](#open-learning-paths)
   * [Lernpfade](#lernpfade)
@@ -33,7 +33,7 @@ Dies sind Lernpfade für ein autodidaktisches Selbststudium. Diese sollen ermög
   * [Wahlmodule](#wahlmodul)
 - [Weitere Lernpfade](#computer-science)
 	
-</details>
+</p></details>
 
 ## Lernpfade
 
