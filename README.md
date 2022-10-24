@@ -94,16 +94,6 @@ Weitere in IT, Buisness, Technology
  - [Social Work](#social-work)
  - [Political Science](#political-science)
  
- Planned:
- 
- - Medizin(Planned)				
- - Jura(Planned)
- 
- - Luft- und Raumfahrttechnik(Planned)				
- - Pharmazie(Planned)				
- - Kerntechnik(Planned)				
- - Neuroscience(Planned)
- 
 </details>
 
 ## Qualität
