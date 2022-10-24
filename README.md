@@ -39,7 +39,7 @@ Dies sind Lernpfade für ein autodidaktisches Selbststudium. Diese sollen ermög
 
 <details>
 	<summary>
-		Auf dieser Seite
+		&#10149;Auf dieser Seite
 	</summary>
 
  - [Philosophie](#philosophie)
@@ -55,7 +55,7 @@ Exkurs in Humanities
 
 <details>
 	<summary>
-		Weitere
+		&#10149;Weitere
 	</summary>
 	
 Weitere in Hard Sciences
