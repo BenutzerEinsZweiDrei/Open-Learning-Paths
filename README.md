@@ -5,7 +5,7 @@ Dies sind Lernpfade für ein autodidaktisches Selbststudium. Diese sollen ermög
 <details>
 	<summary>
 		&#10149;Table of Contents
-	</summary><p>
+	</summary>
 	
 - [Open Learning Paths](#open-learning-paths)
   * [Lernpfade](#lernpfade)
@@ -33,11 +33,14 @@ Dies sind Lernpfade für ein autodidaktisches Selbststudium. Diese sollen ermög
   * [Wahlmodule](#wahlmodul)
 - [Weitere Lernpfade](#computer-science)
 	
-</p></details>
+</details>
 
 ## Lernpfade
 
-Auf dieser Seite
+<details>
+	<summary>
+		Auf dieser Seite
+	</summary>
 
  - [Philosophie](#philosophie)
  - [Economics](#economics)
@@ -48,6 +51,13 @@ Exkurs in Humanities
 
  - [Weltwissen: Geschichte, Politik, Kultur und Gesellschaft der Menschheit](exkurs.md)
 
+</details>
+
+<details>
+	<summary>
+		Weitere
+	</summary>
+	
 Weitere in Hard Sciences
 
  - [Assosciate of Science](#assosciate-of-science)
@@ -94,6 +104,8 @@ Weitere in IT, Buisness, Technology
  - Kerntechnik(Planned)				
  - Neuroscience(Planned)
  
+</details>
+
 ## Qualität
 
 Die Lernpfade bestehen aus den Teilgebieten, die auch in einem regulären Studium an einer Universität unterrichtet würden. Es wurde also herausgestellt welche Vorlesungen für ein Bachelorstudium relevant sind und daraus ein Lernweg erstellt mit entsprechenden Onlineinhalten zu den jeweiligen Themen, sodass diese ein autodidaktisches Studium ermöglichen. Viele der Links führen zu veröffentlichten Vorlesungen von (Top-) Universitäten als Videos / MOOC. Alle Links wurden gesammelt - sind aber weitestgehend ungetestet. Hilf mit die Qualität dieser Lernpfade zu verbessern über Github Issues oder Pull Requests.
