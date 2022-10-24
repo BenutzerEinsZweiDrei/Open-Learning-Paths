@@ -1,7 +1,7 @@
 theme: jekyll-theme-cayman
 title: "Open Learning Paths"
 logo:
-markdown: kramdown
+markdown: GFM
 commonmark:
   options: ["SMART", "FOOTNOTES"]
   extensions: ["strikethrough", "autolink", "table", "tagfilter"]
