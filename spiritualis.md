@@ -20,7 +20,9 @@ Kritische Ethnologie
 
 ## Studium
 
-### Überblick und wichtige Werke: Religionen:
+### Überblick und wichtige Werke
+
+### Religionen:
 1. Weltreligionen
     - Christentum
     - Judentum
@@ -38,6 +40,7 @@ Kritische Ethnologie
     - indigene Religionen
     - Traumzeit
     - Europäischer Schamanismus
+    - Bahaitum
 3. Gnostizismus, Esoterik und Heidentum
     - Hermetik
     - Rosenkreuzer
@@ -51,8 +54,17 @@ Kritische Ethnologie
     - Germanische Mythologie
     - Keltentum
     - Nordische Mythologie
-    - Slwaische Mythologie
+    - Slawische Mythologie
+    - Japanische Mythologie
+
+
+
 5. Spiritualität: Antike, Mittelalter, Moderne
+
+### Werke
+
+    - 
+
 
 ### Ideologien und Weltansschauungen
 - _
