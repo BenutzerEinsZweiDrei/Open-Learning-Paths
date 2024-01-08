@@ -1,8 +1,11 @@
 # AI Paths
 
-the following paths are generated with AI
+the following self learning study paths are generated with AI and offer moocs and youtube videos
 
-# Workflow
+# Workflow Creation
+
+- Created Study Paths at https://www.learn-anything.ca/
+- Found moocs and youtube videos for each topic at https://a.picoapps.xyz/least-away
 
 # Degrees
 
