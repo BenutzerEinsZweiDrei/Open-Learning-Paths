@@ -9,12 +9,12 @@ the following self learning study paths are generated with AI and offer moocs an
 
 # Degrees
 
-- Business
-- Computer Science
-- Electrical Engineering
-- Medicine
-- Education
-- Law
+- [Business]
+- [Computer Science]
+- [Electrical Engineering]
+- [Medicine]
+- [Education]
+- [Law]
 - Psychology
 - Environmental Science
 - Political Science
