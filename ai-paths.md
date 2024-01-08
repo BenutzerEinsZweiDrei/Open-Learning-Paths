@@ -1,6 +1,6 @@
 # AI Paths
 
-the following self learning study paths are generated with AI and offer moocs and youtube videos
+the following self learning study paths are generated with AI and offer moocs and youtube videos. each one builds a curriculum on university level.
 
 # Workflow Creation
 
