@@ -9,34 +9,34 @@ the following self learning study paths are generated with AI and offer moocs an
 
 # Degrees
 
-- [Business]
-- [Computer Science]
-- [Electrical Engineering]
-- [Medicine]
-- [Education]
-- [Law]
-- Psychology
-- Environmental Science
-- Political Science
-- Sociology
-- Mathematics
-- Physics
-- Chemistry
-- Biology
-- History
-- Art
-- Music
-- Philosophy
-- Cummunications
-- Engeneering
-- Architecture
-- Anthropology
-- Geography
-- Religious Studys
-- Gender Studies
-- Agriculture
-- Journalism
-- Ethnology
+- [Business](#Buisness)
+- [Computer Science](#computer-science)
+- [Electrical Engineering](#electrical-engeneering)
+- [Medicine](#medicine)
+- [Education](#education)
+- [Law](#law)
+- [Psychology](#psychology)
+- [Environmental Science](#environmental-science)
+- [Political Science](#political-science)
+- [Sociology](#sociology)
+- [Mathematics](#mathematics)
+- [Physics](#physics)
+- [Chemistry](#chemistry)
+- [Biology](#biology)
+- [History](#history)
+- [Art](#art)
+- [Music](#music)
+- [Philosophy](#philosophy)
+- [Cummunications](#communications)
+- [Engeneering](#engeneering)
+- [Architecture](#architecture)
+- [Anthropology](#anthropology)
+- [Geography](#geography)
+- [Religious Studys](#religious-studys)
+- [Gender Studies](#gender-studys)
+- [Agriculture](#agriculture)
+- [Journalism](#journalism)
+- [Ethnology](#ethnology)
 
 
 # Buisness
