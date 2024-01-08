@@ -13,6 +13,7 @@ Beginner
 	Business Communication
 	Business Law
 	Organizational Behavior
+ 
 Intermediate
 	Managerial Accounting
 	Microeconomics
@@ -22,6 +23,7 @@ Intermediate
 	Operations Management
 	Human Resource Management
 	Business Strategy
+ 
 Advanced
 	Strategic Management
 	Global Business
