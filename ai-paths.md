@@ -6,34 +6,34 @@ the following paths are generated with AI
 
 # Degrees
 
- Business
-Computer Science
-Electrical Engineering
-Medicine
-Education
-Law
-Psychology
-Environmental Science
-Political Science
-Sociology
-Mathematics
-Physics
-Chemistry
-Biology
-History
-Art
-Music
-Philosophy
-Cummunications
-Engeneering
-Architecture
-Anthropology
-Geography
-Religious Studys
-Gender Studies
-Agriculture
-Journalism
-Ethnology
+- Business
+- Computer Science
+- Electrical Engineering
+- Medicine
+- Education
+- Law
+- Psychology
+- Environmental Science
+- Political Science
+- Sociology
+- Mathematics
+- Physics
+- Chemistry
+- Biology
+- History
+- Art
+- Music
+- Philosophy
+- Cummunications
+- Engeneering
+- Architecture
+- Anthropology
+- Geography
+- Religious Studys
+- Gender Studies
+- Agriculture
+- Journalism
+- Ethnology
 
 
 # Buisness
