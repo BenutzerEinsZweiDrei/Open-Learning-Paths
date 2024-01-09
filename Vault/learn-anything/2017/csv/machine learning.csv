@@ -1,0 +1,413 @@
+res_name,url,urltype,headline,topic,categorization
+Back to the core of intelligence\u00a0\u2026 to really move to the\u00a0future  \ufe0f,https://medium.com/ai-roadmap-institute/back-to-the-core-of-intelligence-to-really-move-to-the-future-8eb476c5dd36,article,Help: Articles,machine learning,machine learning
+Scikit-learn tutorials,http://scikit-learn.org/stable/tutorial/index.html,,Scikit learn: Help,scikit-learn library,machine learning - machine learning libraries - scikit learn
+Math background for ML,https://www.youtube.com/playlist?list=PL7y-1rk2cCsA339crwXMWUaBRuLBvPBCg,video,Prerequisites: Basics,machine learning,machine learning
+Activation functions  \ufe0f,information,mindmap,Basics: Activation functions  \ufe0f,neural networks,machine learning - neural networks
+Naive Bayes classifier  \ufe0f,information,mindmap,Basics: Naive Bayes classifier  \ufe0f,probabilistic classification,machine learning - pattern recognition - statistical classification - probabilistic classification
+Scikit-learn,https://github.com/scikit-learn/scikit-learn,github,scikit-learn library,scikit-learn library,machine learning - machine learning libraries - scikit learn
+Supervised learning,http://www.wikiwand.com/en/Supervised_learning,wiki,supervised learning,supervised learning,machine learning - supervised learning
+Quick look at support vector machines  \ufe0f,https://generalabstractnonsense.com/2017/03/A-quick-look-at-Support-Vector-Machines/,article,Support vector machines: Basics,support vector machines,machine learning - supervised learning - support vector machines
+An end to end implementation of a machine learning pipeline  \ufe0f,https://spandan-madan.github.io/DeepLearningProject/,article,Prerequisites: Basics,machine learning,machine learning
+Backpropagation,http://www.wikiwand.com/en/Backpropagation,wiki,backpropagation,backpropagation,machine learning - neural networks - backpropagation
+Perceptrons,http://www.wikiwand.com/en/Perceptron,wiki,perceptrons,perceptrons,machine learning - supervised learning - perceptrons
+Edward,https://github.com/blei-lab/edward,github,Tensorflow  \ufe0f: Edward,machine learning libraries,machine learning - machine learning libraries
+Dive into machine learning,https://github.com/hangtwenty/dive-into-machine-learning,github,Machine learning: Help,machine learning,machine learning
+CNTK,https://github.com/Microsoft/CNTK,github,Machine learning libraries: CNTK,machine learning libraries,machine learning - machine learning libraries
+AlphaGo,http://www.wikiwand.com/en/AlphaGo,wiki,AlphaGo,AlphaGo,machine learning - deep learning - alphago
+Tutorial on deep learning,http://ai.stanford.edu/~quocle/tutorial1.pdf,paper,Deep learning: Basics,deep learning,machine learning - deep learning
+Transformer,https://github.com/Kyubyong/transformer,github,Help: Implementations,tensorflow library,machine learning - machine learning libraries - tensorflow
+Transfer learning  \ufe0f,information,mindmap,Basics: Transfer learning  \ufe0f,deep learning,machine learning - deep learning
+Boosting,http://www.wikiwand.com/en/Boosting_(machine_learning),wiki,boosting in machine learning,boosting in machine learning,machine learning - supervised learning - boosting
+Awesome,https://github.com/ChristosChristofidis/awesome-deep-learning,github,deep learning,deep learning,machine learning - deep learning
+Practical deep learning for coders,http://course.fast.ai/,course,Deep learning: Basics,deep learning,machine learning - deep learning
+Why randomness is important for deep learning  \ufe0f,http://blog.evjang.com/2016/07/randomness-deep-learning.html,article,Help: Articles,deep learning,machine learning - deep learning
+Deep learning and virtual tense machines  \ufe0f,https://zigasajovic.github.io/Deep-Learning-and-Virtual-Tensor-Machines/,article,Help: Articles,deep learning,machine learning - deep learning
+Awesome,https://github.com/MichaelXin/Awesome-Caffe,github,caffe library,caffe library,machine learning - machine learning libraries - caffe
+Learning: support vector machines,https://www.youtube.com/watch?v=_PwhiWxHK8o&amp;t=449s,video,Support vector machines: Basics,support vector machines,machine learning - supervised learning - support vector machines
+On discriminative vs generative classifiers: a comparison of logistic regression and naive Bayes,http://papers.nips.cc/paper/2020-on-discriminative-vs-generative-classifiers-a-comparison-of-logistic-regression-and-naive-bayes.pdf,paper,Generative models: Basics,generative models,machine learning - generative models
+Scikit-learn classification algorithms,https://github.com/mmmayo13/scikit-learn-classifiers/blob/master/sklearn-classifiers-tutorial.ipynb,github,Help: Interesting,scikit-learn library,machine learning - machine learning libraries - scikit learn
+Statistical classification,http://www.wikiwand.com/en/Statistical_classification,wiki,statistical classification,statistical classification,machine learning - pattern recognition - statistical classification
+"Designing, visualising and understanding deep neural networks",https://bcourses.berkeley.edu/courses/1453965/pages/cs294-129-designing-visualizing-and-understanding-deep-neural-networks,course,Deep learning: Basics,deep learning,machine learning - deep learning
+Bidirectional recurrent neural networks,http://www.wikiwand.com/en/Bidirectional_recurrent_neural_networks,wiki,Basics: Bidirectional recurrent neural networks,recurrent neural networks,machine learning - neural networks - recurrent neural networks
+An example machine learning notebook,http://nbviewer.jupyter.org/github/rhiever/Data-Analysis-and-Machine-Learning-Projects/blob/master/example-data-science-notebook/Example%20Machine%20Learning%20Notebook.ipynb,,Machine learning: Help,machine learning,machine learning
+Backpropagation through timed vanishing gradients  \ufe0f,http://www.wildml.com/2015/10/recurrent-neural-networks-tutorial-part-3-backpropagation-through-time-and-vanishing-gradients/,article,Backpropagation: Interesting,backpropagation,machine learning - neural networks - backpropagation
+Attention and memory in deep learning and NLP  \ufe0f,http://www.wildml.com/2016/01/attention-and-memory-in-deep-learning-and-nlp/,article,Sequence to sequence learning: Interesting,sequence to sequence learning,machine learning - neural networks - sequence to sequence learning
+Attention and augmented recurrent neural networks,http://distill.pub/2016/augmented-rnns/,interactive,Help: Articles,machine learning,machine learning
+What is the role of the activation function in a neural network?,https://www.quora.com/What-is-the-role-of-the-activation-function-in-a-neural-network,quora,Activation functions: Basics,activation functions,machine learning - neural networks - activation functions
+A practical introduction to deep learning with caffe and python  \ufe0f,http://adilmoujahid.com/posts/2016/06/introduction-deep-learning-python-caffe/,article,Caffe: Basics,caffe library,machine learning - machine learning libraries - caffe
+Awesome deep learning resources,https://github.com/guillaume-chevalier/awesome-deep-learning-resources,github,Deep learning: Help,deep learning,machine learning - deep learning
+Pattern recognition  \ufe0f,information,mindmap,Basics: Pattern recognition  \ufe0f,machine learning,machine learning
+Torch,http://www.wikiwand.com/en/Torch_(machine_learning),wiki,torch library,torch library,machine learning - machine learning libraries - torch
+Math for machine learning,https://people.ucsc.edu/~praman1/static/pub/math-for-ml.pdf,,Machine learning: Help,machine learning,machine learning
+Stats Stack Exchange,https://stats.stackexchange.com/,stack exchange,machine learning,machine learning,machine learning
+What is \u201centropy and information gain\u201d?,https://stackoverflow.com/questions/1859554/what-is-entropy-and-information-gain,article,Decision tree learning: Basics,decision tree learning,machine learning - decision tree learning
+Everything that works works because it's bayesian: why deep nets generalize?  \ufe0f,http://www.inference.vc/everything-that-works-works-because-its-bayesian-2/,article,Help: Articles,deep learning,machine learning - deep learning
+Deep learning,http://www.wikiwand.com/en/Deep_learning,wiki,deep learning,deep learning,machine learning - deep learning
+LSTM Tutorial with TensorFlow,https://github.com/guillaume-chevalier/LSTM-Human-Activity-Recognition,interactive,Basics: Long short term memory  \ufe0f,neural networks,machine learning - neural networks
+Learning without iterative tuning,https://www.youtube.com/watch?v=KiLuYCC33-Y,video,Extreme learning machines: Basics,extreme learning machines,machine learning - neural networks - feedforward neural network - extreme learning machines
+Fast pixel cnn,https://github.com/PrajitR/fast-pixel-cnn,github,Tools: Interesting,convolutional neural networks,machine learning - neural networks - convolutional neural networks
+The keras blog,https://blog.keras.io/index.html,,Keras: Help,keras library,machine learning - machine learning libraries - keras
+Introduction to Bayesian classification,http://software.ucv.ro/~cmihaescu/ro/teaching/AIR/docs/Lab4-NaiveBayes.pdf,,Naive Bayes classifier: Basics,Naive Bayes classifier,machine learning - pattern recognition - statistical classification - probabilistic classification - naive bayes classifier
+Gentle guide to machine learning  \ufe0f,https://monkeylearn.com/blog/a-gentle-guide-to-machine-learning/,article,Prerequisites: Basics,machine learning,machine learning
+But what is a neural network?,https://www.youtube.com/watch?v=aircAruvnKk,video,Deep learning: Basics,deep learning,machine learning - deep learning
+Machine Learning wiki,https://wiki.kourouklides.com/wiki/Machine_Learning,wiki,machine learning,machine learning,machine learning
+Introduction to TensorFlow - CPU vs GPU  \ufe0f,https://medium.com/@erikhallstrm/hello-world-tensorflow-649b15aed18c,article,Implementations: Articles,tensorflow library,machine learning - machine learning libraries - tensorflow
+Examples and experiments around ML,https://github.com/CodingTrain/Machine-Learning,github,Machine learning: Help,machine learning,machine learning
+Pytorch tutorials,http://pytorch.org/tutorials/,,Pytorch: Help,pytorch library,machine learning - machine learning libraries - pytorch
+Delving deep into GANs,https://github.com/GKalliatakis/Delving-deep-into-GANs,github,Generative adversarial networks: Basics,generative adversarial networks,machine learning - neural networks - generative adversarial networks
+Tutorial for reinforcement learning,https://web.mst.edu/~gosavia/tutorial.pdf,,Reinforcement learning: Basics,reinforcement learning,machine learning - reinforcement learning
+On multiplicative integration with recurrent neural networks,https://arxiv.org/abs/1606.06630,paper,Recurrent neural networks: Help,recurrent neural networks,machine learning - neural networks - recurrent neural networks
+Boltzmann machines  \ufe0f,information,mindmap,Basics: Boltzmann machines  \ufe0f,recurrent neural networks,machine learning - neural networks - recurrent neural networks
+Machine learning libraries  \ufe0f,information,mindmap,Basics: Machine learning libraries  \ufe0f,machine learning,machine learning
+Keras docs,https://keras.io/,,Keras: Basics,keras library,machine learning - machine learning libraries - keras
+Understanding and implementing deepmind's DRAW model  \ufe0f,http://blog.evjang.com/2016/06/understanding-and-implementing.html,article,Implementations: Articles,tensorflow library,machine learning - machine learning libraries - tensorflow
+Deep enforcement learning papers,https://github.com/muupan/deep-reinforcement-learning-papers,github,Reinforcement learning: Help,reinforcement learning,machine learning - reinforcement learning
+Notes on unsupervised learning  \ufe0f,http://frnsys.com/ai_notes/machine_learning/unsupervised_learning.html,article,Unsupervised learning: Basics,unsupervised learning,machine learning - unsupervised learning
+Categorical variational autoencoders using gumbel-softmax  \ufe0f,http://blog.evjang.com/2016/11/tutorial-categorical-variational.html,article,Help: Articles,machine learning,machine learning
+Discriminative models  \ufe0f,information,mindmap,Basics: Discriminative models  \ufe0f,machine learning,machine learning
+Machine learning CS 229 course materials,http://cs229.stanford.edu/materials.html,,Prerequisites: Basics,machine learning,machine learning
+How the backpropagation algorithm works  \ufe0f,http://neuralnetworksanddeeplearning.com/chap2.html,article,Backpropagation: Basics,backpropagation,machine learning - neural networks - backpropagation
+MXNet tutorial for Nvidia GTC,https://github.com/dmlc/mxnet-gtc-tutorial,github,MXNet: Basics,MXNet,machine learning - machine learning libraries - mxnet
+Adversarial machine learning,http://www.wikiwand.com/en/Adversarial_machine_learning,wiki,adversarial machine learning,adversarial machine learning,machine learning - adversarial
+Restricted Boltzmann machines,http://www.wikiwand.com/en/Restricted_Boltzmann_machine,wiki,restricted Boltzmann machines,restricted Boltzmann machines,machine learning - neural networks - recurrent neural networks - boltzmann machines - restricted boltzmann machines
+Ensemble learning  \ufe0f,information,mindmap,Basics: Ensemble learning  \ufe0f,machine learning,machine learning
+Perceptrons  \ufe0f,information,mindmap,Basics: Perceptrons  \ufe0f,supervised learning,machine learning - supervised learning
+Caffe  \ufe0f,information,mindmap,Machine learning libraries: Caffe  \ufe0f,machine learning libraries,machine learning - machine learning libraries
+Biases,http://www.wikiwand.com/en/Bias_(statistics),wiki,biases in neural networks,biases in neural networks,machine learning - neural networks - biases
+Ensemble learning,http://www.wikiwand.com/en/Ensemble_learning,wiki,ensemble learning,ensemble learning,machine learning - ensemble learning
+Deep review,https://greenelab.github.io/deep-review/,paper,Deep learning: Help,deep learning,machine learning - deep learning
+TensorFlow world,https://github.com/astorfi/TensorFlow-World,github,Tensorflow: Basics,tensorflow library,machine learning - machine learning libraries - tensorflow
+Tensorflow tutorial: transfer learning,https://www.youtube.com/watch?v=upfgTWrhkpg,video,Transfer learning: Basics,transfer learning,machine learning - deep learning - transfer learning
+Beginner\u2019s guide to reinforcement learning &amp; its implementation  \ufe0f,https://www.analyticsvidhya.com/blog/2017/01/introduction-to-reinforcement-learning-implementation/,article,Reinforcement learning: Basics,reinforcement learning,machine learning - reinforcement learning
+Deep learning in pytorch,https://iamtrask.github.io/2017/01/15/pytorch-tutorial/,,Pytorch: Basics,pytorch library,machine learning - machine learning libraries - pytorch
+Feedforward neural network,http://www.wikiwand.com/en/Feedforward_neural_network,wiki,feedforward neural network,feedforward neural network,machine learning - neural networks - feedforward neural network
+Activation functions its types - which is better?  \ufe0f,https://medium.com/towards-data-science/activation-functions-and-its-types-which-is-better-a9a5310cc8f,article,Help: Articles,deep learning,machine learning - deep learning
+Activation functions,http://www.wikiwand.com/en/Activation_function,wiki,activation functions,activation functions,machine learning - neural networks - activation functions
+Deep generative and speech models for speech recognition,https://www.youtube.com/watch?v=dMxoTgn4z2k,video,Discriminative models: Interesting,discriminative models,machine learning - discriminative models
+Explanation,https://www.youtube.com/watch?v=93rzMHtYT_0,video,Long short term memory: Basics,long short term memory,machine learning - neural networks - long short term memory
+The universal approximation theorem for neural networks  \ufe0f,http://mcneela.github.io/machine_learning/2017/03/21/Universal-Approximation-Theorem.html,article,Papers: Articles,neural networks,machine learning - neural networks
+Grokking deep learning,https://www.manning.com/books/grokking-deep-learning,non-free book,Deep learning: Basics,deep learning,machine learning - deep learning
+Bayesian machine learning  \ufe0f,information,mindmap,Basics: Bayesian machine learning  \ufe0f,bayesian statistics,mathematics - statistics - bayesian statistics
+Discriminative learning for DBNs,https://www.youtube.com/watch?v=0gX4BtLSqIY,video,Discriminative models: Basics,discriminative models,machine learning - discriminative models
+Practical RL,https://github.com/yandexdataschool/Practical_RL,github,Reinforcement learning: Help,reinforcement learning,machine learning - reinforcement learning
+Essential cheat sheets  \ufe0f,https://medium.com/@kailashahirwar/essential-cheat-sheets-for-machine-learning-and-deep-learning-researchers-efb6a8ebd2e5,article,Deep learning: Help,deep learning,machine learning - deep learning
+TensorBox,https://github.com/TensorBox/TensorBox,github,Articles: Interesting,tensorflow library,machine learning - machine learning libraries - tensorflow
+Hacker's guide to neural networks  \ufe0f,http://karpathy.github.io/neuralnets/,article,Neural networks: Basics,neural networks,machine learning - neural networks
+Mlpack,http://www.mlpack.org/,,Machine learning libraries: Mlpack,machine learning libraries,machine learning - machine learning libraries
+Model-agnostic meta-learning for fast adaptation of deep networks,http://proceedings.mlr.press/v70/finn17a/finn17a.pdf,paper,Meta learning: Interesting,meta learning,machine learning - meta learning
+Deep reinforcement learning,http://rll.berkeley.edu/deeprlcourse/,course,Reinforcement learning: Basics,reinforcement learning,machine learning - reinforcement learning
+Sequence to sequence learning with neural networks,https://papers.nips.cc/paper/5346-sequence-to-sequence-learning-with-neural-networks.pdf,paper,Sequence to sequence learning: Basics,sequence to sequence learning,machine learning - neural networks - sequence to sequence learning
+Adversarial exploration policies for robust model learning  \ufe0f,http://blog.evjang.com/2016/06/adversarial-exploration-policies-for.html,article,Implementations: Articles,tensorflow library,machine learning - machine learning libraries - tensorflow
+TensorFlow: a primer  \ufe0f,https://blog.metaflow.fr/tensorflow-a-primer-4b3fa0978be3,article,Tensorflow: Basics,tensorflow library,machine learning - machine learning libraries - tensorflow
+MXNet how to,http://mxnet.io/how_to/index.html,,MXNet: Basics,MXNet,machine learning - machine learning libraries - mxnet
+Support vector machines  \ufe0f,information,mindmap,Basics: Support vector machines  \ufe0f,supervised learning,machine learning - supervised learning
+Where do you get your ml news from?  \ufe0f,https://badhrink.github.io/where-you-get-ml-news/,article,Help: Articles,machine learning,machine learning
+Ml from scratch,https://github.com/eriklindernoren/ML-From-Scratch,github,Machine learning: Help,machine learning,machine learning
+Theano,https://github.com/Theano/Theano,github,Machine learning libraries: Theano,machine learning libraries,machine learning - machine learning libraries
+Deep learning  \ufe0f,information,mindmap,Neural networks  \ufe0f: Deep learning  \ufe0f,machine learning,machine learning
+Long short term memory  \ufe0f,information,mindmap,Basics: Long short term memory  \ufe0f,neural networks,machine learning - neural networks
+Darknet,https://pjreddie.com/darknet/,,Machine learning libraries: Darknet,machine learning libraries,machine learning - machine learning libraries
+Backpropagation through time,http://www.wikiwand.com/en/Backpropagation_through_time,wiki,backpropagation through time,backpropagation through time,machine learning - neural networks - backpropagation - backpropagation through time
+Deep learning  \ufe0f,https://www.technologyreview.com/s/513696/deep-learning/,article,Help: Articles,deep learning,machine learning - deep learning
+Unsupervised learning,http://www.wikiwand.com/en/Unsupervised_learning,wiki,unsupervised learning,unsupervised learning,machine learning - unsupervised learning
+Generative models,http://www.wikiwand.com/en/Generative_model,wiki,generative models,generative models,machine learning - generative models
+Ian Goodfellow : generative adversarial networks,https://www.youtube.com/watch?v=HN9NRhm9waY,video,Generative adversarial networks: Basics,generative adversarial networks,machine learning - neural networks - generative adversarial networks
+Generative adversarial networks  \ufe0f,information,mindmap,Basics: Generative adversarial networks  \ufe0f,neural networks,machine learning - neural networks
+Learning to drive  \ufe0f,http://lab.janhuenermann.de/article/learning-to-drive,article,Autonomous driving: Basics,autonomous driving,machine learning - deep learning - autonomous driving
+Awesome,https://github.com/jtoy/awesome-tensorflow,github,tensorflow library,tensorflow library,machine learning - machine learning libraries - tensorflow
+Foundations for deep learning,https://github.com/pauli-space/foundations_for_deep_learning,github,Deep learning: Basics,deep learning,machine learning - deep learning
+Deep generative models,http://www.deeplearningbook.org/contents/generative_models.html,free book,Generative models: Basics,generative models,machine learning - generative models
+Baselines,https://github.com/openai/baselines,github,Reinforcement learning: Help,reinforcement learning,machine learning - reinforcement learning
+Feedforward neural network - artificial neuron,https://www.youtube.com/watch?v=SGZ6BttHMPw,video,Feedforward neural network: Basics,feedforward neural network,machine learning - neural networks - feedforward neural network
+You should understand backpropagation  \ufe0f,https://medium.com/@karpathy/yes-you-should-understand-backprop-e2f06eab496b,article,Backpropagation: Basics,backpropagation,machine learning - neural networks - backpropagation
+Universal approximation theory  \ufe0f,information,mindmap,Basics: Universal approximation theory  \ufe0f,feedforward neural network,machine learning - neural networks - feedforward neural network
+Hyperparameter optimisation  \ufe0f,information,mindmap,Basics: Hyperparameter optimisation  \ufe0f,machine learning,machine learning
+Relation networks  \ufe0f,information,mindmap,Basics: Relation networks  \ufe0f,neural networks,machine learning - neural networks
+The future of deep learning  \ufe0f,https://blog.keras.io/the-future-of-deep-learning.html,article,Help: Articles,deep learning,machine learning - deep learning
+MXNet tutorials,http://mxnet.io/tutorials/index.html,,MXNet: Basics,MXNet,machine learning - machine learning libraries - mxnet
+Backpropagation  \ufe0f,information,mindmap,Basics: Backpropagation  \ufe0f,neural networks,machine learning - neural networks
+Incredible pytorch,https://github.com/ritchieng/the-incredible-pytorch,github,Pytorch: Help,pytorch library,machine learning - machine learning libraries - pytorch
+Sequence to sequence models with TensorFlow,https://www.tensorflow.org/tutorials/seq2seq,,Sequence to sequence learning: Basics,sequence to sequence learning,machine learning - neural networks - sequence to sequence learning
+Autonomous driving,http://www.wikiwand.com/en/Autonomous_car,wiki,autonomous driving,autonomous driving,machine learning - deep learning - autonomous driving
+"The next frontier in AI, unsupervised learning",https://www.youtube.com/watch?v=9qZMyfVcq30,video,Unsupervised learning: Talks,unsupervised learning,machine learning - unsupervised learning
+Unsupervised learning explained,https://www.youtube.com/watch?v=1qtfILYSDJY,video,Unsupervised learning: Basics,unsupervised learning,machine learning - unsupervised learning
+Machine learning - random forests,https://www.youtube.com/watch?v=3kYujfDgmNk,video,Random forest: Basics,random forests,machine learning - pattern recognition - statistical classification - random forests
+paddle paddle,http://paddlepaddle.org/,other,Basics: Machine learning libraries  \ufe0f,machine learning,machine learning
+Explanation II,http://natureofcode.com/book/chapter-10-neural-networks/#chapter10_figure3,,Perceptrons: Basics,perceptrons,machine learning - supervised learning - perceptrons
+Definition,https://www.youtube.com/watch?v=p4Vh_zMw-HQ,video,Restricted Boltzmann machines: Basics,restricted Boltzmann machines,machine learning - neural networks - recurrent neural networks - boltzmann machines - restricted boltzmann machines
+Decision tree learning,http://www.wikiwand.com/en/Decision_tree_learning,wiki,decision tree learning,decision tree learning,machine learning - decision tree learning
+How to turn text summarisation with TensorFlow  \ufe0f,http://pavel.surmenok.com/2016/10/15/how-to-run-text-summarization-with-tensorflow/,article,Implementations: Articles,tensorflow library,machine learning - machine learning libraries - tensorflow
+/r/deeplearning,https://www.reddit.com/r/deeplearning/,reddit,deep learning,deep learning,machine learning - deep learning
+Meta learning  \ufe0f,information,mindmap,Basics: Meta learning  \ufe0f,machine learning,machine learning
+Explanation,https://www.youtube.com/watch?v=gfPUWwBkXZY,video,Hopfield networks: Basics,Hopfield networks,machine learning - neural networks - recurrent neural networks - hopfield networks
+Statistics  \ufe0f,information,mindmap,Machine learning: Prerequisites,machine learning,machine learning
+Books suggested for machine learning study,http://www.statsblogs.com/2014/12/30/machine-learning-books-suggested-by-michael-i-jordan-from-berkeley/,,Machine learning: Help,machine learning,machine learning
+Autonomous driving  \ufe0f,information,mindmap,Applications: Autonomous driving  \ufe0f,deep learning,machine learning - deep learning
+Deep learning in a nutshell  \ufe0f,http://nikhilbuduma.com/2014/12/29/deep-learning-in-a-nutshell/,article,Deep learning: Basics,deep learning,machine learning - deep learning
+Confounding variables  \ufe0f,http://bl.ocks.org/jmahabal/raw/8f010c62112dec083b559cb047a51048/,article,Help: Articles,machine learning,machine learning
+Generative adversarial nets in tensorflow  \ufe0f,http://blog.evjang.com/2016/06/generative-adversarial-nets-in.html,article,Implementations: Articles,tensorflow library,machine learning - machine learning libraries - tensorflow
+"Learning reinforcement learning (with code, exercises and solutions)  \ufe0f",http://www.wildml.com/2016/10/learning-reinforcement-learning/,article,Reinforcement learning: Help,reinforcement learning,machine learning - reinforcement learning
+Learning deep learning with keras  \ufe0f,http://p.migdal.pl/2017/04/30/teaching-deep-learning.html,article,Keras: Basics,keras library,machine learning - machine learning libraries - keras
+Apollo,https://github.com/ApolloAuto/apollo,github,Autonomous driving: Interesting,autonomous driving,machine learning - deep learning - autonomous driving
+MXNet,https://github.com/dmlc/mxnet,github,MXNet,MXNet,machine learning - machine learning libraries - mxnet
+Awesome,https://github.com/josephmisiti/awesome-machine-learning,github,machine learning,machine learning,machine learning
+Caffe,https://github.com/BVLC/caffe,github,caffe library,caffe library,machine learning - machine learning libraries - caffe
+Machine learning requirements list,https://metacademy.org/roadmaps/cjrd/level-up-your-ml,,Machine learning: Help,machine learning,machine learning
+A beginner's guide to understanding convolutional neural networks  \ufe0f,https://adeshpande3.github.io/adeshpande3.github.io/A-Beginner's-Guide-To-Understanding-Convolutional-Neural-Networks/,article,Convolutional neural networks: Basics,convolutional neural networks,machine learning - neural networks - convolutional neural networks
+A guide to convolution arithmetic for deep learning,https://arxiv.org/abs/1603.07285,paper,Interesting: Papers,convolutional neural networks,machine learning - neural networks - convolutional neural networks
+Neural networks,http://www.wikiwand.com/en/Artificial_neural_network,wiki,neural networks,neural networks,machine learning - neural networks
+Hopfield networks  \ufe0f,information,mindmap,Basics: Hopfield networks  \ufe0f,recurrent neural networks,machine learning - neural networks - recurrent neural networks
+Backpropagation algorithm,https://www.youtube.com/watch?v=LOc_y67AzCA,video,Backpropagation: Basics,backpropagation,machine learning - neural networks - backpropagation
+Effective TensorFlow,https://github.com/vahidk/EffectiveTensorflow,github,Tensorflow: Basics,tensorflow library,machine learning - machine learning libraries - tensorflow
+Machine learning for humans  \ufe0f,https://medium.com/machine-learning-for-humans/why-machine-learning-matters-6164faf1df12,article,Prerequisites: Basics,machine learning,machine learning
+Introduction,https://www.youtube.com/watch?v=hAnfnc2dWBs,video,Linear classification: Basics,linear classification,machine learning - pattern recognition - statistical classification - linear classification
+Curated list of AI and machine learning resources from around the web  \ufe0f,https://unsupervisedmethods.com/my-curated-list-of-ai-and-machine-learning-resources-from-around-the-web-9a97823b8524,article,Machine learning: Help,machine learning,machine learning
+Probabilistic classification,http://www.wikiwand.com/en/Probabilistic_classification,wiki,probabilistic classification,probabilistic classification,machine learning - pattern recognition - statistical classification - probabilistic classification
+Build your neural network,https://github.com/MorvanZhou/PyTorch-Tutorial,github,Pytorch: Basics,pytorch library,machine learning - machine learning libraries - pytorch
+Pytorch examples,https://github.com/jcjohnson/pytorch-examples,github,Pytorch: Help,pytorch library,machine learning - machine learning libraries - pytorch
+Types of artificial neural networks,http://www.wikiwand.com/en/Types_of_artificial_neural_networks,wiki,Neural networks: Help,neural networks,machine learning - neural networks
+Sequence to sequence learning  \ufe0f,information,mindmap,Basics: Sequence to sequence learning  \ufe0f,neural networks,machine learning - neural networks
+Long short term memory,http://www.wikiwand.com/en/Long_short-term_memory,wiki,long short term memory,long short term memory,machine learning - neural networks - long short term memory
+Deep learning models,https://github.com/fchollet/deep-learning-models,github,Keras: Help,keras library,machine learning - machine learning libraries - keras
+Reinforcement learning,http://www.wikiwand.com/en/Reinforcement_learning,wiki,reinforcement learning,reinforcement learning,machine learning - reinforcement learning
+/r/reinforcementlearning,https://www.reddit.com/r/reinforcementlearning/,reddit,reinforcement learning,reinforcement learning,machine learning - reinforcement learning
+A course in machine learning,http://ciml.info/,free book,Prerequisites: Basics,machine learning,machine learning
+Pytorch  \ufe0f,information,mindmap,Machine learning libraries: Pytorch  \ufe0f,machine learning libraries,machine learning - machine learning libraries
+What is bayesian machine learning?,https://www.quora.com/What-is-Bayesian-machine-learning,quora,Bayesian machine learning: Help,bayesian machine learning,mathematics - statistics - bayesian statistics - bayesian machine learning
+Coursera course on machine learning,https://www.coursera.org/learn/machine-learning,course,Prerequisites: Basics,machine learning,machine learning
+"Learn TensorFlow and deep learning, without a Ph.D",https://cloud.google.com/blog/big-data/2017/01/learn-tensorflow-and-deep-learning-without-a-phd,course,Deep learning: Basics,deep learning,machine learning - deep learning
+Visual methods for analysing probabilistic classification data,https://www.youtube.com/watch?v=QUZfPImmeEs,video,Probabilistic classification: Basics,probabilistic classification,machine learning - pattern recognition - statistical classification - probabilistic classification
+The limitations of deep learning  \ufe0f,https://blog.keras.io/the-limitations-of-deep-learning.html,article,Deep learning: Basics,deep learning,machine learning - deep learning
+Pytorch forum,https://discuss.pytorch.org/,chat,Pytorch: Help,pytorch library,machine learning - machine learning libraries - pytorch
+Google brain team,https://research.google.com/teams/brain/,,Machine learning: Help,machine learning,machine learning
+Get started with tensorflow,https://www.tensorflow.org/get_started/get_started,,Tensorflow: Basics,tensorflow library,machine learning - machine learning libraries - tensorflow
+Pattern recognition and machine learning,http://users.isr.ist.utl.pt/~wurmd/Livros/school/Bishop%20-%20Pattern%20Recognition%20And%20Machine%20Learning%20-%20Springer%20%202006.pdf,free book,Prerequisites: Basics,machine learning,machine learning
+Deep learning,http://www.deeplearningbook.org,free book,Deep learning: Basics,deep learning,machine learning - deep learning
+Neural networks  \ufe0f,information,mindmap,Basics: Neural networks  \ufe0f,machine learning,machine learning
+Is functional analysis relevant to machine learning?,https://www.quora.com/Is-functional-analysis-relevant-to-machine-learning,,Machine learning: Help,machine learning,machine learning
+What product breakthroughs will recent advances in deep learning enable?  \ufe0f,http://blog.evjang.com/2016/07/what-product-breakthroughs-will-recent.html,article,Help: Articles,deep learning,machine learning - deep learning
+Lecture on pattern recognition,https://www.youtube.com/watch?v=ZGUlaomeJ-k,video,Pattern recognition: Basics,pattern recognition,machine learning - pattern recognition
+Essential Guide to keep up with AI/ML/CV/UNameIt,https://github.com/BAILOOL/DoYouEvenLearn,github,Machine learning: Help,machine learning,machine learning
+Keras  \ufe0f,information,mindmap,Tensorflow  \ufe0f: Keras  \ufe0f,machine learning libraries,machine learning - machine learning libraries
+Linear classification,http://www.wikiwand.com/en/Linear_classifier,wiki,linear classification,linear classification,machine learning - pattern recognition - statistical classification - linear classification
+Discriminative models,http://www.wikiwand.com/en/Discriminative_model,wiki,discriminative models,discriminative models,machine learning - discriminative models
+Introduction to reinforcement learning,https://www.youtube.com/watch?v=2pWv7GOvuf0&amp;feature=youtu.be&amp;list=PL7-jPKtc4r78-wCZcQn5IqyuWhBZ8fOxT,video,Reinforcement learning: Basics,reinforcement learning,machine learning - reinforcement learning
+Random forest,http://www.wikiwand.com/en/Random_forest,wiki,random forests,random forests,machine learning - pattern recognition - statistical classification - random forests
+Awesome deep learning papers,https://github.com/terryum/awesome-deep-learning-papers,github,Deep learning: Help,deep learning,machine learning - deep learning
+Learning from data,https://work.caltech.edu/telecourse.html,course,Prerequisites: Basics,machine learning,machine learning
+Attention and augmented recurrent neural networks  \ufe0f,http://distill.pub/2016/augmented-rnns/,article,Recurrent neural networks: Basics,recurrent neural networks,machine learning - neural networks - recurrent neural networks
+Backpropagation neural network,https://www.youtube.com/watch?v=WZDMNM36PsM,video,Backpropagation: Basics,backpropagation,machine learning - neural networks - backpropagation
+Recurrent neural networks lecture,http://videolectures.net/deeplearning2016_bengio_neural_networks/,video,Neural networks: Basics,neural networks,machine learning - neural networks
+Machine learning tutorials,https://github.com/ujjwalkarn/Machine-Learning-Tutorials,github,Machine learning: Help,machine learning,machine learning
+Awesome adversarial machine learning,https://github.com/yenchenlin/awesome-adversarial-machine-learning,github,Adversarial machine learning: Help,adversarial machine learning,machine learning - adversarial
+Open source deep learning curriculum  \ufe0f,http://www.deeplearningweekly.com/blog/open-source-deep-learning-curriculum/,article,Deep learning: Help,deep learning,machine learning - deep learning
+Tensorflow,https://github.com/tensorflow/tensorflow,github,tensorflow library,tensorflow library,machine learning - machine learning libraries - tensorflow
+Decision tree learning  \ufe0f,information,mindmap,Basics: Decision tree learning  \ufe0f,machine learning,machine learning
+Summary of nips 2016  \ufe0f,http://blog.evjang.com/2017/01/nips2016.html,article,Help: Articles,machine learning,machine learning
+Deep reinforcement learning: from pong to pixels  \ufe0f,http://karpathy.github.io/2016/05/31/rl/,article,Reinforcement learning: Basics,reinforcement learning,machine learning - reinforcement learning
+Learning both weights and connections for efficient neural networks,https://arxiv.org/abs/1506.02626,paper,Help: Papers,neural networks,machine learning - neural networks
+Computational and statistical learning theory,http://ttic.uchicago.edu/%7Enati/Teaching/TTIC31120/2016/,course,Prerequisites: Basics,machine learning,machine learning
+Foundations of machine learning,http://www.goodreads.com/book/show/15844113-foundations-of-machine-learning,non-free book,Prerequisites: Basics,machine learning,machine learning
+Explanation,http://neuralnetworksanddeeplearning.com/chap1.html#perceptrons,,Perceptrons: Basics,perceptrons,machine learning - supervised learning - perceptrons
+H2O,https://github.com/h2oai/h2o-3,github,Machine learning libraries: H2O,machine learning libraries,machine learning - machine learning libraries
+A short TensorFlow tutorial,https://github.com/silicon-valley-data-science/RNN-Tutorial,github,Recurrent neural networks: Basics,recurrent neural networks,machine learning - neural networks - recurrent neural networks
+Introduction to SVM's  \ufe0f,https://monkeylearn.com/blog/introduction-to-support-vector-machines-svm/,article,Support vector machines: Basics,support vector machines,machine learning - supervised learning - support vector machines
+Universal approximation theory,http://www.wikiwand.com/en/Universal_approximation_theorem,wiki,universal approximation theory,universal approximation theory,machine learning - neural networks - feedforward neural network - universal approximation theory
+Visual introduction to machine learning,http://www.r2d3.us/visual-intro-to-machine-learning-part-1/,interactive,Prerequisites: Basics,machine learning,machine learning
+Boltzmann machines,http://www.wikiwand.com/en/Boltzmann_machine,wiki,Boltzmann machines,Boltzmann machines,machine learning - neural networks - recurrent neural networks - boltzmann machines
+Fully convolutional networks  \ufe0f,information,mindmap,Basics: Fully convolutional networks  \ufe0f,convolutional neural networks,machine learning - neural networks - convolutional neural networks
+Picasso,https://github.com/merantix/picasso,github,Help: Tools,convolutional neural networks,machine learning - neural networks - convolutional neural networks
+TensorFlow implementation,https://github.com/carpedm20/DCGAN-tensorflow,github,Basics: Deep convolutional generative adversarial networks,convolutional neural networks,machine learning - neural networks - convolutional neural networks
+Single-layer neural networks - perceptrons,http://computing.dcu.ie/~humphrys/Notes/Neural/single.neural.html,,Perceptrons: Basics,perceptrons,machine learning - supervised learning - perceptrons
+Documentation,http://nnabla.readthedocs.io/en/latest/,,Nnabla: Basics,nnabla library,machine learning - machine learning libraries - nnabla
+Linear discriminant analysis,http://www.wikiwand.com/en/Linear_discriminant_analysis,wiki,linear discriminant analysis,linear discriminant analysis,machine learning - pattern recognition - linear discriminant analysis
+Fast.ai,http://course.fast.ai/index.html,course,Prerequisites: Basics,machine learning,machine learning
+Deeplearning4j,https://github.com/deeplearning4j/deeplearning4j,github,Machine learning libraries: Deeplearning4j,machine learning libraries,machine learning - machine learning libraries
+Hyperopt tutorial for Optimizing Neural Networks\u2019 Hyperparameters,https://vooban.com/en/tips-articles-geek-stuff/hyperopt-tutorial-for-optimizing-neural-networks-hyperparameters/,interactive,Basics: Hyperparameter optimisation  \ufe0f,machine learning,machine learning
+A beginner's guide to variational methods: mean-field approximation  \ufe0f,http://blog.evjang.com/2016/08/variational-bayes.html,article,Help: Articles,machine learning,machine learning
+Explanation,http://www.scholarpedia.org/article/Ensemble_learning,,Ensemble learning: Basics,ensemble learning,machine learning - ensemble learning
+Neural networks for machine learning,https://www.coursera.org/learn/neural-networks,course,Prerequisites: Basics,machine learning,machine learning
+Practical deep learning for coders,http://course.fast.ai/index.html,course,Keras: Basics,keras library,machine learning - machine learning libraries - keras
+Visual explanation of backpropagation,https://github.com/rasbt/python-machine-learning-book/blob/master/faq/visual-backpropagation.md,github,Backpropagation: Basics,backpropagation,machine learning - neural networks - backpropagation
+AlphaGo and deep learning,https://www.youtube.com/watch?v=qWcfiPi9gUU,video,AlphaGo: Basics,AlphaGo,machine learning - deep learning - alphago
+Linear discriminant analysis  \ufe0f,information,mindmap,Basics: Linear discriminant analysis  \ufe0f,pattern recognition,machine learning - pattern recognition
+Tensorflow and deep learning - without a PhD by Martin G\u00f6rner,https://www.youtube.com/watch?v=vq2nnJ4g6N0,video,Tensorflow: Basics,tensorflow library,machine learning - machine learning libraries - tensorflow
+Deep dive into recurrent neural nets  \ufe0f,http://nikhilbuduma.com/2015/01/11/a-deep-dive-into-recurrent-neural-networks/,article,Recurrent neural networks: Basics,recurrent neural networks,machine learning - neural networks - recurrent neural networks
+MXNet  \ufe0f,information,mindmap,Machine learning libraries: MXNet  \ufe0f,machine learning libraries,machine learning - machine learning libraries
+Implementation in python,https://github.com/dclambert/Python-ELM,github,Extreme learning machines: Help,extreme learning machines,machine learning - neural networks - feedforward neural network - extreme learning machines
+/r/MachineLearning,https://www.reddit.com/r/MachineLearning/,reddit,machine learning,machine learning,machine learning
+How SVM algorithm works,https://www.youtube.com/watch?v=1NxnPkZM9bc,video,Support vector machines: Basics,support vector machines,machine learning - supervised learning - support vector machines
+Convolutional neural networks  \ufe0f,information,mindmap,Basics: Convolutional neural networks  \ufe0f,neural networks,machine learning - neural networks
+DeepSearch,https://github.com/mozilla/DeepSpeech,github,Help: Implementations,tensorflow library,machine learning - machine learning libraries - tensorflow
+Pytorch,http://pytorch.org/,,pytorch library,pytorch library,machine learning - machine learning libraries - pytorch
+Awesome,https://github.com/bharathgs/Awesome-pytorch-list,github,pytorch library,pytorch library,machine learning - machine learning libraries - pytorch
+Notes on AlphaGo  \ufe0f,http://frnsys.com/ai_notes/scratch/alphago.html,article,AlphaGo: Basics,AlphaGo,machine learning - deep learning - alphago
+What is bias in artificial neural network?,https://www.quora.com/What-is-bias-in-artificial-neural-network,quora,Biases: Basics,biases in neural networks,machine learning - neural networks - biases
+Bayesian machine learning  \ufe0f,http://fastml.com/bayesian-machine-learning/,article,Bayesian machine learning: Basics,bayesian machine learning,mathematics - statistics - bayesian statistics - bayesian machine learning
+Pytorch/pytorch,https://github.com/pytorch/pytorch,github,pytorch library,pytorch library,machine learning - machine learning libraries - pytorch
+Reinforcement learning: an introduction,http://incompleteideas.net/sutton/book/bookdraft2017june19.pdf,free book,Reinforcement learning: Basics,reinforcement learning,machine learning - reinforcement learning
+How decision trees work,https://www.youtube.com/watch?v=eKD5gxPPeY0,video,Decision tree learning: Basics,decision tree learning,machine learning - decision tree learning
+Machine learning for software engineers,https://github.com/ZuzooVn/machine-learning-for-software-engineers,github,Machine learning: Help,machine learning,machine learning
+Four experiments in handwriting with a neural network,http://distill.pub/2016/handwriting/,interactive,Help: Articles,machine learning,machine learning
+Ask HN: what math is critical to learn ML,https://news.ycombinator.com/item?id=15116379,,Machine learning: Help,machine learning,machine learning
+Unsupervised learning  \ufe0f,information,mindmap,Basics: Unsupervised learning  \ufe0f,machine learning,machine learning
+Machine learning in python course,https://www.springboard.com/learning-paths/machine-learning-python/,,Machine learning: Help,machine learning,machine learning
+Deep learning,http://www.deeplearningbook.org,free book,Prerequisites: Basics,machine learning,machine learning
+Deep learning software slide,http://cs231n.stanford.edu/slides/2017/cs231n_2017_lecture8.pdf,,Deep learning: Help,deep learning,machine learning - deep learning
+Neon,https://github.com/NervanaSystems/neon,github,Machine learning libraries: Neon,machine learning libraries,machine learning - machine learning libraries
+Neural networks and deep learning,http://neuralnetworksanddeeplearning.com/,free book,Prerequisites: Basics,machine learning,machine learning
+Learning from data: a short course,http://www.goodreads.com/book/show/15706459-learning-from-data,non-free book,Prerequisites: Basics,machine learning,machine learning
+RNNs in TensorFlow  \ufe0f,http://www.wildml.com/2016/08/rnns-in-tensorflow-a-practical-guide-and-undocumented-features/,article,Implementations: Articles,tensorflow library,machine learning - machine learning libraries - tensorflow
+DeepCL,https://github.com/hughperkins/DeepCL,github,Machine learning libraries: DeepCL,machine learning libraries,machine learning - machine learning libraries
+Models built with TensorFlow,https://github.com/tensorflow/models,github,Help: Implementations,tensorflow library,machine learning - machine learning libraries - tensorflow
+Boosting  \ufe0f,information,mindmap,Basics: Boosting  \ufe0f,supervised learning,machine learning - supervised learning
+/r/KerasML,https://www.reddit.com/r/KerasML/,reddit,keras library,keras library,machine learning - machine learning libraries - keras
+Extreme learning machines,http://www.wikiwand.com/en/Extreme_learning_machine,wiki,extreme learning machines,extreme learning machines,machine learning - neural networks - feedforward neural network - extreme learning machines
+Deep generative models for speech and images,https://www.youtube.com/watch?v=vEAq_sBf1CA,video,Generative models: Interesting,generative models,machine learning - generative models
+Role of biases in neural networks   \ufe0f,https://stackoverflow.com/questions/2480650/role-of-bias-in-neural-networks/2499936#2499936,stack exchange,Biases: Basics,biases in neural networks,machine learning - neural networks - biases
+Deep neural nets,https://www.youtube.com/watch?v=VrMHA3yX_QI&amp;list=PLUl4u3cNGP63gFHB6xb-kVBiQHYe_4hSi&amp;index=13,video,Deep learning: Basics,deep learning,machine learning - deep learning
+Machine learning system design  \ufe0f,http://frnsys.com/ai_notes/machine_learning/in_practice.html,article,Prerequisites: Basics,machine learning,machine learning
+Machine learning,https://www.wikiwand.com/en/Machine_learning,wiki,machine learning,machine learning,machine learning
+Lecture notes on support vector machines,http://cs229.stanford.edu/notes/cs229-notes3.pdf,,Support vector machines: Basics,support vector machines,machine learning - supervised learning - support vector machines
+Supervised learning  \ufe0f,information,mindmap,Basics: Supervised learning  \ufe0f,machine learning,machine learning
+Building powerful image classification models using very little data  \ufe0f,https://blog.keras.io/building-powerful-image-classification-models-using-very-little-data.html,article,Help: Articles,keras library,machine learning - machine learning libraries - keras
+Fantastic machine learning,https://github.com/onmyway133/fantastic-machine-learning,github,Machine learning: Help,machine learning,machine learning
+Notes on reinforcement learning  \ufe0f,http://frnsys.com/ai_notes/artificial_intelligence/reinforcement_learning.html,article,Reinforcement learning: Basics,reinforcement learning,machine learning - reinforcement learning
+What\u2019s so great about extreme learning machines?,https://www.reddit.com/r/MachineLearning/comments/34u0go/yann_lecun_whats_so_great_about_extreme_learning/,reddit,Extreme learning machines: Basics,extreme learning machines,machine learning - neural networks - feedforward neural network - extreme learning machines
+A step-by-step guide to synthesising adversarial examples  \ufe0f,http://www.anishathalye.com/2017/07/25/synthesizing-adversarial-examples/,article,Generative adversarial networks: Articles,generative adversarial networks,machine learning - neural networks - generative adversarial networks
+Learning to learn  \ufe0f,http://bair.berkeley.edu/blog/2017/07/18/learning-to-learn/,article,Meta learning: Basics,meta learning,machine learning - meta learning
+Support vector machines,http://www.wikiwand.com/en/Support_vector_machine,wiki,support vector machines,support vector machines,machine learning - supervised learning - support vector machines
+Convolutional neural networks for visual recognition,http://cs231n.github.io/convolutional-networks/,course,Convolutional neural networks: Basics,convolutional neural networks,machine learning - neural networks - convolutional neural networks
+Clear explanation,https://www.youtube.com/watch?v=azXCzI57Yfc,video,Linear discriminant analysis: Basics,linear discriminant analysis,machine learning - pattern recognition - linear discriminant analysis
+TensorLayer,https://github.com/zsdonghao/tensorlayer,github,Machine learning libraries: TensorLayer,machine learning libraries,machine learning - machine learning libraries
+Math for machine learning II,http://www.umiacs.umd.edu/~hal/courses/2013S_ML/math4ml.pdf,,Machine learning: Help,machine learning,machine learning
+Rich tasks crowdsourcing data for more rich tasks  \ufe0f,http://klr.tumblr.com/post/158036182833/rich-tasks-crowdsourcing-data-for-more-rich-tasks,article,Help: Articles,machine learning,machine learning
+Keras resources,https://github.com/fchollet/keras-resources,github,Keras: Help,keras library,machine learning - machine learning libraries - keras
+An end to end implementation of a machine learning pipeline  \ufe0f,https://spandan-madan.github.io/DeepLearningProject/,article,Deep learning: Basics,deep learning,machine learning - deep learning
+Naive Bayes classifier,http://www.wikiwand.com/en/Naive_Bayes_classifier,wiki,Naive Bayes classifier,Naive Bayes classifier,machine learning - pattern recognition - statistical classification - probabilistic classification - naive bayes classifier
+Dropout,http://www.wikiwand.com/en/Dropout_(neural_networks),wiki,dropout technique,dropout technique,machine learning - neural networks - dropout
+Overview to linear classification,http://cs231n.github.io/linear-classify/,,Linear classification: Basics,linear classification,machine learning - pattern recognition - statistical classification - linear classification
+Sluice networks: learning what to share between loosely related tasks,https://arxiv.org/abs/1705.08142,paper,Transfer learning: Interesting,transfer learning,machine learning - deep learning - transfer learning
+Nnabla,https://github.com/sony/nnabla,github,nnabla library,nnabla library,machine learning - machine learning libraries - nnabla
+Machine learning is fun  \ufe0f,https://medium.com/@ageitgey/machine-learning-is-fun-80ea3ec3c471,article,Prerequisites: Basics,machine learning,machine learning
+Torch/torch7,https://github.com/torch/torch7,github,torch library,torch library,machine learning - machine learning libraries - torch
+Torch  \ufe0f,information,mindmap,Machine learning libraries: Torch  \ufe0f,machine learning libraries,machine learning - machine learning libraries
+Introduction  \ufe0f,http://machinelearningmastery.com/gentle-introduction-backpropagation-time/,article,Backpropagation through time: Basics,backpropagation through time,machine learning - neural networks - backpropagation - backpropagation through time
+Explanation,https://computing.ece.vt.edu/~f15ece6504/slides/L13_FCN.pdf,,Fully convolutional networks: Basics,fully convolutional networks,machine learning - neural networks - convolutional neural networks - fully convolutional networks
+Learn machine learning,https://www.reddit.com/r/learnmachinelearning/,reddit,machine learning,machine learning,machine learning
+When not to use deep learning  \ufe0f,http://hyperparameter.space/blog/when-not-to-use-deep-learning/,article,Help: Articles,deep learning,machine learning - deep learning
+Tensorflow resources,https://github.com/skcript/tensorflow-resources,github,Tensorflow: Help,tensorflow library,machine learning - machine learning libraries - tensorflow
+Reinforcement learning  \ufe0f,information,mindmap,Neural networks  \ufe0f: Reinforcement learning  \ufe0f,machine learning,machine learning
+/r/tensorflow,https://www.reddit.com/r/tensorflow/,reddit,tensorflow library,tensorflow library,machine learning - machine learning libraries - tensorflow
+Deep convolutional generative adversarial networks,https://arxiv.org/abs/1511.06434,paper,Basics: Deep convolutional generative adversarial networks,convolutional neural networks,machine learning - neural networks - convolutional neural networks
+Creative applications of deep learning with tensorflow,https://www.kadenze.com/courses/creative-applications-of-deep-learning-with-tensorflow/info,course,Deep learning: Basics,deep learning,machine learning - deep learning
+A casual intro to machine learning  \ufe0f,https://blog.intracto.com/a-casual-intro-to-machine-learning,article,Help: Articles,machine learning,machine learning
+Pattern recognition,http://www.wikiwand.com/en/Pattern_recognition,wiki,pattern recognition,pattern recognition,machine learning - pattern recognition
+Backpropagation through time  \ufe0f,information,mindmap,Basics: Backpropagation through time  \ufe0f,backpropagation,machine learning - neural networks - backpropagation
+Minimal and clean RL examples,https://github.com/rlcode/reinforcement-learning,github,Reinforcement learning: Basics,reinforcement learning,machine learning - reinforcement learning
+Multi-task learning  \ufe0f,information,mindmap,Basics: Multi task learning,machine learning,machine learning
+Vowpal wabbit,https://github.com/JohnLangford/vowpal_wabbit,github,Machine learning libraries: Vowpal wabbit,machine learning libraries,machine learning - machine learning libraries
+"Over 150 of the best machine learning, NLP and python tutorials I found  \ufe0f",https://unsupervisedmethods.com/over-150-of-the-best-machine-learning-nlp-and-python-tutorials-ive-found-ffce2939bd78,article,Help: Articles,machine learning,machine learning
+Zero to one  \ufe0f,https://medium.com/@SamPutnam/deep-learning-download-and-run-a9a1e374d2d9,article,Help: Articles,deep learning,machine learning - deep learning
+Introduction,http://cs231n.github.io/optimization-2/,,Backpropagation: Basics,backpropagation,machine learning - neural networks - backpropagation
+Implementing a CNN for text classification in TensorFlow  \ufe0f,http://www.wildml.com/2015/12/implementing-a-cnn-for-text-classification-in-tensorflow/,article,Implementations: Articles,tensorflow library,machine learning - machine learning libraries - tensorflow
+Hopfield networks,http://www.wikiwand.com/en/Hopfield_network,wiki,Hopfield networks,Hopfield networks,machine learning - neural networks - recurrent neural networks - hopfield networks
+AlphaGo  \ufe0f,information,mindmap,Applications: AlphaGo  \ufe0f,deep learning,machine learning - deep learning
+Comprehensive list of activation function in neural networks with pros/cons   \ufe0f,https://stats.stackexchange.com/questions/115258/comprehensive-list-of-activation-functions-in-neural-networks-with-pros-cons,stack exchange,Activation functions: Basics,activation functions,machine learning - neural networks - activation functions
+Activation functions and its types - which is better?  \ufe0f,https://medium.com/towards-data-science/activation-functions-and-its-types-which-is-better-a9a5310cc8f,article,Activation functions: Basics,activation functions,machine learning - neural networks - activation functions
+Nnabla  \ufe0f,information,mindmap,Machine learning libraries: Nnabla  \ufe0f,machine learning libraries,machine learning - machine learning libraries
+Practical explanation of Naive Bayes classifier  \ufe0f,https://monkeylearn.com/blog/practical-explanation-naive-bayes-classifier/,article,Naive Bayes classifier: Basics,Naive Bayes classifier,machine learning - pattern recognition - statistical classification - probabilistic classification - naive bayes classifier
+Tensorflow  \ufe0f,information,mindmap,Machine learning libraries: Tensorflow  \ufe0f,machine learning libraries,machine learning - machine learning libraries
+Linear classification  \ufe0f,information,mindmap,Basics: Linear classification  \ufe0f,statistical classification,machine learning - pattern recognition - statistical classification
+In TensorFlow,https://github.com/MarvinTeichmann/tensorflow-fcn,github,Fully convolutional networks: Implementations,fully convolutional networks,machine learning - neural networks - convolutional neural networks - fully convolutional networks
+Statistical classification  \ufe0f,information,mindmap,Basics: Statistical classification  \ufe0f,pattern recognition,machine learning - pattern recognition
+Recurrent highway networks,https://arxiv.org/abs/1607.03474,paper,Recurrent neural networks: Help,recurrent neural networks,machine learning - neural networks - recurrent neural networks
+Visual tutorial on ML with examples  \ufe0f,https://www.toptal.com/machine-learning/machine-learning-theory-an-introductory-primer,article,Prerequisites: Basics,machine learning,machine learning
+Which machine learning algorithm should I use?  \ufe0f,https://blogs.sas.com/content/subconsciousmusings/2017/04/12/machine-learning-algorithm-use/,article,Help: Articles,machine learning,machine learning
+UCL MSc Computational Statistics and Machine Learning Revision Notes,https://github.com/acbraith/CSML_notes,github,Machine learning: Help,machine learning,machine learning
+"Information theory, inference, and learning algorithms",http://www.inference.phy.cam.ac.uk/itprnn/book.pdf,free book,Prerequisites: Basics,machine learning,machine learning
+Adversarial machine learning  \ufe0f,information,mindmap,Basics: Adversarial machine learning  \ufe0f,machine learning,machine learning
+On the computational complexity of deep learning,http://lear.inrialpes.fr/workshop/osl2015/slides/osl2015_shalev_shwartz.pdf,,Deep learning: Help,deep learning,machine learning - deep learning
+Overview of multi-task learning for deep learning  \ufe0f,http://ruder.io/multi-task/index.html,article,Multi task learning: Basics,multi-task learning,machine learning - multi task learning
+Deep learning summaries and notes,https://github.com/dennybritz/deeplearning-papernotes,github,Deep learning: Help,deep learning,machine learning - deep learning
+Gentle intro to pytorch  \ufe0f,http://blog.gaurav.im/2017/04/24/a-gentle-intro-to-pytorch/,article,Pytorch: Basics,pytorch library,machine learning - machine learning libraries - pytorch
+Play with neural networks,"http://playground.tensorflow.org/#activation=tanh&amp;batchSize=10&amp;dataset=circle&amp;regDataset=reg-plane&amp;learningRate=0.03&amp;regularizationRate=0&amp;noise=0&amp;networkShape=4,2&amp;seed=0.94493&amp;showTestData=false&amp;discretize=false&amp;percTrainData=50&amp;x=true&amp;y=true&amp;xTimesY=false&amp;xSquared=false&amp;ySquared=false&amp;cosX=false&amp;sinX=false&amp;cosY=false&amp;sinY=false&amp;collectStats=false&amp;problem=classification&amp;initZero=false&amp;hideText=false",interactive,Neural networks: Help,neural networks,machine learning - neural networks
+Dropout  \ufe0f,information,mindmap,Basics: Dropout  \ufe0f,neural networks,machine learning - neural networks
+Probabilistic classification  \ufe0f,information,mindmap,Basics: Probabilistic classification  \ufe0f,statistical classification,machine learning - pattern recognition - statistical classification
+Extreme learning machines  \ufe0f,information,mindmap,Basics: Extreme learning machines  \ufe0f,feedforward neural network,machine learning - neural networks - feedforward neural network
+Neural networks explained,http://natureofcode.com/book/chapter-10-neural-networks/,,Neural networks: Basics,neural networks,machine learning - neural networks
+Tensorflow examples for beginners,https://github.com/aymericdamien/TensorFlow-Examples,github,Tensorflow: Basics,tensorflow library,machine learning - machine learning libraries - tensorflow
+Awesome,https://github.com/carpedm20/awesome-torch,github,torch library,torch library,machine learning - machine learning libraries - torch
+Explanation,https://www.youtube.com/watch?v=puux7KZQfsE,video,Restricted Boltzmann machines: Basics,restricted Boltzmann machines,machine learning - neural networks - recurrent neural networks - boltzmann machines - restricted boltzmann machines
+Abusing GANs to make 8-bit pixel art  \ufe0f,https://medium.com/@ageitgey/abusing-generative-adversarial-networks-to-make-8-bit-pixel-art-e45d9b96cee7,article,Generative adversarial networks: Articles,generative adversarial networks,machine learning - neural networks - generative adversarial networks
+Recurrent neural networks - a short tensorflow tutorial,https://github.com/silicon-valley-data-science/RNN-Tutorial,github,Tensorflow: Help,tensorflow library,machine learning - machine learning libraries - tensorflow
+Xgboost,https://github.com/dmlc/xgboost,github,Machine learning libraries: Xgboost,machine learning libraries,machine learning - machine learning libraries
+Explanation,https://www.youtube.com/watch?v=WJjPVj2bBVQ,video,Universal approximation theory: Basics,universal approximation theory,machine learning - neural networks - feedforward neural network - universal approximation theory
+Cnn benchmarks,https://github.com/jcjohnson/cnn-benchmarks,github,Convolutional neural networks: Help,convolutional neural networks,machine learning - neural networks - convolutional neural networks
+Multi-task learning,http://www.wikiwand.com/en/Multi-task_learning,wiki,multi-task learning,multi-task learning,machine learning - multi task learning
+Build intelligent applications,https://www.coursera.org/specializations/machine-learning,course,Prerequisites: Basics,machine learning,machine learning
+Convolutional neural networks,http://www.wikiwand.com/en/Convolutional_neural_network,wiki,convolutional neural networks,convolutional neural networks,machine learning - neural networks - convolutional neural networks
+Deep reinforcement learning,http://rll.berkeley.edu/deeprlcourse/,course,Deep learning: Basics,deep learning,machine learning - deep learning
+Machine learning demystified,https://github.com/shekit/machine-learning-demystified,github,Machine learning: Help,machine learning,machine learning
+Deep learning made simple  \ufe0f,https://blog.vivekpanyam.com/deep-learning-made-simple-part-1/,article,Deep learning: Basics,deep learning,machine learning - deep learning
+RRN from scratch,https://github.com/pangolulu/rnn-from-scratch,github,Recurrent neural networks: Help,recurrent neural networks,machine learning - neural networks - recurrent neural networks
+Explanation,https://www.youtube.com/watch?v=MHcHUGPKCIc,video,Probabilistic classification: Basics,probabilistic classification,machine learning - pattern recognition - statistical classification - probabilistic classification
+Using neural nets to recognise handwritten digits,http://neuralnetworksanddeeplearning.com/chap1,,Neural networks: Basics,neural networks,machine learning - neural networks
+Biases  \ufe0f,information,mindmap,Basics: Biases  \ufe0f,neural networks,machine learning - neural networks
+Restricted Boltzmann machines  \ufe0f,information,mindmap,Basics: Restricted Boltzmann machines  \ufe0f,Boltzmann machines,machine learning - neural networks - recurrent neural networks - boltzmann machines
+Neural network that changes everything,https://www.youtube.com/watch?v=py5byOOHZM8,video,Convolutional neural networks: Basics,convolutional neural networks,machine learning - neural networks - convolutional neural networks
+Introduction,https://www.youtube.com/watch?v=0dP-YtYZREU,video,Supervised learning: Basics,supervised learning,machine learning - supervised learning
+Recurrent neural networks  \ufe0f,information,mindmap,Basics: Recurrent neural networks  \ufe0f,neural networks,machine learning - neural networks
+A simple neural network module for relational reasoning,https://arxiv.org/abs/1706.01427,paper,Relation networks: Papers,relation networks,machine learning - neural networks - relation networks
+Introduction,http://www.scholarpedia.org/article/Boltzmann_machine,,Boltzmann machines: Basics,Boltzmann machines,machine learning - neural networks - recurrent neural networks - boltzmann machines
+Pybrain,https://github.com/pybrain/pybrain,github,Machine learning libraries: Pybrain,machine learning libraries,machine learning - machine learning libraries
+Bayesian optimisation of hyper parameters,https://www.youtube.com/watch?v=cWQDeB9WqvU,video,Hyperparameter optimisation: Basics,hyperparameter optimisation,machine learning - hyperparameter optimisation
+Machine learning resources,http://www.ritchieng.com/machine-learning-resources/,,Machine learning: Help,machine learning,machine learning
+Keras,https://github.com/fchollet/keras,github,keras library,keras library,machine learning - machine learning libraries - keras
+Optimisation,https://learn-anything.xyz/mathematics/optimisation/convex-optimisation,other,Machine learning: Prerequisites,machine learning,machine learning
+Neural nets notes  \ufe0f,http://frnsys.com/ai_notes/machine_learning/neural_nets.html,article,Neural networks: Basics,neural networks,machine learning - neural networks
+How to learn an algorithm,https://www.youtube.com/watch?v=mF5-tr7qAF4&amp;feature=youtu.be,video,Articles: Talks,deep learning,machine learning - deep learning
+Machine learning in python with scikit-learn,https://www.youtube.com/playlist?list=PL5-da3qGB5ICeMbQuqbbCOQWcS6OYBr5A,video,Scikit learn: Basics,scikit-learn library,machine learning - machine learning libraries - scikit learn
+Machine learning mindmap / cheatsheet,https://github.com/dformoso/machine-learning-mindmap,github,Machine learning: Help,machine learning,machine learning
+Machine learning surveys,https://github.com/metrofun/machine-learning-surveys,github,Machine learning: Help,machine learning,machine learning
+Machine learning - decision trees,https://www.youtube.com/watch?v=-dCtJjlEEgM,video,Decision tree learning: Basics,decision tree learning,machine learning - decision tree learning
+Explanation,https://www.youtube.com/watch?v=UcKPdAM8cnI,video,Dropout: Basics,dropout technique,machine learning - neural networks - dropout
+Pytorch tutorial for deep learning research,https://github.com/yunjey/pytorch-tutorial,github,Pytorch: Basics,pytorch library,machine learning - machine learning libraries - pytorch
+/r/neuralnetworks,https://www.reddit.com/r/neuralnetworks/,reddit,neural networks,neural networks,machine learning - neural networks
+Linear algebra  \ufe0f,information,mindmap,Machine learning: Prerequisites,machine learning,machine learning
+Convolutional neural networks assignments,https://github.com/MyHumbleSelf/cs231n,github,Convolutional neural networks: Help,convolutional neural networks,machine learning - neural networks - convolutional neural networks
+Gentle introduction to neural networks,https://www.youtube.com/watch?v=2sevic5Vy4E,video,Neural networks: Basics,neural networks,machine learning - neural networks
+Generative adversarial networks,http://www.wikiwand.com/en/Generative_adversarial_networks,wiki,generative adversarial networks,generative adversarial networks,machine learning - neural networks - generative adversarial networks
+Quick start,http://scikit-learn.org/stable/tutorial/basic/tutorial.html,,Scikit learn: Basics,scikit-learn library,machine learning - machine learning libraries - scikit learn
+Explanation,https://www.youtube.com/watch?v=UHBmv7qCey4&amp;list=PLUl4u3cNGP63gFHB6xb-kVBiQHYe_4hSi&amp;index=18,video,Boosting: Basics,boosting in machine learning,machine learning - supervised learning - boosting
+Random forests  \ufe0f,information,mindmap,Basics: Random forests  \ufe0f,statistical classification,machine learning - pattern recognition - statistical classification
+Neural nets,https://www.youtube.com/watch?v=uXt8qF2Zzfo&amp;list=PLUl4u3cNGP63gFHB6xb-kVBiQHYe_4hSi&amp;index=12,video,Neural networks: Basics,neural networks,machine learning - neural networks
+Machine learning guide,http://ocdevel.com/podcasts/machine-learning,,Prerequisites: Basics,machine learning,machine learning
+Tiny introduction  \ufe0f,http://mlg.eng.cam.ac.uk/zoubin/bayesian.html,article,Bayesian machine learning: Basics,bayesian machine learning,mathematics - statistics - bayesian statistics - bayesian machine learning
+Echo sequences of random integers  \ufe0f,http://machinelearningmastery.com/how-to-use-an-encoder-decoder-lstm-to-echo-sequences-of-random-integers/,article,Long short term memory: Interesting,long short term memory,machine learning - neural networks - long short term memory
+Generative models and GANs  \ufe0f,https://medium.com/towards-data-science/generative-models-and-gans-fe7efc20020b,article,Generative adversarial networks: Articles,generative adversarial networks,machine learning - neural networks - generative adversarial networks
+Data analysis: clustering and classification,https://www.youtube.com/watch?v=B0TI2q7wgIQ,video,Statistical classification: Basics,statistical classification,machine learning - pattern recognition - statistical classification
+Bias nodes in neural networks,http://makeyourownneuralnetwork.blogspot.nl/2016/06/bias-nodes-in-neural-networks.html,,Biases: Basics,biases in neural networks,machine learning - neural networks - biases
+Transfer learning,http://www.wikiwand.com/en/Transfer_learning,wiki,transfer learning,transfer learning,machine learning - deep learning - transfer learning
+Scikit-learn  \ufe0f,information,mindmap,Machine learning libraries: Scikit learn,machine learning libraries,machine learning - machine learning libraries
+Unreasonable effectiveness of recurrent neural networks   \ufe0f,http://karpathy.github.io/2015/05/21/rnn-effectiveness/,article,Recurrent neural networks: Basics,recurrent neural networks,machine learning - neural networks - recurrent neural networks
+Learning to learn using gradient descent,http://snowedin.net/tmp/Hochreiter2001.pdf,paper,Meta learning: Interesting,meta learning,machine learning - meta learning
+JSAT,https://github.com/EdwardRaff/JSAT,github,Machine learning libraries: JSAT,machine learning libraries,machine learning - machine learning libraries
+Recurrent neural networks,http://www.wikiwand.com/en/Recurrent_neural_network,wiki,recurrent neural networks,recurrent neural networks,machine learning - neural networks - recurrent neural networks
+Meta learning,http://www.wikiwand.com/en/Meta_learning_(computer_science),wiki,meta learning,meta learning,machine learning - meta learning
+Feedforward neural network  \ufe0f,information,mindmap,Basics: Feedforward neural network  \ufe0f,neural networks,machine learning - neural networks
+paddle paddle,https://github.com/PaddlePaddle/,github,machine learning libraries,machine learning libraries,machine learning - machine learning libraries
+Bare bone examples of machine learning in TensorFlow,https://github.com/jostmey/NakedTensor,github,Tensorflow: Help,tensorflow library,machine learning - machine learning libraries - tensorflow
+Neural conversational model in Torch,https://github.com/macournoyer/neuralconvo,github,Torch: Implementations,torch library,machine learning - machine learning libraries - torch
+Monte carlo variance reduction techniques in julia  \ufe0f,http://blog.evjang.com/2016/09/variance-reduction-part1.html,article,Help: Articles,machine learning,machine learning
+Introduction to GANs with code in TensorFlow  \ufe0f,http://blog.aylien.com/introduction-generative-adversarial-networks-code-tensorflow/,article,Generative adversarial networks: Basics,generative adversarial networks,machine learning - neural networks - generative adversarial networks
+"Deep learning, self-taught learning and unsupervised feature learning",https://www.youtube.com/watch?v=n1ViNeWhC24,video,Articles: Talks,deep learning,machine learning - deep learning
+Fully convolutional networks,https://people.eecs.berkeley.edu/~jonlong/long_shelhamer_fcn.pdf,paper,fully convolutional networks,fully convolutional networks,machine learning - neural networks - convolutional neural networks - fully convolutional networks
+Generative models  \ufe0f,information,mindmap,Basics: Generative models  \ufe0f,machine learning,machine learning
+Machine learning overview  \ufe0f,http://frnsys.com/ai_notes/machine_learning/overview.html,article,Help: Articles,machine learning,machine learning
+Ebgan,https://github.com/buriburisuri/ebgan,github,Help: Implementations,tensorflow library,machine learning - machine learning libraries - tensorflow
+The terrible deep learning list,https://github.com/samdeeplearning/The-Terrible-Deep-Learning-List,github,Talks: Interesting,deep learning,machine learning - deep learning
+Machine learning concept map,https://fkcd.ca/EpU.svg,,Machine learning: Help,machine learning,machine learning
+Hyperparameter optimisation,http://www.wikiwand.com/en/Hyperparameter_optimization,wiki,hyperparameter optimisation,hyperparameter optimisation,machine learning - hyperparameter optimisation
+How to code and understand DeepMind\u2019s neural stack machine  \ufe0f,https://iamtrask.github.io/2016/02/25/deepminds-neural-stack-machine/?i=4,article,Papers: Articles,neural networks,machine learning - neural networks
+How to learn machine learning,https://elitedatascience.com/learn-machine-learning,,Machine learning: Help,machine learning,machine learning
