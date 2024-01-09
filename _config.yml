@@ -6,6 +6,3 @@ commonmark:
   options: ["SMART", "FOOTNOTES"]
   extensions: ["strikethrough", "autolink", "table", "tagfilter"]
 
-name: generate-sitemap
-uses: cicirello/generate-sitemap@v1.10.0
-            
