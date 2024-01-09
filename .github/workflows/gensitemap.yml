@@ -19,7 +19,7 @@ jobs:
       id: sitemap
       uses: cicirello/generate-sitemap@v1
       with:
-        base-url-path: https://THE.URL.TO.YOUR.PAGE/
+        base-url-path: https://benutzereinszweidrei.github.io/Open-Learning-Paths/
 
     - name: Output stats
       run: |
