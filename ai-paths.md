@@ -4,8 +4,16 @@ the following self learning study paths are generated with AI and offer moocs an
 
 # Workflow Creation
 
+## generated1
+
 - Created Study Paths at https://www.learn-anything.ca/
 - Found moocs and youtube videos for each topic at https://a.picoapps.xyz/least-away
+
+## generated2
+
+- used https://github.com/BenutzerEinsZweiDrei/Open-Learning-Paths/blob/main/Vault/learn-anything/2017/res_done_cleaned_final.csv as dataframe
+- used https://www.chatcsv.co/ to extract ressources from csv
+- used openai chat to generate article mentioning the ressources
 
 # Degrees
 
