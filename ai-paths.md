@@ -725,6 +725,145 @@ Here are some MOOCs and YouTube videos that explain each topic on the list:<br><
 
 1. Cell Structure:<br>- MOOCs: "Cell Biology" by MIT OpenCourseWare<br>- YouTube videos: "Cell Structure and Function" by Crash Course Biology<br><br>2. Basic Biochemistry:<br>- MOOCs: "Introduction to Biochemistry" by Harvard University<br>- YouTube videos: "Biochemistry Crash Course" by Khan Academy<br><br>3. DNA and RNA:<br>- MOOCs: "Genes and the Human Condition (From Behavior to Biotechnology)" by University of Maryland, College Park<br>- YouTube videos: "DNA Structure and Replication" by Bozeman Science<br><br>4. Cellular Metabolism:<br>- MOOCs: "Cell Cycle and Metabolism" by Stanford Online<br>- YouTube videos: "ATP & Respiration: Crash Course Biology" by Crash Course<br><br>5. Genetics:<br>- MOOCs: "Introduction to Genetics and Evolution" by Duke University<br>- YouTube videos: "Introduction to Genetics" by National Human Genome Research Institute<br><br>6. Evolutionary Biology:<br>- MOOCs: "Introduction to Evolutionary Biology" by Massachusetts Institute of Technology<br>- YouTube videos: "Evolution: It's a Thing - Crash Course Biology" by Crash Course<br><br>7. Microbiology:<br>- MOOCs: "Introductory microbiology" by Coursera<br>- YouTube videos: "Microbiology - Introduction" by Armando Hasudungan<br><br>8. Anatomy and Physiology:<br>- MOOCs: "Introduction to Anatomy & Physiology" by University of Michigan<br>- YouTube videos: "Crash Course Anatomy & Physiology" by Crash Course<br><br>9. Ecology:<br>- MOOCs: "Ecology: Ecosystem Dynamics and Conservation" by University of Melbourne<br>- YouTube videos: "Introduction to Ecology" by Bozeman Science<br><br>10. Biostatistics:<br>- MOOCs: "Statistics for Genomic Data Science" by Johns Hopkins University<br>- YouTube videos: "Introduction to Biostatistics" by Khan Academy<br><br>11. Bioinformatics:<br>- MOOCs: "Bioinformatics for Biologists" by University of Toronto<br>- YouTube videos: "Introduction to Bioinformatics" by Genome Research Institute<br><br>12. Immunology:<br>- MOOCs: "The Immune System" by University of California, Davis<br>- YouTube videos: "Introduction to Immunology" by Khan Academy<br><br>13. Neurobiology:<br>- MOOCs: "Fundamentals of Neuroscience" by Harvard University<br>- YouTube videos: "Neurobiology of Depression" by Andrew Ewald<br><br>14. Developmental Biology:<br>- MOOCs: "Introduction to Developmental Biology" by Yale University<br>- YouTube videos: "Introduction to Developmental Biology" by AKLectureNotes<br><br>15. Molecular Biology:<br>- MOOCs: "Molecular Biology of the Cell" by MIT OpenCourseWare<br>- YouTube videos: "Molecular Biology Crash Course" by Crash Course<br><br>16. Human Pathophysiology:<br>- MOOCs: "Introduction to Human Physiology" by Duke University<br>- YouTube videos: "Human Pathophysiology" by AK LECTURES<br><br>17. Biotechnology:<br>- MOOCs: "Biotechnology and Research Methods" by Imperial College London<br>- YouTube videos: "Introduction to Biotechnology" by National Human Genome Research Institute<br><br>18. Systems Biology:<br>- MOOCs: "Systems Biology: Biomedical Modeling" by Harvard University<br>- YouTube videos: "Introduction to Systems Biology" by Bozeman Science
 
+## generated2
+
+Embarking on a journey through the intricate world of biology requires a compass of diverse resources. Let's navigate through a plethora of materials covering various branches, from cell structure to systems biology.
+
+**Understanding Cellular Mysteries**
+1. **Cell Structure on YouTube**
+   - URL: [Cell Structure](https://www.youtube.com/watch?v=URUJD5NEXC8)
+   - Headline: Cells: Basics
+   - Topic: Cells
+   - Categorization: Biology - Organisms - Cells
+
+**Unraveling the Genetic Code**
+1. **CRISPR: Articles on Medium**
+   - URL: [Everything you should know about CRISPR](https://medium.com/startup-grind/a-primer-on-crispr-and-how-to-learn-more-c1b4ca7159f6)
+   - Headline: CRISPR: Articles
+   - Topic: CRISPR
+   - Categorization: Biology - Genetics - Genetic Engineering - CRISPR
+
+2. **GMOs Information**
+   - URL: Information
+   - Headline: Genetic engineering: GMOs
+   - Topic: Genetic Engineering
+   - Categorization: Biology - Genetics - Genetic Engineering
+
+3. **Reddit: /r/CRISPR**
+   - URL: [CRISPR Subreddit](https://www.reddit.com/r/CRISPR/)
+   - Headline: CRISPR
+   - Topic: CRISPR
+   - Categorization: Biology - Genetics - Genetic Engineering - CRISPR
+
+4. **YouTube: Genetic Engineering Will Change Everything Forever**
+   - URL: [Genetic Engineering Basics](https://www.youtube.com/watch?v=jAhjPd4uNFY)
+   - Headline: CRISPR: Basics
+   - Topic: CRISPR
+   - Categorization: Biology - Genetics - Genetic Engineering - CRISPR
+
+5. **YouTube: Are GMOs Good or Bad? Genetic Engineering & Our Food**
+   - URL: [GMOs Basics](https://www.youtube.com/watch?v=7TmcXYp8xu4)
+   - Headline: Genetically Modified Organisms: Basics
+   - Topic: Genetically Modified Organisms (GMO)
+   - Categorization: Biology - Genetics - Genetic Engineering - GMO
+
+**Diving into Microscopic Realms**
+1. **YouTube: Overview of Microbiology**
+   - URL: [Microbiology Overview](https://www.youtube.com/watch?v=ThU9Ckp1mB8)
+   - Headline: Microbiology: Basics
+   - Topic: Microbiology
+   - Categorization: Biology - Microbiology
+
+2. **Goodreads: Medical Microbiology & Immunology**
+   - URL: [Medical Microbiology & Immunology](http://www.goodreads.com/book/show/808109.Medical_Microbiology_Immunology)
+   - Headline: Immunology: Basics
+   - Topic: Immunology
+   - Categorization: Biology - Immunology
+
+3. **Wikiwand: Microbiology**
+   - URL: [Microbiology](http://www.wikiwand.com/en/Microbiology)
+   - Headline: Microbiology
+   - Topic: Microbiology
+   - Categorization: Biology - Microbiology
+
+**Exploring the Wonders of Anatomy and Physiology**
+1. **YouTube Playlist: Anatomy and Physiology**
+   - URL: [Anatomy and Physiology Playlist](https://www.youtube.com/playlist?list=PLCC2DB523BA8BCB53)
+   - Headline: Anatomy: Basics
+   - Topic: Anatomy
+   - Categorization: Biology - Anatomy
+
+2. **Khan Academy: Human Anatomy and Physiology**
+   - URL: [Human Anatomy and Physiology](https://www.khanacademy.org/science/health-and-medicine/human-anatomy-and-physiology)
+   - Headline: Anatomy: Basics
+   - Topic: Anatomy
+   - Categorization: Biology - Anatomy
+
+**Delving into the Ecosystem**
+1. **Sustainability Information**
+   - URL: Information
+   - Headline: Basics: Sustainability
+   - Topic: Ecology
+   - Categorization: Biology - Ecology - Sustainability
+
+2. **YouTube: The Rise of Sustainability**
+   - URL: [The Rise of Sustainability](https://www.youtube.com/watch?v=L_skrxnh7Ik)
+   - Headline: Sustainability: Interesting
+   - Topic: Sustainability
+   - Categorization: Biology - Ecology - Sustainability
+
+3. **Crash Course: Ecology on YouTube**
+   - URL: [Crash Course Ecology](https://www.youtube.com/watch?v=sjE-Pkjp3u4&amp;list=PL8dPuuaLjXtNdTKZkV_GiIYXpV9w4WxbX)
+   - Headline: Ecology: Basics
+   - Topic: Ecology
+   - Categorization: Biology - Ecology
+
+4. **Khan Academy: Ecology**
+   - URL: [Khan Academy Ecology](https://www.khanacademy.org/science/biology/ecology)
+   - Headline: Ecology: Basics
+   - Topic: Ecology
+   - Categorization: Biology - Ecology
+
+**Cracking the Code of Computational Biology**
+1. **YouTube: Foundations of Computational and Systems Biology**
+   - URL: [Foundations of Computational and Systems Biology](https://www.youtube.com/watch?v=lJzybEXmIj0&amp;list=PLUl4u3cNGP63uK-oWiLgO7LLJV6ZCWXac)
+   - Headline: Computational Biology: Basics
+   - Topic: Computational Biology
+   - Categorization: Biology - Computational Biology
+
+**Incorporating Bioinformatics Insights**
+1. **Reddit: /r/Bioinformatics**
+   - URL: [Bioinformatics Subreddit](https://www.reddit.com/r/bioinformatics/)
+   - Headline: Bioinformatics
+   - Topic: Bioinformatics
+   - Categorization: Biology - Bioinformatics
+
+2. **GitHub: Awesome Bioinformatics**
+   - URL: [Awesome Bioinformatics](https://github.com/danielecook/Awesome-Bioinformatics)
+   - Headline: Bioinformatics
+   - Topic: Bioinformatics
+   - Categorization: Biology - Bioinformatics
+
+3. **Rosalind: Learning Bioinformatics**
+   - URL: [Rosalind](http://rosalind.info/about/)
+   - Headline: Bioinformatics: Basics
+   - Topic: Bioinformatics
+   - Categorization: Biology - Bioinformatics
+
+4. **Wikiwand: Bioinformatics**
+   - URL: [Bioinformatics](http://www.wikiwand.com/en/Bioinformatics)
+   - Headline: Bioinformatics
+   - Topic: Bioinformatics
+   - Categorization: Biology - Bioinformatics
+
+**Exploring the World of Molecular Biology**
+1. **Wikipedia: Polymerase Chain Reaction**
+   - URL: [Polymerase Chain Reaction](https://en.wikipedia.org/wiki/Polymerase_chain_reaction)
+   - Headline: Molecular Biology
+   - Topic: Molecular Biology
+   - Categorization: Chemistry - Biochemistry - Molecular Biology
+
+
 # History
 
 
@@ -773,6 +912,63 @@ Here are some MOOCs and YouTube videos that explain each topic on the list:<br><
 ## generated
 
 Here are some MOOCs and YouTube videos that explain each topic in the list:<br><br>1. Basic Elements of Art:<br>- MOOC: "Introduction to Art: Concepts and Techniques" on Coursera - YouTube video: "The Elements of Art" by SmART School<br><br>2. Color Theory:<br>- MOOC: "Color Theory for Artists and Designers" on Coursera - YouTube video: "Color Theory Basics" by The Art Assignment<br><br>3. Principles of Design:<br>- MOOC: "Design: Creation of Artifacts in Society" on Coursera - YouTube video: "Principles of Design" by The Virtual Instructor<br><br>4. Drawing Fundamentals:<br>- MOOC: "Drawing for Beginners" on Udemy - YouTube video: "Drawing Fundamentals: The Basics" by Proko<br><br>5. Art History:<br>- MOOC: "Art History: Renaissance to 20th Century" on FutureLearn - YouTube video: "Art History Crash Course" by The Art Assignment<br><br>6. Introduction to Different Mediums:<br>- MOOC: "Exploring Mixed Media" on Skillshare - YouTube video: "Introduction to Art Mediums: Drawing, Painting, and More" by Art Prof<br><br>7. Composition Techniques:<br>- MOOC: "Art and Ideas: Teaching with Themes" on edX - YouTube video: "Composition in Art" by The Art Assignment<br><br>8. Perspective Drawing:<br>- MOOC: "Drawing in One-Point Perspective" on Skillshare - YouTube video: "Introduction to Perspective Drawing" by Proko<br><br>9. Figure Drawing:<br>- MOOC: "Figure Drawing: An Introduction" on Udemy - YouTube video: "Figure Drawing Basics" by The Virtual Instructor<br><br>10. Painting Techniques:<br>- MOOC: "Acrylic Painting Techniques" on Skillshare - YouTube video: "Basic Oil Painting Techniques" by The Art Assignment<br><br>11. Mixed Media Art:<br>- MOOC: "Mixed Media Art: Explore, Create and Make Art" on Udemy - YouTube video: "Mixed Media Techniques" by Creationsceecee<br><br>12. Printmaking:<br>- MOOC: "Printmaking for Beginners" on Skillshare - YouTube video: "Introduction to Printmaking" by The Virtual Instructor<br><br>13. Art Criticism and Analysis:<br>- MOOC: "Art, Mind, and Brain: A Cognitive Approach to Art Appreciation" on Coursera - YouTube video: "How to Critique Art" by The Art Assignment<br><br>14. Advanced Drawing and Painting Skills:<br>- MOOC: "Advanced Drawing Techniques" on Skillshare - YouTube video: "Advanced Painting Techniques" by The Virtual Instructor<br><br>15. Conceptual Art:<br>- MOOC: "Conceptual Art: Definition and Techniques" on FutureLearn - YouTube video: "Understanding Conceptual Art" by The Art Assignment<br><br>16. Sculpture Techniques:<br>- MOOC: "Sculpture Techniques: An Introduction" on Udemy - YouTube video: "Sculpture Basics" by The Virtual Instructor<br><br>17. Advanced Art Theory:<br>- MOOC: "Art Theory: A Very Short Introduction" on Oxford Online Courses - YouTube video: "Advanced Art Theory: Critical Theory" by The Art Assignment<br><br>18. Portfolio Development:<br>- MOOC: "Building an Art Portfolio" on Skillshare - YouTube video: "How to Create an Art Portfolio" by The Virtual Instructor<br><br>These resources should provide a good starting point for learning about each topic. Remember to explore other platforms and resources as well to find additional materials that suit your learning style and interests.
+
+## generated2
+
+
+In the vast realm of art, there are various elements and techniques that aspiring artists delve into to refine their craft. Let's navigate through a diverse set of resources covering different aspects of art.
+
+**Art History: Unveiling the Past**
+1. **Khan Academy Art History**
+   - URL: [Khan Academy Art History](https://www.khanacademy.org/humanities/art-history)
+   - Headline: Art history: Basics
+   - Topic: Art history
+   - Categorization: History - Art history
+
+2. **Art History Resources**
+   - URL: [Art History Resources](http://arthistoryresources.net/ARTHLinks.html)
+   - Headline: Art history: Help
+   - Topic: Art history
+   - Categorization: History - Art history
+
+3. **Art History on Wikiwand**
+   - URL: [Art History on Wikiwand](http://www.wikiwand.com/en/Art_history)
+   - Headline: Art history
+   - Topic: Art history
+   - Categorization: History - Art history
+
+4. **/r/ArtHistory (Reddit)**
+   - URL: [Art History Subreddit](https://www.reddit.com/r/ArtHistory/)
+   - Headline: Art history
+   - Topic: Art history
+   - Categorization: History - Art history
+
+**Perfecting Perspective Drawing**
+1. **Digital Perspective Drawing**
+   - URL: [Digital Perspective Drawing](http://i.imgur.com/i6uzNvY.gifv)
+   - Headline: Perspective drawing: Inspiration
+   - Topic: Perspective drawing
+   - Categorization: Art - Drawing - Perspective drawing
+
+2. **How to Draw a Figure in Perspective (YouTube)**
+   - URL: [Figure in Perspective](https://www.youtube.com/watch?v=XtRwwIuzqSw)
+   - Headline: Perspective drawing: Basics
+   - Topic: Perspective drawing
+   - Categorization: Art - Drawing - Perspective drawing
+
+3. **Mind-Blowing Perspective Drawing**
+   - URL: [Mind-Blowing Perspective Drawing](https://i.imgur.com/1pZ82r3.gifv)
+   - Headline: Perspective drawing: Inspiration
+   - Topic: Perspective drawing
+   - Categorization: Art - Drawing - Perspective drawing
+
+4. **Beginner’s Guide to Perspective (YouTube)**
+   - URL: [Beginner’s Guide to Perspective](https://www.youtube.com/watch?v=8Wrk9ewCOo0)
+   - Headline: Perspective drawing: Basics
+   - Topic: Perspective drawing
+   - Categorization: Art - Drawing - Perspective drawing
+
+These resources offer a diverse array of insights, from the historical context of art to the technicalities of perspective drawing, providing valuable tools for both beginners and seasoned artists alike.
 
 # Music
 
