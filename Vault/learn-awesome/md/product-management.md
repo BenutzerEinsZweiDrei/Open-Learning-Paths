@@ -1,0 +1,21 @@
+# product-management<br><br>
+
+Learn Product Management<br>learning_plan|https://www.learnpmwith.me/<br><br>
+Introduction to Software Product Management<br>By University of Alberta via Coursera<br>course|https://www.coursera.org/learn/introduction-to-software-product-management<br><br>
+Lean Production<br>By Technische Universität München (Technical University of Munich) via edX<br>course|https://www.classcentral.com/course/edx-lean-production-8447<br><br>
+Brand and Product Management<br>By IE Business School via Coursera<br>course|https://www.classcentral.com/course/coursera-brand-and-product-management-5478<br><br>
+Digital Product Management: Modern Fundamentals<br>By University of Virginia via Coursera<br>course|https://www.classcentral.com/course/coursera-digital-product-management-modern-fundamentals-8548<br><br>
+Product Management with Lean, Agile and System Design Thinking<br>By Boston University via edX<br>course|https://www.edx.org/course/product-management-with-lean-agile-and-system-design-thinking-2<br><br>
+A/B Testing for Business Analysts<br>By  via Udacity<br>course|https://www.udacity.com/course/ab-testing--ud979<br><br>
+Understanding Customer Experience<br>By Karlstad University via Independent<br>course|https://www.classcentral.com/course/independent-understanding-customer-experience-3176<br><br>
+I290M LAPM public - Google Docs<br>course|https://docs.google.com/document/d/1DELwxJzR7NLVE8gNXBloGMEfZvJwaaWUn6mIoUDKA2o/edit#<br><br>
+Product Management for Journalists<br>By Knight Center for Journalism in the Americas via Independent<br>course|https://journalismcourses.org/PM1016.html<br><br>
+Hooked<br>book|https://www.goodreads.com/book/show/22668729-hooked?ac=1&from_search=true&qid=u4tdjtxk2C&rank=3<br>summary|https://www.booklets.io/b/hooked-by-nir-eyal-booklets<br><br>
+Software Product Management Capstone<br>By University of Alberta via Coursera<br>course|https://www.coursera.org/learn/software-product-management-capstone<br><br>
+A/B Testing<br>By Google via Udacity<br>course|https://www.udacity.com/course/ab-testing--ud257<br><br>
+Building High Conversion Web Forms<br>By Google via Udacity<br>course|https://www.udacity.com/course/building-high-conversion-web-forms--ud890<br><br>
+Engagement & Monetization | Mobile Games<br>By Amazon via Udacity<br>course|https://www.classcentral.com/course/udacity-engagement-monetization-mobile-games-6016<br><br>
+Hooked - Summary by FourMinuteBooks<br>By Nir Eyal<br>summary|https://fourminutebooks.com/hooked-summary/<br>book|https://openlibrary.org/books/OL27172184M/Hooked<br><br>
+The Messy Middle<br>
+  Entrepreneur, Chief Product Officer at Adobe, and product advisor to many of today's top start-ups Scott Belsky believes we focus too much on the start and the finish of any project, ignoring the most important part--the messy middle--where success is truly determined.
+Creating something from nothing is a volatile journey. The first mile births a new idea into existence, and the final mile is all about letting go. We love talking about starts and finishes, even though the middle stretch is the most important and often the most ignored and misunderstood.Every business or creative project is "going great" until it fails--the bumps along the road are endured in isolation. We don't talk about the middle because we're not proud of the turbulence of our own making and the actions we took out of despair. This book sets out to change that.Belsky draws on his experiences building Behance, selling it to and leading product teams at Adobe, and then working as an investor and advisor with companies like Airbnb, Pinterest, Uber, and sweetgreen to distill seven years' worth of vital insights at every stage of building a business. He features examples from some of the most interesting people and teams, from entrepreneurs to writers, from small start-ups to billion-dollar companies transforming their industries.These essential strategies for enduring and optimizing the middle miles will bolster your confidence and fortify your plans to make you Maximize the Middle.<br>book|https://www.goodreads.com/book/show/38821038-maximize-the-middle<br>summary|https://fourminutebooks.com/the-messy-middle-summary/<br><br>
