@@ -998,6 +998,62 @@ These resources offer a diverse array of insights, from the historical context o
 
 Here are some MOOCs and YouTube videos that explain each topic in the list:<br><br>1. Music Theory:<br>- MOOC: "Introduction to Music Theory" on Coursera by Curtis Institute of Music - YouTube: "Music Theory Lessons for Beginners" by Rick Beato<br><br>2. Basic Rhythm:<br>- MOOC: "Fundamentals of Rhythm" on Coursera by Berklee College of Music - YouTube: "Basic Rhythm Tutorial" by Andrew Furmanczyk<br><br>3. Note Reading:<br>- MOOC: "Reading Music: The Fundamentals" on Coursera by The University of Edinburgh - YouTube: "Note Reading for Beginners" by Piano Lessons On The Web<br><br>4. Instrument Techniques:<br>- MOOC: "Introduction to Guitar" on Coursera by Berklee College of Music - YouTube: "Instrument Techniques for Piano" by Pianote<br><br>5. Scales:<br>- MOOC: "Developing Your Musicianship" on Coursera by Berklee College of Music - YouTube: "Understanding Scales in Music Theory" by 8-bit Music Theory<br><br>6. Chords:<br>- MOOC: "Exploring Harmony and Chord Progressions" on Coursera by Berklee College of Music - YouTube: "Understanding Basic Chords in Music Theory" by Signals Music Studio<br><br>7. Ear Training:<br>- MOOC: "How to Make a Song" on Coursera by Berklee College of Music - YouTube: "Ear Training for Musicians" by Michael New<br><br>8. Basic Music Notation:<br>- MOOC: "Introduction to Music Theory" on Coursera by Curtis Institute of Music - YouTube: "Reading Sheet Music for Beginners" by Piano Lessons On The Web<br><br>9. Harmony:<br>- MOOC: "Developing Your Musicianship" on Coursera by Berklee College of Music - YouTube: "Understanding Harmony in Music Theory" by 8-bit Music Theory<br><br>10. Melody Writing:<br>- MOOC: "Songwriting: Writing a Song from Start to Finish" on Coursera by Berklee College of Music - YouTube: "Tips for Writing Catchy Melodies" by Holistic Songwriting<br><br>11. Advanced Rhythm:<br>- MOOC: "Advanced Music Theory and Notation" on Coursera by Vanderbilt University - YouTube: "Advanced Rhythm Techniques in Music" by The Drum Professor<br><br>12. Music Analysis:<br>- MOOC: "Music Theory and Analysis" on Coursera by The University of Edinburgh - YouTube: "How to Analyze Music" by Sideways<br><br>13. Midi Sequencing:<br>- MOOC: Currently, there are no specific MOOCs available for this topic.<br>- YouTube: "MIDI Sequencing Tutorial" by MIDI Music Production<br><br>14. Arranging:<br>- MOOC: "Introduction to Classical Music" on Coursera by Yale University (includes arranging concepts)<br>- YouTube: "Arranging for Beginners" by Walk That Bass<br><br>15. Composition:<br>- MOOC: "Songwriting: Writing the Lyrics" on Coursera by Berklee College of Music (focuses on lyric composition)<br>- YouTube: "Composition Masterclass" by Adam Neely<br><br>16. Orchestration:<br>- MOOC: "Introduction to Orchestration" on Coursera by Michigan State University - YouTube: "Orchestration Tutorial" by David Bruce Composer<br><br>17. Conducting:<br>- MOOC: Currently, there are no specific MOOCs available for this topic.<br>- YouTube: "Conducting Basics: Technique" by Orchestra Victoria<br><br>18. Music Technology:<br>- MOOC: "Music Production and Vocal Recording Technology" on Coursera by Berklee College of Music - YouTube: "Music Technology Explained" by Loopop<br><br>19. Advanced Music Theory:<br>- MOOC: "Advanced Music Theory and Notation" on Coursera by Vanderbilt University - YouTube: "Advanced Music Theory Lessons" by Ben Levin<br><br>20. Music History:<br>- MOOC: "Introduction to Classical Music" on Coursera by Yale University - YouTube: "Music History Crash Course" by CrashCourse
 
+## generated2
+
+## Harmony
+- **URL:** [Information](https://arxiv.org/html/1202.4212v2)
+  - **Information:** Harmony 🎶, Basics: Harmony 🎶, music theory, art - music - music theory
+- **URL:** [Reddit - /r/musictheory](https://www.reddit.com/r/musictheory/)
+  - **Information:** /r/musictheory, music theory, music theory, art - music - music theory
+- **URL:** [Wikiwand - Harmony](http://www.wikiwand.com/en/Harmony)
+  - **Information:** Harmony 🎶, harmony 🎶, harmony 🎶, art - music - music theory - harmony 🎶
+- **URL:** [Dave Conservatoire](http://www.daveconservatoire.org/)
+  - **Information:** Dave conservatoire, Music theory: Basics, music theory, art - music - music theory
+- **URL:** [Wikiwand - Music Theory](http://www.wikiwand.com/en/Music_theory)
+  - **Information:** Music theory, music theory, music theory, art - music - music theory
+- **URL:** [Open Music Theory](http://openmusictheory.com/)
+  - **Information:** Open music theory, Music theory: Basics, music theory, art - music - music theory
+- **URL:** [YouTube - Basics of Music Theory](https://www.youtube.com/watch?v=re4Rx0j2eMI&amp;feature=youtu.be)
+  - **Information:** Basics of music theory, Music theory: Basics, music theory, art - music - music theory
+- **URL:** [Ableton - Learning Music](https://learningmusic.ableton.com/)
+  - **Information:** Get started making music, Music theory: Basics, music theory, art - music - music theory
+- **URL:** [YouTube Playlist - Music Theory Fundamentals](https://www.youtube.com/playlist?list=PL1302D94F247600CD)
+  - **Information:** Music theory fundamentals, Music theory: Basics, music theory, art - music - music theory
+- **URL:** [Wikiwand - Music Modes](http://www.wikiwand.com/en/Mode_(music))
+  - **Information:** Music modes, Basics: Music modes, music theory, art - music - music theory
+- **URL:** [Wikiwand - Live Coding](http://www.wikiwand.com/en/Live_coding)
+  - **Information:** Live coding music, Music theory 🎶: Live coding music, music, art - music
+- **URL:** [Goodreads - Practical Theory Complete](https://www.goodreads.com/book/show/1419930.Practical_Theory_Complete)
+  - **Information:** Practical theory complete: A self-instruction music theory course, Music theory: Basics, music theory, art - music - music theory
+- **URL:** [Coursera - Fundamentals of Music Theory](https://www.coursera.org/learn/edinburgh-music-theory)
+  - **Information:** Fundamentals of music theory, Music theory: Basics, music theory, art - music - music theory
+- **URL:** [Music Theory Lessons](http://www.musictheory.net/lessons)
+  - **Information:** Music theory lessons, Music theory: Basics, music theory, art - music - music theory
+
+## Harmony (Specific Resource)
+- **URL:** [YouTube - How do schools of fish swim in harmony](https://www.youtube.com/watch?v=dkP8NUwB2io)
+  - **Information:** How do schools of fish swim in harmony, Fish: Basics, fish, biology - zoology - animals - fish
+
+## Composition
+- **URL:** [YouTube - Explanation - Singular Value Decomposition](https://www.youtube.com/watch?v=mBcLRGuAFUk)
+  - **Information:** Explanation, Singular Value Decomposition: Basics, matrices, mathematics - linear algebra - matrices - singular value decomposition
+- **URL:** [Wikiwand - Singular Value Decomposition](http://www.wikiwand.com/en/Singular_value_decomposition)
+  - **Information:** Singular value decomposition, Singular value decomposition, singular value decomposition, mathematics - linear algebra - matrices - singular value decomposition
+
+## Orchestration
+- **URL:** [Mesosphere](https://mesosphere.com/)
+  - **Information:** Mesosphere, Container orchestration: Mesosphere, DevOps, programming - software development - devops
+- **URL:** [Docker Swarm](information)
+  - **Information:** Docker swarm 🐳, Container orchestration: Docker swarm 🐳, DevOps, programming - software development - devops
+- **URL:** [Nomad by HashiCorp](https://github.com/hashicorp/nomad)
+  - **Information:** Nomad, Container orchestration: Nomad, DevOps, programming - software development - devops
+- **URL:** [Kubernetes](https://information)
+  - **Information:** Kubernetes 🚢, Container orchestration: Kubernetes 🚢, DevOps, programming - software development - devops
+- **URL:** [Wikiwand - Apache Mesos](http://www.wikiwand.com/en/Apache_Mesos)
+  - **Information:** Mesos, Container orchestration: Mesos, DevOps, programming - software development - devops
+
+This extensive compilation serves as a guide to various aspects of music theory, including harmony, composition, and orchestration, offering a plethora of resources for enthusiasts and learners in the realm of music.
+
 # Philosophy
 
 
@@ -1126,6 +1182,62 @@ Here are some suggested MOOCs and YouTube videos that explain each topic in the 
 
 Definition of anthropology:<br><br>MOOCs:<br>1. "Introduction to Cultural Anthropology" by The Ohio State University on Coursera: https://www.coursera.org/learn/intro-cultural-anthropology<br>2. "Becoming Human: Anthropology" by Arizona State University on edX: https://www.edx.org/professional-certificate/asu-becoming-human-anthropology<br>3. "Anthropology of Current World Issues" by Tsinghua University on edX: https://www.edx.org/course/anthropology-of-current-world-issues<br><br>YouTube Videos:<br>1. "Introduction to Anthropology" by CrashCourse: https://www.youtube.com/watch?v=2Bt9_iDKYSo<br>2. "Anthropology Explained in 2 Minutes" by University of Sheffield: https://www.youtube.com/watch?v=PYoV4iO22Ks<br>3. "What is Anthropology?" by London School of Economics and Political Science: https://www.youtube.com/watch?v=iXjv-vfd_Wg<br><br>History of anthropology:<br><br>MOOCs:<br>1. "History and Future of (Mostly) Higher Education" by University of Michigan on Coursera: https://www.coursera.org/learn/higher-education<br>2. "Archaeoastronomy: Exploring Ancient Time and Space" by University of Colorado Boulder on Coursera: https://www.coursera.org/learn/archaeoastronomy<br>3. "Anthropology: Understanding Societies and Cultures" by Universitat Autònoma de Barcelona on Coursera: https://www.coursera.org/learn/anthropology<br><br>YouTube Videos:<br>1. "History of Anthropology" by Bill Willers: https://www.youtube.com/watch?v=sTh6OqjjHBQ<br>2. "A Brief History of Anthropology" by Officehour Anthropology: https://www.youtube.com/watch?v=GAbIeZNHfZY<br>3. "History of Anthropology" by Dr. E. Douglas Lewis: https://www.youtube.com/watch?v=G_Cn4XnYAF0<br><br>Four fields of anthropology:<br><br>MOOCs:<br>1. "Anthropology: Understanding Societies and Cultures" by Universitat Autònoma de Barcelona on Coursera: https://www.coursera.org/learn/anthropology<br>2. "Introduction to Biological Anthropology" by University of Toronto on Coursera: https://www.coursera.org/learn/biological-anthropology<br>3. "Archaeology and History of the Palatine Hill" by University of Rome La Sapienza on edX: https://www.edx.org/course/archaeology-and-history-of-the-palatine-hill<br><br>YouTube Videos:<br>1. "The Four Fields of Anthropology" by Officehour Anthropology: https://www.youtube.com/watch?v=sZNjKeaJBTE<br>2. "Anthropology 101: The Four Fields" by Anthropology Consulting: https://www.youtube.com/watch?v=vwJDHqA9RbQ<br>3. "Four Fields of Anthropology" by Dr. Michael Wesch: https://www.youtube.com/watch?v=RwdBOgXwYpg<br><br>Cultural anthropology:<br><br>MOOCs:<br>1. "Introduction to Cultural Anthropology" by The Ohio State University on Coursera: https://www.coursera.org/learn/intro-cultural-anthropology<br>2. "The Science of Everyday Thinking" by University of Queensland on edX: https://www.edx.org/course/the-science-of-everyday-thinking<br>3. "Cultural Intelligence: Managing Through Diversity" by Purdue University on edX: https://www.edx.org/professional-certificate/purduex-cultural-intelligence-managing-through-diversity<br><br>YouTube Videos:<br>1. "Introduction to Cultural Anthropology" by CrashCourse: https://www.youtube.com/watch?v=Z0K6jf0Y-HA<br>2. "What is Cultural Anthropology?" by London School of Economics and Political Science: https://www.youtube.com/watch?v=6-C8OEdible<br>3. "Cultural Anthropology Overview" by Officehour Anthropology: https://www.youtube.com/watch?v=Ax14b27FVY0<br><br>Biological anthropology:<br><br>MOOCs:<br>1. "Introduction to Biological Anthropology" by University of Toronto on Coursera: https://www.coursera.org/learn/biological-anthropology<br>2. "Human Evolution: Past and Future" by University of Bath on FutureLearn: https://www.futurelearn.com/courses/human-evolution-past-and-future<br>3. "Bones, Stones, and Genes: The Origins of Modern Humanity" by University of Hawai'i at Mānoa on Coursera: https://www.coursera.org/learn/origins<br><br>YouTube Videos:<br>1. "Biological Anthropology Summary" by Officehour Anthropology: https://www.youtube.com/watch?v=1YLY2n0_IFw<br>2. "Introduction to Biological Anthropology" by CrashCourse: https://www.youtube.com/watch?v=QU561ZN2WaU<br>3. "Human Origins and Biological Anthropology" by Khan Academy: https://www.youtube.com/watch?v=KlWsKNA1e7E<br><br>Archaeology:<br><br>MOOCs:<br>1. "Archaeology: From Dig to Lab and Beyond" by University of Reading on FutureLearn: https://www.futurelearn.com/courses/archaeology<br>2. "Archaeology's Dirty Little Secrets" by Brown University on Coursera: https://www.coursera.org/learn/intern<br>3. "Archaeoastronomy: Exploring Ancient Time and Space" by University of Colorado Boulder on Coursera: https://www.coursera.org/learn/archaeoastronomy<br><br>YouTube Videos:<br>1. "Archaeology Basics: What is Archaeology?" by Joshua Schiefer on YouTube: https://www.youtube.com/watch?v=HOnyQ25X0C4<br>2. "Introduction to Archaeology" by CrashCourse: https://www.youtube.com/watch?v=XW2QZ6FyGJ0<br>3. "Introduction to Archaeology Lecture Series" by Archaeological Institute of America: https://www.youtube.com/playlist?list=PLWkqsNlS1fBLMyhvrbC0E32sr7-2P-Zf<br><br>Linguistic anthropology:<br><br>MOOCs:<br>1. "Language Revival: Securing the Future of Endangered Languages" by University of Adelaide on Open2Study: https://www.open2study.com/courses/language-revival<br>2. "Introduction to Linguistics" by University of Oxford on FutureLearn: https://www.futurelearn.com/courses/introduction-to-linguistics<br>3. "Linguistics: The Science of Language" by University of Melbourne on Coursera: https://www.coursera.org/learn/linguistics<br><br>YouTube Videos:<br>1. "What is Linguistic Anthropology?" by Officehour Anthropology: https://www.youtube.com/watch?v=P78ymaiRy1s<br>2. "Introduction to Linguistic Anthropology" by CrashCourse: https://www.youtube.com/watch?v=RpAgM5N7xzo<br>3. "What is Linguistic Anthropology?" by Georgia State University Department of Anthropology: https://www.youtube.com/watch?v=6eNJxijzbQw<br><br>Ethnography:<br><br>MOOCs:<br>1. "Ethnography: Understanding People and Culture" by University of Queensland on edX: https://www.edx.org/professional-certificate/queenslandx-ethnography-understanding-people-and-culture<br>2. "The Science of Everyday Thinking" by University of Queensland on edX: https://www.edx.org/course/the-science-of-everyday-thinking<br>3. "Culture, Identity and Globalization: An Introduction" by Universiteit Leiden on Coursera: https://www.coursera.org/learn/culture-identity-globalization<br><br>YouTube Videos:<br>1. "What is Ethnography?" by Officehour Anthropology: https://www.youtube.com/watch?v=FPmx8oJUinI<br>2. "Ethnography" by Georgia State University Department of Anthropology: https://www.youtube.com/watch?v=WG6_YTqlJl0<br>3. "What is Ethnography?" by Clarissa Hsu: https://www.youtube.com/watch?v=-4h8K-5Jy1I<br><br>Ethnology:<br><br>MOOCs:<br>1. "Ethnography: Understanding People and Culture" by University of Queensland on edX: https://www.edx.org/professional-certificate/queenslandx-ethnography-understanding-people-and-culture<br>2. "The Anthropology of Other Worlds" by Australian National University on edX: https://www.edx.org/professional-certificate/australian-national-university/the-anthropology-of-other-worlds<br>3. "Culture, Identity and Globalization: An Introduction" by Universiteit Leiden on Coursera: https://www.coursera.org/learn/culture-identity-globalization<br><br>YouTube Videos:<br>1. "Ethnology & Anthropology" by Dallas Pettigrew: https://www.youtube.com/watch?v=2DknhUSJNag<br>2. "What is Ethnology?" by Officehour Anthropology: https://www.youtube.com/watch?v=9lwwyaGmvvk<br>3. "Ethnology" by Intro to Anthropology: https://www.youtube.com/watch?v=lnTV-PXf64A<br><br>Cultural relativism:<br><br>MOOCs:<br>1. "Anthropology: Understanding Societies and Cultures" by Universitat Autònoma de Barcelona on Coursera: https://www.coursera.org/learn/anthropology<br>2. "Introduction to Political Philosophy" by University of Edinburgh on Coursera: https://www.coursera.org/learn/philosophy-politics<br>3. "Ethics in Medicine: the Impact of Illness" by Georgetown University on Open2Study: https://www.open2study.com/courses/ethics-in-medicine-the-impact-of-illness<br><br>YouTube Videos:<br>1. "Cultural Relativism Explained" by Examined Existence: https://www.youtube.com/watch?v=Yr_nwd6_KSA<br>2. "Cultural Relativism" by IamBorzy: https://www.youtube.com/watch?v=q2bl-fyhXGk<br>3. "Cultural Relativism" by Wireless Philosophy: https://www.youtube.com/watch?v=viNKxZy0B2w<br><br>Human evolution:<br><br>MOOCs:<br>1. "Origins - Formation of the Universe, Solar System, Earth and Life" by University of Copenhagen on Coursera: https://www.coursera.org/learn/origins<br>2. "Human Evolution: Past and Future" by University of Bath on FutureLearn: https://www.futurelearn.com/courses/human-evolution-past-and-future<br>3. "Evolution Today: The Future through the Past" by University of Cape Town on FutureLearn: https://www.futurelearn.com/courses/evolution-today<br><br>YouTube Videos:<br>1. "Human Evolution Explained" by Kurzgesagt – In a Nutshell: https://www.youtube.com/watch?v=hOPErc7FVHU<br>2. "The Story of Human Evolution" by The Royal Institution: https://www.youtube.com/watch?v=SPtjcruvpvk<br>3. "Ape to Human Evolution" by Stated Clearly: https://www.youtube.com/watch?v=zsXP8qeFF6A<br><br>Primate behavior:<br><br>MOOCs:<br>1. "Animal Behaviour and Welfare" by University of Edinburgh on Coursera: https://www.coursera.org/learn/animal-behaviour-welfare<br>2. "Monkey Tales: Understanding Human Evolution" by Leiden University on Coursera: https://www.coursera.org/learn/human-evolution<br>3. "Chimpanzee Behavior and Conservation" by Kyoto University on edX: https://www.edx.org/professional-certificate/kyoto-u-x-chimpanzee-behavior-and-conservation<br><br>YouTube Videos:<br>1. "Primate Behavior" by Officehour Anthropology: https://www.youtube.com/watch?v=FFSYCisETc8<br>2. "Primate Behavior: An Overview" by Marco Seelig: https://www.youtube.com/watch?v=wv-zWhb-Su4<br>3. "Introduction to Primate Behavior" by Dr. E. Douglas Lewis: https://www.youtube.com/watch?v=3FmN0P0Y-0c<br><br>Forensic anthropology:<br><br>MOOCs:<br>1. "Introduction to Forensic Science" by Nanyang Technological University on Coursera: https://www.coursera.org/learn/forensic-science<br>2. "Forensic Science and Criminal Justice" by University of Leicester on FutureLearn: https://www.futurelearn.com/courses/forensic-science<br>3. "Introduction to the Science of Forensic Medicine" by University of Glasgow on FutureLearn: https://www.futurelearn.com/courses/science-of-forensics<br><br>YouTube Videos:<br>1. "Forensic Anthropology: Science of Bones" by Forensic Anthropology Center at Texas State University: https://www.youtube.com/watch?v=LhlqCJ57a2A<br>2. "Forensic Anthropology 101" by eHow: https://www.youtube.com/watch?v=2281cbyHJNQ<br>3. "The Real World of Forensic Anthropology" by National Geographic: https://www.youtube.com/watch?v=qUvKqN9JOXM<br><br>Anthropological theories:<br><br>MOOCs:<br>1. "Cultural Intelligence: Managing Through Diversity" by Purdue University on edX: https://www.edx.org/professional-certificate/purduex-cultural-intelligence-managing-through-diversity<br>2. "An Anthropology of Abundance: Perspectives on Economy & Society" by University of Texas at Austin on edX: https://www.edx.org/professional-certificate/ut-austin-anthropology-abundance<br>3. "Culture, Identity and Globalization: An Introduction" by Universiteit Leiden on Coursera: https://www.coursera.org/learn/culture-identity-globalization<br><br>YouTube Videos:<br>1. "Anthropological Theory: An Overview" by Officehour Anthropology: https://www.youtube.com/watch?v=fyxhH0PCReg<br>2. "Anthropological Theory" by A. Josh Haskell: https://www.youtube.com/watch?v=VJSdJhsF-0s<br>3. "Major Theoretical Perspectives in Anthropology" by Marissa Nuncio: https://www.youtube.com/watch?v=ZDwtAZHxIvI<br><br>Cultural change and adaptation:<br><br>MOOCs:<br>1. "Culture, Identity and Globalization: An Introduction" by Universiteit Leiden on Coursera: https://www.coursera.org/learn/culture-identity-globalization<br>2. "Culture, Health and Wellbeing: An Introduction" by FutureLearn: https://www.futurelearn.com/courses/culture-health-wellbeing<br>3. "Cultural Intelligence: Managing Through Diversity" by Purdue University on edX: https://www.edx.org/professional-certificate/purduex-cultural-intelligence-managing-through-diversity<br><br>YouTube Videos:<br>1. "Cultural Change Explained" by The Anthropology Review: https://www.youtube.com/watch?v=YqxNtK1dbFY<br>2. "Cultural Adaptation" by Mind Your Dharma: https://www.youtube.com/watch?v=NzZ4k8-0-Gw<br>3. "How Cultures Change" by Officehour Anthropology: https://www.youtube.com/watch?v=dqe1meKtazk<br><br>Ethnicity and race:<br><br>MOOCs:<br>1. "Ethics and Diversity in Business" by University of Illinois at Urbana-Champaign on Coursera: https://www.coursera.org/learn/diversity-and-inclusion<br>2. "Cultural Intelligence: Managing Through Diversity" by Purdue University on edX: https://www.edx.org/professional-certificate/purduex-cultural-intelligence-managing-through-diversity<br>3. "Race and Cultural Diversity in American Life and History" by University of Illinois at Urbana-Champaign on Coursera: https://www.coursera.org/learn/race-diversity-american-life<br><br>YouTube Videos:<br>1. "Ethnicity vs Race - Difference Explained" by The Infographics Show: https://www.youtube.com/watch?v=dTLQRxamWtg<br>2. "Ethnicity and Identity" by Officehour Anthropology: https://www.youtube.com/watch?v=FDPTgIQARDA<br>3. "Understanding Race and Ethnicity" by CrashCourse: https://www.youtube.com/watch?v=fjspaYWAlmo<br><br>Colonialism and postcolonialism:<br><br>MOOCs:<br>1. "Freedom and Protest: Magna Carta and its Legacies" by University of London on FutureLearn: https://www.futurelearn.com/courses/magna-carta<br>2. "Understanding Language: Learning and Teaching" by University of Southampton on FutureLearn: https://www.futurelearn.com/courses/understanding-language<br>3. "The Holocaust - An Introduction" by Tel Aviv University on Coursera: https://www.coursera.org/learn/holocaust<br><br>YouTube Videos:<br>1. "Colonialism and Postcolonialism" by Dr. Neeraj Kumar: https://www.youtube.com/watch?v=rOTMZEidz9c<br>2. "Colonialism and its Legacy" by Angus McNelly: https://www.youtube.com/watch?v=7MKlhtvbMVc<br>3. "Postcolonial Theory Explained" by Tymisha Harkins: https://www.youtube.com/watch?v=1dG65gowJpQ<br><br>Applied anthropology:<br><br>MOOCs:<br>1. "Culture, Identity and Globalization: An Introduction" by Universiteit Leiden on Coursera: https://www.coursera.org/learn/culture-identity-globalization<br>2. "Anthropology of Current World Issues" by Tsinghua University on edX: https://www.edx.org/course/anthropology-of-current-world-issues<br>3. "Introduction to Ethics: Exploring the Intersection of Morality and Applied Ethics" by Santa Clara University on Coursera: https://www.coursera.org
 
+## generated2
+
+## Anthropology Overview
+- **Definition of anthropology:** Unfortunately, no specific result was found.
+
+## History of Anthropology
+- **History of anthropology:** Regrettably, no specific result was found.
+
+## Four Fields of Anthropology
+- **Four fields of anthropology:** Alas, no specific result was found.
+
+## Cultural Anthropology
+- **Resource Name:** [Small places, large issues: an introduction to social and cultural anthropology](https://www.goodreads.com/book/show/207294.Small_Places_Large_Issues)
+- **URL Type:** Non-free book
+- **Headline:** Anthropology: Basics
+- **Topic:** anthropology
+- **Categorization:** anthropology
+
+## Biological Anthropology
+- Unfortunately, no specific result was found.
+
+## Archaeology
+- **Resource Name:** [Short film on archaeology profession](https://www.youtube.com/watch?v=ao4vVcfvyuE)
+  - **URL Type:** Video
+  - **Headline:** Archaeology: Basics
+  - **Topic:** archaeology
+  - **Categorization:** anthropology - archaeology
+- **Resource Name:** [Archaeology](http://www.wikiwand.com/en/Archaeology)
+  - **URL Type:** Wiki
+  - **Headline:** Archaeology
+  - **Topic:** archaeology
+  - **Categorization:** anthropology - archaeology
+- **Resource Name:** [Archaeology 🗺️](information)
+  - **URL Type:** Mindmap
+  - **Headline:** Basics: Archaeology 🗺️
+  - **Topic:** anthropology
+  - **Categorization:** anthropology
+- **Resource Name:** [/r/Archaeology](https://www.reddit.com/r/Archaeology/)
+  - **URL Type:** Reddit
+  - **Headline:** Archaeology
+  - **Topic:** archaeology
+  - **Categorization:** anthropology - archaeology
+- **Resource Name:** [History / archaeology documentaries](https://www.youtube.com/playlist?list=PLwJVQxW2IAat6kGzPQy5xjRcXbxwhEcar)
+  - **URL Type:** Video
+  - **Headline:** Archaeology: Help
+  - **Topic:** archaeology
+  - **Categorization:** anthropology - archaeology
+
+## Linguistic Anthropology
+- Unfortunately, no specific result was found.
+
+## Ethnography, Ethnology, Cultural Relativism, Human Evolution, Primate Behavior, Forensic Anthropology, Anthropological Theories, Cultural Change and Adaptation, Ethnicity and Race, Colonialism and Postcolonialism, Applied Anthropology
+- Unfortunately, no specific result was found for these categories.
+
+This compilation introduces valuable resources across various branches of anthropology, including cultural anthropology and archaeology. While some areas lack specific resources, the diverse selection provides a foundation for exploring the multifaceted world of anthropology.
+
 # Geography
 
 
@@ -1155,6 +1267,66 @@ Definition of anthropology:<br><br>MOOCs:<br>1. "Introduction to Cultural Anthro
 ## generated
 
 Here are some MOOCs and YouTube videos that explain each topic:<br><br>1. World Geography:<br>- MOOC: "Introduction to World Geography" by Coursera - YouTube: "World Geography for UPSC" by Study IQ Education<br><br>2. Physical Geography:<br>- MOOC: "Physical Geography" by Alison - YouTube: "Introduction to Physical Geography" by CrashCourse<br><br>3. Human Geography:<br>- MOOC: "Human Geography: People, Places, and Change" by FutureLearn - YouTube: "Human Geography Crash Course" by CrashCourse<br><br>4. Cartography:<br>- MOOC: "Maps and the Geospatial Revolution" by Coursera - YouTube: "What is Cartography?" by National Geographic<br><br>5. Climate Zones:<br>- MOOC: "Climate Change Science and Negotiations" by edX - YouTube: "Climate Zones Explained" by It's AumSum Time<br><br>6. Population Geography:<br>- MOOC: "Population and Development" by FutureLearn - YouTube: "Introduction to Population Geography" by Geography Realm<br><br>7. Topography:<br>- MOOC: "Exploring Our Oceans" by edX - YouTube: "Topography and Relief Explained" by CrashCourse<br><br>8. Map Reading:<br>- MOOC: "Reading Topographic Maps" by Alison - YouTube: "Map Reading Skills" by Geography Realm<br><br>9. Geographical Information Systems (GIS):<br>- MOOC: "GIS Data Formats, Design and Quality" by Coursera - YouTube: "Introduction to GIS" by ESRI<br><br>10. Geopolitics:<br>- MOOC: "Geopolitics: Understanding International Relations" by FutureLearn - YouTube: "Introduction to Geopolitics" by CGP Grey<br><br>11. Cultural Geography:<br>- MOOC: "Cultural and Tourism Geography" by FutureLearn - YouTube: "Introduction to Cultural Geography" by Geography Realm<br><br>12. Economic Geography:<br>- MOOC: "Economic Geography: Land, Water, and Climate Change" by Coursera - YouTube: "Introduction to Economic Geography" by Geography Realms<br><br>13. Urban Geography:<br>- MOOC: "Urban Geography: Making and Place, and People" by FutureLearn - YouTube: "Introduction to Urban Geography" by Knowledge for Humans<br><br>14. Environmental Geography:<br>- MOOC: "Environmental Justice" by edX - YouTube: "Introduction to Environmental Geography" by Geography Realm<br><br>15. Remote Sensing:<br>- MOOC: "Remote Sensing for Earth Observation" by FutureLearn - YouTube: "Introduction to Remote Sensing" by Dr. Ian Shuttleworth<br><br>16. Geographic Research Methods:<br>- MOOC: "Methods and Statistics in Social Geography" by Coursera - YouTube: "Introduction to Geographic Research Methods" by Dr Richard Greene<br><br>17. Sustainability:<br>- MOOC: "Introduction to Sustainability Science" by FutureLearn - YouTube: "An Introduction to Sustainability" by ClimateState<br><br>18. Spatial Analysis:<br>- MOOC: "Spatial Data Science and Applications" by edX - YouTube: "Introduction to Spatial Analysis" by Data Science Dojo<br><br>19. Geographic Theory:<br>- MOOC: "Geographical Thought" by FutureLearn - YouTube: "Introduction to Geographic Theory" by Geography Realm<br><br>20. Geomorphic Processes:<br>- MOOC: "Geology: Landforms and Geological History" by Coursera - YouTube: "Introduction to Geomorphic Processes" by Geography Realm<br><br>21. Geographic Information Science (GIScience):<br>- MOOC: "Introduction to GIS for Public Health" by Coursera - YouTube: "Introduction to GIScience" by University of Colorado Boulder<br><br>22. Critical Geography:<br>- MOOC: "Critical Issues in Urban Education" by Coursera - YouTube: "Introduction to Critical Geography" by Geography Realm<br><br>Please note that the availability of the courses and videos mentioned may vary, and it is recommended to check the respective platforms for the most up-to-date information.
+
+## generated2
+
+## Physical Geography
+- **Resource Name:** [Physical geography](http://www.wikiwand.com/en/Physical_geography)
+- **URL:** [Physical geography](http://www.wikiwand.com/en/Physical_geography)
+- **Headline:** Geography: Physical geography
+- **Topic:** geography
+- **Categorization:** geography
+
+## Human Geography
+- **Resource Name:** [Human geography](http://www.wikiwand.com/en/Human_geography)
+- **URL:** [Human geography](http://www.wikiwand.com/en/Human_geography)
+- **Headline:** Geography: Human geography
+- **Topic:** geography
+- **Categorization:** geography
+
+## Cartography
+- **Resource Name:** Cartography 🗺️
+- **URL:** [Information](https://www.reddit.com/r/mapmaking/)
+- **Headline:** Geography: Cartography 🗺️
+- **Topic:** geography
+- **Categorization:** geography - cartography
+- **Resource Name:** [Brief history of cartography and maps](https://www.youtube.com/watch?v=fLdvInDrQ2c)
+- **Headline:** Cartography: Basics
+- **Topic:** cartography
+- **Categorization:** geography - cartography
+- **Resource Name:** [Cartography](http://www.wikiwand.com/en/Cartography)
+- **Headline:** Cartography
+- **Topic:** cartography
+- **Categorization:** geography - cartography
+
+## Sustainability
+- **Resource Name:** Sustainability 🌱
+- **URL:** [Information](https://www.youtube.com/watch?v=QAkW_i0bDpQ)
+- **Headline:** Basics: Sustainability 🌱
+- **Topic:** ecology
+- **Categorization:** biology - ecology
+- **Resource Name:** [Circular economy 🌍](https://www.youtube.com/watch?v=L_skrxnh7Ik)
+- **Headline:** Sustainability: Circular economy 🌍
+- **Topic:** environmental science
+- **Categorization:** environmental science
+- **Resource Name:** [Sustainability](http://www.wikiwand.com/en/Sustainability)
+- **Headline:** Basics: Sustainability
+- **Topic:** environmental science
+- **Categorization:** environmental science
+- **Resource Name:** [The rise of sustainability](https://www.youtube.com/watch?v=L_skrxnh7Ik)
+- **Headline:** Sustainability: Interesting
+- **Topic:** sustainability
+- **Categorization:** biology - ecology - sustainability
+- **Resource Name:** [Renewable energy 🌿](http://www.wikiwand.com/en/Sustainability)
+- **Headline:** Sustainability: Renewable energy 🌿
+- **Topic:** environmental science
+- **Categorization:** environmental science
+- **Resource Name:** [/r/sustainability](https://www.reddit.com/r/sustainability/)
+- **Headline:** Sustainability
+- **Topic:** sustainability
+- **Categorization:** biology - ecology - sustainability
+
+This curated list provides a diverse range of resources covering physical geography, human geography, cartography, and sustainability, offering an enriching exploration into the vast field of geography.
 
 # Religious Studys
 
