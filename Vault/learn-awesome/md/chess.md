@@ -1,0 +1,15 @@
+# chess<br><br>
+
+The Art of Learning - Summary by fourminutebooks.com<br>summary|https://fourminutebooks.com/the-art-of-learning-summary/<br>summary|http://blas.com/wp-content/uploads/2019/07/The-Art-of-Learning.pdf<br>summary|https://sivers.org/book/ArtOfLearning<br>summary|https://blas.com/the-art-of-learning/<br>book|https://openlibrary.org/books/OL17174611M/The_art_of_learning<br><br>
+Pandolfini's Ultimate Guide to Chess (Paperback)<br>By Bruce Pandolfini<br>book|https://www.goodreads.com/book/show/360163.Pandolfini_s_Ultimate_Guide_to_Chess<br><br>
+Lichess Android<br>app|https://play.google.com/store/apps/details?id=org.lichess.mobileapp&hl=en_IN<br><br>
+Lichess iOS<br>app|https://itunes.apple.com/us/app/lichess-online-chess/id968371784?mt=8<br><br>
+Garry Kasparov teaches Chess<br>course|https://www.masterclass.com/classes/garry-kasparov-teaches-chess<br><br>
+Chess<br>qna|https://chess.stackexchange.com<br><br>
+Main Wikipedia: Chess<br>wiki|https://en.wikipedia.org/wiki/Chess<br><br>
+Simple Wikipedia: Chess<br>wiki|https://simple.wikipedia.org/wiki/Chess<br><br>
+Chess Tactics Explained in English: Ward Farnsworth's Predator at the Chessboard<br>book|https://www.chesstactics.org/<br><br>
+Learn How to Play Chess<br>By Chesscademy via Independent<br>course|https://www.classcentral.com/course/independent-learn-how-to-play-chess-2386<br><br>
+A brief history of chess - Alex Gendler<br>video|https://www.youtube.com/watch?v=YeB-1F-UKO0<br><br>
+Deep Thinking<br>Garry Kasparov's 1997 chess match against the IBM supercomputer Deep Blue was a watershed moment in the history of technology. It was the dawn of a new era in artificial intelligence: a machine capable of beating the reigning human champion at this most cerebral game.   That moment was more than a century in the making, and in this breakthrough book, Kasparov reveals his astonishing side of the story for the first time. He describes how it felt to strategize against an implacable, untiring opponent with the whole world watching, and recounts the history of machine intelligence through the microcosm of chess, considered by generations of scientific pioneers to be a key to unlocking the secrets of human and machine cognition. Kasparov uses his unrivaled experience to look into the future of intelligent machines and sees it bright with possibility. As many critics decry artificial intelligence as a menace, particularly to human jobs, Kasparov shows how humanity can rise to new heights with the help of our most extraordinary creations, rather than fear them. Deep Thinking is a tightly argued case for technological progress, from the man who stood at its precipice with his own career at stake.<br>book|https://www.amazon.com/Deep-Thinking-Machine-Intelligence-Creativity/dp/1541773640?tag=learnawesome-20<br>summary|https://fourminutebooks.com/deep-thinking-summary/<br><br>
+How Life Imitates Chess - Summary at Blas.com<br>World chess grand master Gary Kasparov discusses his entrance, rise, and dominance of the …<br>summary|https://blas.com/how-life-imitates-chess/<br><br>

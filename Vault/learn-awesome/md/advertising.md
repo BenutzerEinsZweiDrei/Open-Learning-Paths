@@ -1,0 +1,9 @@
+# advertising<br><br>
+
+Storytelling in Advertising<br>By D&AD via FutureLearn<br>course|https://www.classcentral.com/course/futurelearn-storytelling-in-advertising-4126<br><br>
+Online Advertising<br>By  via Open2Study<br>course|https://www.classcentral.com/course/open2study-online-advertising-1004<br><br>
+Advertising and Society<br>By Duke University via Coursera<br>course|https://www.classcentral.com/course/coursera-advertising-and-society-2487<br><br>
+Confessions Of An Advertising Man<br>David Ogilvy was an advertising genius. At the age of 37, he founded the New York-based agency that later merged to form the international company known as Ogilvy & Mather. Regarded as the father of modern advertising, Ogilvy was responsible for some of the most memorable advertising campaigns ever created. Confessions of an Advertising Man is the distillation of all the Ogilvy concepts, tactics, and techniques that made this international best-seller a blueprint for sound business practice. If you aspire to be a good manager in any business, this seminal work is a must-read.<br>book|https://www.amazon.in/Confessions-Advertising-Man-David-Ogilvy/dp/190491537X?tag=learnawesome-21<br>summary|https://fourminutebooks.com/confessions-of-an-advertising-man-summary/<br><br>
+Alchemy: The Dark Art and Curious Science of Creating Magic in Brands, Business, and Life - Summary at Blas.com<br>There is a time and place for the “illogical” in complex human affairs. Not …<br>summary|https://blas.com/alchemy/<br><br>
+Facebook Ads Manual<br>book|http://fourminutebooks.com/wp-content/uploads/2016/11/fb-ads-sample.pdf<br>summary|https://fourminutebooks.com/facebook-ads-manual-summary/<br><br>
+Oracle Training in Chennai | Oracle Course in Chennai<br>website|https://www.fita.in/oracle-training-in-chennai/<br><br>
