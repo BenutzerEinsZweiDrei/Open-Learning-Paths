@@ -1,0 +1,90 @@
+Music Theory:
+URL: information
+Information: Harmony  \ufe0f, Basics: Harmony  \ufe0f, music theory, art - music - music theory
+URL: https://arxiv.org/html/1202.4212v2
+Information: Harmony explained: progress towards a scientific theory of music, Harmony: Basics, harmony, art - music - music theory - harmony
+URL: https://www.reddit.com/r/musictheory/
+Information: /r/musictheory, music theory, music theory, art - music - music theory
+URL: http://www.wikiwand.com/en/Harmony
+Information: Harmony, harmony, harmony, art - music - music theory - harmony
+URL: http://www.daveconservatoire.org/
+Information: Dave conservatoire, Music theory: Basics, music theory, art - music - music theory
+URL: http://www.wikiwand.com/en/Music_theory
+Information: Music theory, music theory, music theory, art - music - music theory
+URL: information
+Information: New music  \ufe0f, Music theory  \ufe0f: New music  \ufe0f, music, art - music
+URL: http://openmusictheory.com/
+Information: Open music theory, Music theory: Basics, music theory, art - music - music theory
+URL: https://www.youtube.com/watch?v=re4Rx0j2eMI&amp;feature=youtu.be
+Information: Basics of music theory, Music theory: Basics, music theory, art - music - music theory
+URL: https://learningmusic.ableton.com/
+Information: Get started making music, Music theory: Basics, music theory, art - music - music theory
+URL: information
+Information: Music production  \ufe0f, Music theory  \ufe0f: Music production  \ufe0f, music, art - music
+URL: https://www.youtube.com/playlist?list=PL1302D94F247600CD
+Information: Music theory fundamentals, Music theory: Basics, music theory, art - music - music theory
+URL: http://www.wikiwand.com/en/Mode_(music)
+Information: Music modes, Basics: Music modes, music theory, art - music - music theory
+URL: http://www.wikiwand.com/en/Live_coding
+Information: Live coding music, Music theory  \ufe0f: Live coding music, music, art - music
+URL: information
+Information: Instruments  \ufe0f, Music theory  \ufe0f: Instruments  \ufe0f, music, art - music
+URL: information
+Information: Music genres  \ufe0f, Music theory  \ufe0f: Music genres  \ufe0f, music, art - music
+URL: information
+Information: Music theory  \ufe0f, Music: Music theory  \ufe0f, music, art - music
+URL: information
+Information: Song writing  \ufe0f, Music theory  \ufe0f: Song writing  \ufe0f, music, art - music
+URL: https://www.goodreads.com/book/show/1419930.Practical_Theory_Complete
+Information: Practical theory complete: a self-instruction music theory course, Music theory: Basics, music theory, art - music - music theory
+URL: https://www.coursera.org/learn/edinburgh-music-theory
+Information: Fundamentals of music theory, Music theory: Basics, music theory, art - music - music theory
+URL: http://www.musictheory.net/lessons
+Information: Music theory lessons, Music theory: Basics, music theory, art - music - music theory
+
+Basic Rhythm: No result
+Note Reading: No result
+Instrument Techniques: No result
+Scales: No result
+Chords: No result
+Ear Training: No result
+Basic Music Notation: No result
+Harmony:
+URL: information
+Information: Harmony  \ufe0f, Basics: Harmony  \ufe0f, music theory, art - music - music theory
+URL: https://arxiv.org/html/1202.4212v2
+Information: Harmony explained: progress towards a scientific theory of music, Harmony: Basics, harmony, art - music - music theory - harmony
+URL: http://www.wikiwand.com/en/Harmony
+Information: Harmony, harmony, harmony, art - music - music theory - harmony
+URL: https://www.youtube.com/watch?v=dkP8NUwB2io
+Information: How do schools of fish swim in harmony, Fish: Basics, fish, biology - zoology - animals - fish
+
+Melody Writing: No result
+Advanced Rhythm: No result
+Music Analysis: No result
+Midi Sequencing: No result
+Arranging: No result
+Composition:
+URL: information
+Information: Singular value decomposition  \ufe0f, Basics: Singular value decomposition  \ufe0f, matrices, mathematics - linear algebra - matrices
+URL: https://www.youtube.com/watch?v=mBcLRGuAFUk
+Information: Explanation, Singular value decomposition: Basics, singular value decomposition, mathematics - linear algebra - matrices - singular value decomposition
+URL: http://www.wikiwand.com/en/Singular_value_decomposition
+Information: Singular value decomposition, singular value decomposition, singular value decomposition, mathematics - linear algebra - matrices - singular value decomposition
+
+Orchestration:
+URL: https://mesosphere.com/
+Information: Mesosphere, Container orchestration: Mesosphere, DevOps, programming - software development - devops
+URL: information
+Information: Docker swarm  \ufe0f, Container orchestration: Docker swarm  \ufe0f, DevOps, programming - software development - devops
+URL: https://github.com/hashicorp/nomad
+Information: Nomad, Container orchestration: Nomad, DevOps, programming - software development - devops
+URL: information
+Information: Kubernetes  \ufe0f, Container orchestration: Kubernetes  \ufe0f, DevOps, programming - software development - devops
+URL: http://www.wikiwand.com/en/Apache_Mesos
+Information: Mesos, Container orchestration: Mesos, DevOps, programming - software development - devops
+
+Conducting: No result
+Music Technology: No result
+Advanced Music Theory: No result
+Music History: No result

@@ -1,0 +1,1036 @@
+Anatomy
+URL: https://www.youtube.com/watch?v=0Yf-W7Ps6u4
+Resource Name: Anatomy of file systems
+Headline: File systems: Basics
+Topic: file systems
+Categorization: operating systems - file systems
+
+URL: https://www.youtube.com/watch?v=8NUxvJS-_0k
+Resource Name: How do the lungs do?
+Headline: Lungs: Basics
+Topic: lungs
+Categorization: biology - anatomy - human body - respiratory system - lungs
+
+URL: https://www.youtube.com/watch?v=H2VkW9L5QSU
+Resource Name: The urinary system
+Headline: Urinary system: Basics
+Topic: urinary system
+Categorization: biology - anatomy - human body - urinary system
+
+URL: https://www.youtube.com/watch?v=yIoTRGfcMqM
+Resource Name: Digestive system: part I
+Headline: Digestive system: Basics
+Topic: digestive system
+Categorization: biology - anatomy - human body - digestive system
+
+URL: https://www.youtube.com/watch?v=uBGl2BujkPQ&amp;t=14s
+Resource Name: Introduction to anatomy &amp; physiology
+Headline: Physiology: Basics
+Topic: physiology
+Categorization: biology - physiology
+
+URL: http://www.wikiwand.com/en/Heart
+Resource Name: Heart
+Headline: heart
+Topic: heart
+Categorization: biology - anatomy - human body - circulatory system - heart
+
+URL: http://www.wikiwand.com/en/Large_intestine
+Resource Name: Large intestine
+Headline: Basics: Large intestine
+Topic: gastrointestinal tract
+Categorization: biology - anatomy - human body - digestive system - gastrointestinal tract
+
+URL: https://www.youtube.com/watch?v=l128tW1H5a8
+Resource Name: Urinary system: part I
+Headline: Urinary system: Basics
+Topic: urinary system
+Categorization: biology - anatomy - human body - urinary system
+
+URL: https://www.youtube.com/watch?v=jGme7BRkpuQ
+Resource Name: Digestive system: part III
+Headline: Digestive system: Basics
+Topic: digestive system
+Categorization: biology - anatomy - human body - digestive system
+
+URL: http://www.wikiwand.com/en/Stomach
+Resource Name: Stomach
+Headline: stomach
+Topic: stomach
+Categorization: biology - anatomy - human body - digestive system - gastrointestinal tract - stomach
+
+URL: https://www.youtube.com/watch?v=x5x19lwPnbo
+Resource Name: Respiratory system overview
+Headline: Respiratory system: Basics
+Topic: respiratory system
+Categorization: biology - anatomy - human body - respiratory system
+
+URL: https://www.youtube.com/watch?v=z78fYCGR7WY
+Resource Name: Anatomy and functions of the frontal lobe
+Headline: Frontal lobe: Basics
+Topic: frontal lobe
+Categorization: neuroscience - human brain - cerebrum - cerebral cortex - frontal lobe
+
+URL: http://www.wikiwand.com/en/Blood
+Resource Name: Blood
+Headline: blood
+Topic: blood
+Categorization: biology - anatomy - human body - blood
+
+URL: https://www.youtube.com/watch?v=uBGl2BujkPQ&amp;list=PL8dPuuaLjXtOAKed_MxxWBNaPno5h3Zs8
+Resource Name: Crash course anatomy &amp; physiology
+Headline: Anatomy: Basics
+Topic: anatomy
+Categorization: biology - anatomy
+
+URL: https://www.youtube.com/watch?v=ob5U8zPbAX4
+Resource Name: Anatomy of a neuron
+Headline: Neurons: Basics
+Topic: neurons
+Categorization: neuroscience - nervous system - neurons
+
+URL: https://www.youtube.com/watch?v=VW2VScHV7b4
+Resource Name: Anatomy and functions of the frontal lobe
+Headline: Parietal lobe: Basics
+Topic: parietal lobe
+Categorization: neuroscience - human brain - cerebrum - cerebral cortex - parietal lobe
+
+URL: http://www.wikiwand.com/en/Lung
+Resource Name: Lungs
+Headline: lungs
+Topic: lungs
+Categorization: biology - anatomy - human body - respiratory system - lungs
+
+URL: https://www.youtube.com/watch?v=9-XoM2144tk
+Resource Name: Blood: part II
+Headline: Blood: Basics
+Topic: blood
+Categorization: biology - anatomy - human body - blood
+
+URL: information
+Resource Name: Anatomy  \ufe0f
+Headline: Basics: Anatomy  \ufe0f
+Topic: biology
+Categorization: biology
+
+URL: https://www.youtube.com/watch?v=Cqt4LjHnMEA
+Resource Name: Respiratory system: part II
+Headline: Respiratory system: Basics
+Topic: respiratory system
+Categorization: biology - anatomy - human body - respiratory system
+
+URL: https://www.youtube.com/playlist?list=PLCC2DB523BA8BCB53
+Resource Name: Anatomy and physiology
+Headline: Anatomy: Basics
+Topic: anatomy
+Categorization: biology - anatomy
+
+URL: https://www.youtube.com/watch?v=DlqyyyvTI3k
+Resource Name: Urinary system: part II
+Headline: Urinary system: Basics
+Topic: urinary system
+Categorization: biology - anatomy - human body - urinary system
+
+URL: https://www.youtube.com/watch?v=GVU_zANtroE
+Resource Name: Oxygen\u2019s surprisingly complex journey through your body
+Headline: Lungs: Basics
+Topic: lungs
+Categorization: biology - anatomy - human body - respiratory system - lungs
+
+URL: information
+Resource Name: Stomach  \ufe0f
+Headline: Basics: Stomach  \ufe0f
+Topic: gastrointestinal tract
+Categorization: biology - anatomy - human body - digestive system - gastrointestinal tract
+
+URL: information
+Resource Name: Urinary system  \ufe0f
+Headline: Organ systems: Urinary system  \ufe0f
+Topic: human body
+Categorization: biology - anatomy - human body
+
+URL: http://martiancraft.com/blog/2016/05/ios-to-mac-1/
+Resource Name: Migrating from iOS to mac \u200a \u2014 \u200a part I: app anatomy  \ufe0f
+Headline: Interesting: Articles
+Topic: macOS
+Categorization: operating systems - unix - macos
+
+URL: information
+Resource Name: Digestive system  \ufe0f
+Headline: Organ systems: Digestive system  \ufe0f
+Topic: human body
+Categorization: biology - anatomy - human body
+
+URL: information
+Resource Name: Respiratory system  \ufe0f
+Headline: Organ systems: Respiratory system  \ufe0f
+Topic: human body
+Categorization: biology - anatomy - human body
+
+URL: information
+Resource Name: Gastrointestinal\u00a0tract  \ufe0f
+Headline: Basics: Gastrointestinal\u00a0tract  \ufe0f
+Topic: digestive system
+Categorization: biology - anatomy - human body - digestive system
+
+URL: https://www.youtube.com/watch?v=9fxm85Fy4sQ
+Resource Name: Circulatory &amp; respiration systems
+Headline: Circulatory system: Basics
+Topic: circulatory system
+Categorization: biology - anatomy - human body - circulatory system
+
+URL: https://www.reddit.com/r/Anatomy/
+Resource Name: /r/Anatomy
+Headline: anatomy
+Topic: anatomy
+Categorization: biology - anatomy
+
+URL: https://www.youtube.com/watch?v=bHZsvBdUC2I
+Resource Name: Respiratory system: part I
+Headline: Respiratory system: Basics
+Topic: respiratory system
+Categorization: biology - anatomy - human body - respiratory system
+
+URL: http://www.wikiwand.com/en/Body_fluid
+Resource Name: Body fluids
+Headline: Basics: Body fluids
+Topic: human body
+Categorization: biology - anatomy - human body
+
+URL: https://www.youtube.com/watch?v=Oh_Pt_UrtEE
+Resource Name: Meet the gastrointestinal tract
+Headline: Gastrointestinal tract: Basics
+Topic: gastrointestinal tract
+Categorization: biology - anatomy - human body - digestive system - gastrointestinal tract
+
+URL: http://www.wikiwand.com/en/Human_digestive_system
+Resource Name: Digestive system
+Headline: digestive system
+Topic: digestive system
+Categorization: biology - anatomy - human body - digestive system
+
+URL: information
+Resource Name: Kidneys  \ufe0f
+Headline: Basics: Kidneys  \ufe0f
+Topic: urinary system
+Categorization: biology - anatomy - human body - urinary system
+
+URL: http://www.wikiwand.com/en/Anatomy
+Resource Name: Anatomy
+Headline: anatomy
+Topic: anatomy
+Categorization: biology - anatomy
+
+URL: information
+Resource Name: Heart  \ufe0f
+Headline: Basics: Heart  \ufe0f
+Topic: circulatory system
+Categorization: biology - anatomy - human body - circulatory system
+
+URL: information
+Resource Name: Blood  \ufe0f
+Headline: Body fluids: Blood  \ufe0f
+Topic: human body
+Categorization: biology - anatomy - human body
+
+URL: information
+Resource Name: Human body  \ufe0f
+Headline: Basics: Human body  \ufe0f
+Topic: anatomy
+Categorization: biology - anatomy
+
+URL: http://www.wikiwand.com/en/Biological_system
+Resource Name: Organ systems
+Headline: Organs: Organ systems
+Topic: human body
+Categorization: biology - anatomy - human body
+
+URL: http://www.wikiwand.com/en/Gastrointestinal_tract
+Resource Name: Gastrointestinal tract
+Headline: gastrointestinal tract
+Topic: gastrointestinal tract
+Categorization: biology - anatomy - human body - digestive system - gastrointestinal tract
+
+URL: https://www.youtube.com/watch?v=pqgcEIaXGME&amp;t=1s
+Resource Name: Digestive system: part II
+Headline: Digestive system: Basics
+Topic: digestive system
+Categorization: biology - anatomy - human body - digestive system
+
+URL: information
+Resource Name: Circulatory system  \ufe0f
+Headline: Organ systems: Circulatory system  \ufe0f
+Topic: human body
+Categorization: biology - anatomy - human body
+
+URL: information
+Resource Name: Lungs  \ufe0f
+Headline: Basics: Lungs  \ufe0f
+Topic: respiratory system
+Categorization: biology - anatomy - human body - respiratory system
+
+URL: https://www.khanacademy.org/science/health-and-medicine/human-anatomy-and-physiology
+Resource Name: Khan academy human anatomy and physiology
+Headline: Anatomy: Basics
+Topic: anatomy
+Categorization: biology - anatomy
+
+URL: https://www.youtube.com/watch?v=HQWlcSp9Sls
+Resource Name: Blood: part I
+Headline: Blood: Basics
+Topic: blood
+Categorization: biology - anatomy - human body - blood
+
+URL: http://www.wikiwand.com/en/Kidney
+Resource Name: Kidneys
+Headline: kidneys
+Topic: kidneys
+Categorization: biology - anatomy - human body - urinary system - kidneys
+
+URL: https://www.youtube.com/watch?v=ctGkLYuUCvU
+Resource Name: Kidney function and anatomy
+Headline: Kidneys: Basics
+Topic: kidneys
+Categorization: biology - anatomy - human body - urinary system - kidneys
+
+URL: http://www.wikiwand.com/en/Circulatory_system
+Resource Name: Circulatory system
+Headline: circulatory system
+Topic: circulatory system
+Categorization: biology - anatomy - human body - circulatory system
+
+URL: http://www.wikiwand.com/en/Urinary_system
+Resource Name: Urinary system
+Headline: urinary system
+Topic: urinary system
+Categorization: biology - anatomy - human body - urinary system
+
+URL: http://infolab.stanford.edu/~backrub/google.html
+Resource Name: The anatomy of a large-scale hypertextual web search engine  \ufe0f
+Headline: Web search engines: Help
+Topic: search engines
+Categorization: web development - search engines
+
+URL: http://www.wikiwand.com/en/Small_intestine
+Resource Name: Small intestine
+Headline: Basics: Small intestine
+Topic: gastrointestinal tract
+Categorization: biology - anatomy - human body - digestive system - gastrointestinal tract
+
+URL: https://www.youtube.com/watch?v=O7M7BoJGRNc
+Resource Name: How to build a human
+Headline: Human body: Basics
+Topic: human body
+Categorization: biology - anatomy - human body
+
+URL: http://www.wikiwand.com/en/Human_body
+Resource Name: Human body
+Headline: human body
+Topic: human body
+Categorization: biology - anatomy - human body
+
+URL: https://www.youtube.com/watch?v=GD-HPx_ZG8I
+Resource Name: Mechanism of breathing
+Headline: Respiratory system: Basics
+Topic: respiratory system
+Categorization: biology - anatomy - human body - respiratory system
+
+URL: http://www.wikiwand.com/en/Respiratory_system
+Resource Name: Respiratory system
+Headline: respiratory system
+Topic: respiratory system
+Categorization: biology - anatomy - human body - respiratory system
+
+URL: http://www.wikiwand.com/en/Organ_(anatomy)
+Resource Name: Organs
+Headline: Basics: Organs
+Topic: human body
+Categorization: biology - anatomy - human body
+
+URL: https://www.youtube.com/watch?v=oHMmtqKgs50
+Resource Name: How the heart works in 3D
+Headline: Heart: Basics
+Topic: heart
+Categorization: biology - anatomy - human body - circulatory system - heart
+
+URL: https://www.youtube.com/watch?v=OzLoUCCASwM
+Resource Name: Explanation
+Headline: Stomach: Basics
+Topic: stomach
+Categorization: biology - anatomy - human body - digestive system - gastrointestinal tract - stomach
+
+Physiology
+URL: https://www.khanacademy.org/science/health-and-medicine/nervous-system-and-sensory-infor
+Resource Name: Advanced nervous system physiology
+Headline: Neurology: Basics
+Topic: neurology
+Categorization: medicine - neurology
+
+URL: https://www.youtube.com/watch?v=uBGl2BujkPQ&amp;t=14s
+Resource Name: Introduction to anatomy &amp; physiology
+Headline: Physiology: Basics
+Topic: physiology
+Categorization: biology - physiology
+
+URL: https://www.youtube.com/watch?v=5HS66q_OA8g
+Resource Name: Explanation
+Headline: Homeostasis: Basics
+Topic: homeostasis
+Categorization: biology - physiology - homeostasis
+
+URL: http://www.wikiwand.com/en/Physiology
+Resource Name: Physiology
+Headline: physiology
+Topic: physiology
+Categorization: biology - physiology
+
+URL: https://www.youtube.com/watch?v=uBGl2BujkPQ&amp;list=PL8dPuuaLjXtOAKed_MxxWBNaPno5h3Zs8
+Resource Name: Crash course anatomy &amp; physiology
+Headline: Anatomy: Basics
+Topic: anatomy
+Categorization: biology - anatomy
+
+URL: https://www.reddit.com/r/Physiology/
+Resource Name: /r/Physiology
+Headline: physiology
+Topic: physiology
+Categorization: biology - physiology
+
+URL: https://www.youtube.com/playlist?list=PLCC2DB523BA8BCB53
+Resource Name: Anatomy and physiology
+Headline: Anatomy: Basics
+Topic: anatomy
+Categorization: biology - anatomy
+
+URL: http://www.wikiwand.com/en/Homeostasis
+Resource Name: Homeostasis
+Headline: homeostasis
+Topic: homeostasis
+Categorization: biology - physiology - homeostasis
+
+URL: information
+Resource Name: Homeostasis  \ufe0f
+Headline: Basics: Homeostasis  \ufe0f
+Topic: physiology
+Categorization: biology - physiology
+
+URL: https://www.khanacademy.org/science/health-and-medicine/human-anatomy-and-physiology
+Resource Name: Khan academy human anatomy and physiology
+Headline: Anatomy: Basics
+Topic: anatomy
+Categorization: biology - anatomy
+
+URL: information
+Resource Name: Physiology  \ufe0f
+Headline: Basics: Physiology  \ufe0f
+Topic: biology
+Categorization: biology
+
+Biochemistry
+URL: http://www.wikiwand.com/en/Amino_acid
+Resource Name: Amino acids
+Headline: Organic compounds: Amino acids
+Topic: biochemistry
+Categorization: chemistry - biochemistry
+
+URL: http://www.wikiwand.com/en/Biochemistry
+Resource Name: Biochemistry
+Headline: biochemistry
+Topic: biochemistry
+Categorization: chemistry - biochemistry
+
+URL: http://www.wikiwand.com/en/Organic_compound
+Resource Name: Organic compounds
+Headline: Chemical compounds: Organic compounds
+Topic: biochemistry
+Categorization: chemistry - biochemistry
+
+URL: https://www.goodreads.com/book/show/545351.Lippincott_s_Illustrated_Reviews
+Resource Name: Lippincott's illustrated reviews: biochemistry
+Headline: Biochemistry: Basics
+Topic: biochemistry
+Categorization: chemistry - biochemistry
+
+URL: https://en.wikipedia.org/wiki/Polymerase_chain_reaction
+Resource Name: Polymerase chain reaction
+Headline: molecular biology
+Topic: molecular biology
+Categorization: chemistry - biochemistry - molecular biology
+
+URL: http://www.wikiwand.com/en/Chemical_compound
+Resource Name: Chemical compounds
+Headline: Basics: Chemical compounds
+Topic: biochemistry
+Categorization: chemistry - biochemistry
+
+URL: http://www.genome.jp/kegg/pathway.html#global
+Resource Name: Pathway maps
+Headline: Biochemistry: Help
+Topic: biochemistry
+Categorization: chemistry - biochemistry
+
+URL: information
+Resource Name: Molecular biology  \ufe0f
+Headline: Basics: Molecular biology  \ufe0f
+Topic: biochemistry
+Categorization: chemistry - biochemistry
+
+URL: https://www.youtube.com/watch?v=yYIZgS-L5Sc
+Resource Name: Molecular biology
+Headline: Molecular biology: Basics
+Topic: molecular biology
+Categorization: chemistry - biochemistry - molecular biology
+
+URL: http://www.wikiwand.com/en/Molecular_biology
+Resource Name: Molecular biology
+Headline: molecular biology
+Topic: molecular biology
+Categorization: chemistry - biochemistry - molecular biology
+
+URL: https://ocw.mit.edu/courses/biology/7-01sc-fundamentals-of-biology-fall-2011/biochemistry/
+Resource Name: MIT Course
+Headline: biochemistry
+Topic: biochemistry
+Categorization: chemistry - biochemistry
+
+URL: information
+Resource Name: Biochemistry  \ufe0f
+Headline: Basics: Biochemistry  \ufe0f
+Topic: chemistry
+Categorization: chemistry
+
+Cell Biology
+Genetics
+URL: https://medium.com/startup-grind/a-primer-on-crispr-and-how-to-learn-more-c1b4ca7159f6
+Resource Name: Everything you should know about CRISPR - and where to learn more  \ufe0f
+Headline: CRISPR: Articles
+Topic: CRISPR
+Categorization: biology - genetics - genetic engineering - crispr
+
+URL: information
+Resource Name: GMOs  \ufe0f
+Headline: Genetic engineering: GMOs  \ufe0f
+Topic: genetic engineering
+Categorization: biology - genetics - genetic engineering
+
+URL: information
+Resource Name: Genetic engineering  \ufe0f
+Headline: Genetics: Genetic engineering  \ufe0f
+Topic: genetics
+Categorization: biology - genetics
+
+URL: https://www.reddit.com/r/CRISPR/
+Resource Name: /r/CRISPR
+Headline: CRISPR
+Topic: CRISPR
+Categorization: biology - genetics - genetic engineering - crispr
+
+URL: information
+Resource Name: CRISPR  \ufe0f
+Headline: Genetic engineering: CRISPR  \ufe0f
+Topic: genetic engineering
+Categorization: biology - genetics - genetic engineering
+
+URL: https://www.youtube.com/watch?v=jAhjPd4uNFY
+Resource Name: Genetic engineering will change everything forever
+Headline: CRISPR: Basics
+Topic: CRISPR
+Categorization: biology - genetics - genetic engineering - crispr
+
+URL: https://www.youtube.com/watch?v=7TmcXYp8xu4
+Resource Name: Are GMOs good or bad? genetic engineering &amp; our food
+Headline: Genetically modified organisms: Basics
+Topic: genetically modified organisms
+Categorization: biology - genetics - genetic engineering - gmo
+
+URL: https://www.reddit.com/r/genetics/
+Resource Name: /r/genetics
+Headline: genetics
+Topic: genetics
+Categorization: biology - genetics
+
+URL: http://www.wikiwand.com/en/Genetically_modified_organism
+Resource Name: Genetically modified organisms
+Headline: genetically modified organisms
+Topic: genetically modified organisms
+Categorization: biology - genetics - genetic engineering - gmo
+
+URL: information
+Resource Name: DNA  \ufe0f
+Headline: Genetics: DNA  \ufe0f
+Topic: genetics
+Categorization: biology - genetics
+
+URL: http://www.wikiwand.com/en/Genetics
+Resource Name: Genetics
+Headline: genetics
+Topic: genetics
+Categorization: biology - genetics
+
+URL: information
+Resource Name: RNA  \ufe0f
+Headline: Genetics: RNA  \ufe0f
+Topic: genetics
+Categorization: biology - genetics
+
+URL: http://www.wikiwand.com/en/Genetic_engineering
+Resource Name: Genetic engineering
+Headline: genetic engineering
+Topic: genetic engineering
+Categorization: biology - genetics - genetic engineering
+
+URL: http://www.wikiwand.com/en/CRISPR
+Resource Name: CRISPR
+Headline: CRISPR
+Topic: CRISPR
+Categorization: biology - genetics - genetic engineering - crispr
+
+URL: information
+Resource Name: Genetics  \ufe0f
+Headline: Basics: Genetics  \ufe0f
+Topic: biology
+Categorization: biology
+
+Basic Pharmacology
+Medical Terminology
+Pathology
+URL: http://www.wikiwand.com/en/Pathology
+Resource Name: Pathology
+Headline: Basics: Pathology
+Topic: medicine
+Categorization: medicine
+
+URL: https://www.youtube.com/watch?v=hzSx4rMyVjI
+Resource Name: Causes, symptoms, treatment &amp; pathology
+Headline: Post traumatic stress disorder: Basics
+Topic: post traumatic stress disorder
+Categorization: medicine - specialties - psychiatry - mental disorders - post traumatic stress disorder
+
+Microbiology
+URL: https://www.youtube.com/watch?v=ThU9Ckp1mB8
+Resource Name: Overview
+Headline: Microbiology: Basics
+Topic: microbiology
+Categorization: biology - microbiology
+
+URL: information
+Resource Name: Microbiology  \ufe0f
+Headline: Basics: Microbiology  \ufe0f
+Topic: biology
+Categorization: biology
+
+URL: http://www.wikiwand.com/en/Microbiology
+Resource Name: Microbiology
+Headline: microbiology
+Topic: microbiology
+Categorization: biology - microbiology
+
+URL: http://www.goodreads.com/book/show/808109.Medical_Microbiology_Immunology
+Resource Name: Medical microbiology &amp; immunology
+Headline: Immunology: Basics
+Topic: immunology
+Categorization: biology - immunology
+
+Immunology
+URL: information
+Resource Name: Immunology  \ufe0f
+Headline: Basics: Immunology  \ufe0f
+Topic: biology
+Categorization: biology
+
+URL: https://www.youtube.com/watch?v=O1N2rENXq_Y&amp;list=PLNpslXVNsEGNkGKJ3jeTFkNpQAL3l919h
+Resource Name: Immunology khan academy
+Headline: Immunology: Basics
+Topic: immunology
+Categorization: biology - immunology
+
+URL: http://www.wikiwand.com/en/Immunology
+Resource Name: Immunology
+Headline: immunology
+Topic: immunology
+Categorization: biology - immunology
+
+URL: https://www.youtube.com/watch?v=2-57bqFSJ1E
+Resource Name: Immunology: innate immunity
+Headline: Immune system: Basics
+Topic: immune system
+Categorization: biology - organisms - immune system
+
+URL: https://www.youtube.com/watch?v=LSYED-7riNY
+Resource Name: Immunology overview
+Headline: Immune system: Basics
+Topic: immune system
+Categorization: biology - organisms - immune system
+
+URL: https://www.youtube.com/watch?v=U1FyrtDZ3aE
+Resource Name: Immunology: adaptive immune system
+Headline: Immune system: Basics
+Topic: immune system
+Categorization: biology - organisms - immune system
+
+URL: https://www.youtube.com/watch?v=gKkvTXLvbhs
+Resource Name: Immunology 101
+Headline: Immunology: Basics
+Topic: immunology
+Categorization: biology - immunology
+
+URL: http://www.goodreads.com/book/show/808109.Medical_Microbiology_Immunology
+Resource Name: Medical microbiology &amp; immunology
+Headline: Immunology: Basics
+Topic: immunology
+Categorization: biology - immunology
+
+Pharmacology
+URL: information
+Resource Name: Drugs  \ufe0f
+Headline: Basics: Drugs  \ufe0f
+Topic: pharmacology
+Categorization: biology - pharmacology
+
+URL: https://www.youtube.com/watch?v=myuHFQwNA-c&amp;list=PL1EgXcwbZIeUZHYHJb4elROAOTy_QJ5ik
+Resource Name: Introduction
+Headline: Pharmacology: Basics
+Topic: pharmacology
+Categorization: biology - pharmacology
+
+URL: http://www.wikiwand.com/en/Pharmacology
+Resource Name: Pharmacology
+Headline: pharmacology
+Topic: pharmacology
+Categorization: biology - pharmacology
+
+URL: information
+Resource Name: Pharmacology  \ufe0f
+Headline: Basics: Pharmacology  \ufe0f
+Topic: biology
+Categorization: biology
+
+URL: https://www.reddit.com/r/pharmacology/
+Resource Name: /r/pharmacology
+Headline: pharmacology
+Topic: pharmacology
+Categorization: biology - pharmacology
+
+URL: http://www.goodreads.com/book/show/22535583-molecular-neuropharmacology
+Resource Name: Molecular neuropharmacology : a foundation for clinical neuroscience
+Headline: Neurology: Basics
+Topic: neurology
+Categorization: medicine - neurology
+
+Clinical Skills
+Epidemiology
+Medical Ethics
+Internal Medicine
+Surgery
+Neurology
+URL: https://www.khanacademy.org/science/health-and-medicine/nervous-system-and-sensory-infor
+Resource Name: Advanced nervous system physiology
+Headline: Neurology: Basics
+Topic: neurology
+Categorization: medicine - neurology
+
+URL: information
+Resource Name: Neurodegeneration  \ufe0f
+Headline: Basics: Neurodegeneration  \ufe0f
+Topic: neurology
+Categorization: medicine - neurology
+
+URL: https://www.youtube.com/watch?v=yJXTXN4xrI8
+Resource Name: Explanation
+Headline: Alzheimer\u2019s disease: Basics
+Topic: Alzheimer\u2019s disease
+Categorization: medicine - neurology - neurodegeneration - alzheimers disease
+
+URL: https://www.khanacademy.org/science/health-and-medicine/human-anatomy-and-physiology/nervous-system-introduction/v/introduction-to-neural-cell-types
+Resource Name: Introduction to neural cell types
+Headline: Neurology: Basics
+Topic: neurology
+Categorization: medicine - neurology
+
+URL: http://www.wikiwand.com/en/Alzheimer%27s_disease
+Resource Name: Alzheimer\u2019s disease
+Headline: Alzheimer\u2019s disease
+Topic: Alzheimer\u2019s disease
+Categorization: medicine - neurology - neurodegeneration - alzheimers disease
+
+URL: information
+Resource Name: Alzheimer\u2019s disease  \ufe0f
+Headline: Basics: Alzheimer\u2019s disease  \ufe0f
+Topic: neurogeneration
+Categorization: medicine - neurology - neurodegeneration
+
+URL: information
+Resource Name: Neurology  \ufe0f
+Headline: Basics: Neurology  \ufe0f
+Topic: medicine
+Categorization: medicine
+
+URL: http://www.wikiwand.com/en/Neurodegeneration
+Resource Name: Neurodegeneration
+Headline: neurogeneration
+Topic: neurogeneration
+Categorization: medicine - neurology - neurodegeneration
+
+URL: https://www.youtube.com/watch?v=iO-M7jq-zuY
+Resource Name: In detail explanation
+Headline: Parkinson's disease: Basics
+Topic: Parkinson\u2019s disease
+Categorization: medicine - neurology - neurodegeneration - parkinsons disease
+
+URL: information
+Resource Name: Parkinson's disease  \ufe0f
+Headline: Basics: Parkinson's disease  \ufe0f
+Topic: neurogeneration
+Categorization: medicine - neurology - neurodegeneration
+
+URL: https://www.youtube.com/watch?v=3n8UjH9h_8I
+Resource Name: Explanation
+Headline: Parkinson's disease: Basics
+Topic: Parkinson\u2019s disease
+Categorization: medicine - neurology - neurodegeneration - parkinsons disease
+
+URL: https://www.youtube.com/watch?v=RImBxfVH9H4
+Resource Name: Overview
+Headline: Neurodegeneration: Basics
+Topic: neurogeneration
+Categorization: medicine - neurology - neurodegeneration
+
+URL: http://www.wikiwand.com/en/Neurology
+Resource Name: Neurology
+Headline: neurology
+Topic: neurology
+Categorization: medicine - neurology
+
+URL: https://www.reddit.com/r/neurology/
+Resource Name: /r/neurology
+Headline: neurology
+Topic: neurology
+Categorization: medicine - neurology
+
+URL: http://www.wikiwand.com/en/Alzheimer%27s_disease
+Resource Name: Parkinson's disease
+Headline: Parkinson\u2019s disease
+Topic: Parkinson\u2019s disease
+Categorization: medicine - neurology - neurodegeneration - parkinsons disease
+
+URL: https://www.reddit.com/r/Alzheimers/
+Resource Name: /r/Alzheimers
+Headline: Alzheimer\u2019s disease
+Topic: Alzheimer\u2019s disease
+Categorization: medicine - neurology - neurodegeneration - alzheimers disease
+
+URL: http://www.goodreads.com/book/show/22535583-molecular-neuropharmacology
+Resource Name: Molecular neuropharmacology : a foundation for clinical neuroscience
+Headline: Neurology: Basics
+Topic: neurology
+Categorization: medicine - neurology
+
+URL: https://www.reddit.com/r/Parkinsons/
+Resource Name: /r/Parkinsons
+Headline: Parkinson\u2019s disease
+Topic: Parkinson\u2019s disease
+Categorization: medicine - neurology - neurodegeneration - parkinsons disease
+
+Psychiatry
+URL: http://www.wikiwand.com/en/Schizophrenia
+Resource Name: Schizophrenia
+Headline: schizophrenia
+Topic: schizophrenia
+Categorization: medicine - specialties - psychiatry - mental disorders - schizophrenia
+
+URL: http://www.wikiwand.com/en/Posttraumatic_stress_disorder
+Resource Name: Post traumatic stress disorder
+Headline: post traumatic stress disorder
+Topic: post traumatic stress disorder
+Categorization: medicine - specialties - psychiatry - mental disorders - post traumatic stress disorder
+
+URL: https://www.reddit.com/r/depression/
+Resource Name: /r/depression
+Headline: depression
+Topic: depression
+Categorization: medicine - specialties - psychiatry - mental disorders - depression
+
+URL: https://www.youtube.com/watch?v=aX7jnVXXG5o
+Resource Name: OCD &amp; anxiety disorders
+Headline: Anxiety disorder: Basics
+Topic: anxiety
+Categorization: medicine - specialties - psychiatry - mental disorders - anxiety
+
+URL: information
+Resource Name: Addiction  \ufe0f
+Headline: Basics: Addiction  \ufe0f
+Topic: mental disorders
+Categorization: medicine - specialties - psychiatry - mental disorders
+
+URL: https://www.youtube.com/watch?v=DtwTjlJjZeg
+Resource Name: Alan Watts on anxiety
+Headline: Anxiety disorder: Basics
+Topic: anxiety
+Categorization: medicine - specialties - psychiatry - mental disorders - anxiety
+
+URL: https://www.reddit.com/r/addiction/
+Resource Name: /r/addiction
+Headline: addiction
+Topic: addiction
+Categorization: medicine - specialties - psychiatry - mental disorders - addiction
+
+URL: https://www.youtube.com/watch?v=wuhJ-GkRRQc
+Resource Name: Psychological disorders
+Headline: Mental disorders: Basics
+Topic: mental disorders
+Categorization: medicine - specialties - psychiatry - mental disorders
+
+URL: information
+Resource Name: Anxiety  \ufe0f
+Headline: Basics: Anxiety  \ufe0f
+Topic: mental disorders
+Categorization: medicine - specialties - psychiatry - mental disorders
+
+URL: https://www.youtube.com/watch?v=yL9UJVtgPZY
+Resource Name: Schizophrenia simulator
+Headline: Schizophrenia: Interesting
+Topic: schizophrenia
+Categorization: medicine - specialties - psychiatry - mental disorders - schizophrenia
+
+URL: http://www.wikiwand.com/en/Mental_disorder
+Resource Name: Mental disorders
+Headline: mental disorders
+Topic: mental disorders
+Categorization: medicine - specialties - psychiatry - mental disorders
+
+URL: https://www.youtube.com/watch?v=ao8L-0nSYzg
+Resource Name: Addiction explained
+Headline: Addiction: Basics
+Topic: addiction
+Categorization: medicine - specialties - psychiatry - mental disorders - addiction
+
+URL: information
+Resource Name: Post traumatic stress disorder  \ufe0f
+Headline: Basics: Post traumatic stress disorder  \ufe0f
+Topic: mental disorders
+Categorization: medicine - specialties - psychiatry - mental disorders
+
+URL: https://www.youtube.com/watch?v=ZWI4_Oe-Qbs
+Resource Name: How the internet redesigns your mind
+Headline: Addiction: Basics
+Topic: addiction
+Categorization: medicine - specialties - psychiatry - mental disorders - addiction
+
+URL: https://www.youtube.com/watch?v=lbjZFbCBLQQ&amp;list=PLVMC6VenuLZQ2C8JRWBGk5ADkrM5CctD8
+Resource Name: Psychiatry lectures
+Headline: Psychiatry: Basics
+Topic: psychiatry
+Categorization: medicine - specialties - psychiatry
+
+URL: information
+Resource Name: Mental disorders  \ufe0f
+Headline: Basics: Mental disorders  \ufe0f
+Topic: psychiatry
+Categorization: medicine - specialties - psychiatry
+
+URL: information
+Resource Name: Psychiatry  \ufe0f
+Headline: Medical specialties: Psychiatry  \ufe0f
+Topic: medical specialties
+Categorization: medicine - specialties
+
+URL: information
+Resource Name: Depression  \ufe0f
+Headline: Basics: Depression  \ufe0f
+Topic: mental disorders
+Categorization: medicine - specialties - psychiatry - mental disorders
+
+URL: https://www.youtube.com/watch?v=nEnklxGAmak
+Resource Name: Schizophrenia explained
+Headline: Schizophrenia: Basics
+Topic: schizophrenia
+Categorization: medicine - specialties - psychiatry - mental disorders - schizophrenia
+
+URL: https://www.youtube.com/watch?v=t5qtrhE6Fmg
+Resource Name: Alan Watts - how to remove anxiety
+Headline: Anxiety disorder: Basics
+Topic: anxiety
+Categorization: medicine - specialties - psychiatry - mental disorders - anxiety
+
+URL: https://www.reddit.com/r/schizophrenia/
+Resource Name: /r/schizophrenia
+Headline: schizophrenia
+Topic: schizophrenia
+Categorization: medicine - specialties - psychiatry - mental disorders - schizophrenia
+
+URL: https://www.youtube.com/watch?v=hzSx4rMyVjI
+Resource Name: Causes, symptoms, treatment &amp; pathology
+Headline: Post traumatic stress disorder: Basics
+Topic: post traumatic stress disorder
+Categorization: medicine - specialties - psychiatry - mental disorders - post traumatic stress disorder
+
+URL: information
+Resource Name: Schizophrenia  \ufe0f
+Headline: Basics: Schizophrenia  \ufe0f
+Topic: mental disorders
+Categorization: medicine - specialties - psychiatry - mental disorders
+
+URL: https://www.reddit.com/r/videos/comments/5929r9/anderson_cooper_tries_a_schizophrenia_simulator/d955td6/
+Resource Name: Schizophrenia is more than just \u2018hearing voices\u2019
+Headline: Schizophrenia: Basics
+Topic: schizophrenia
+Categorization: medicine - specialties - psychiatry - mental disorders - schizophrenia
+
+URL: https://www.reddit.com/r/Psychiatry/
+Resource Name: /r/Psychiatry
+Headline: psychiatry
+Topic: psychiatry
+Categorization: medicine - specialties - psychiatry
+
+URL: https://www.youtube.com/watch?v=f_HkQ4-x4P4
+Resource Name: Alan Watts on suicide
+Headline: Depression: Help
+Topic: depression
+Categorization: medicine - specialties - psychiatry - mental disorders - depression
+
+URL: http://www.wikiwand.com/en/Psychiatry
+Resource Name: Psychiatry
+Headline: psychiatry
+Topic: psychiatry
+Categorization: medicine - specialties - psychiatry
+
+URL: https://www.youtube.com/watch?v=i-aSLt3IKUs
+Resource Name: Proposal for a radical revision of psychiatry, psychology, &amp; psychotherapy by Stanislav Grof
+Headline: Transpersonal psychology: Basics
+Topic: transpersonal psychology
+Categorization: psychology - transpersonal psychology
+
+URL: http://www.wikiwand.com/en/Addiction
+Resource Name: Addiction
+Headline: addiction
+Topic: addiction
+Categorization: medicine - specialties - psychiatry - mental disorders - addiction
+
+URL: http://www.wikiwand.com/en/Depression_(mood)
+Resource Name: Depression
+Headline: depression
+Topic: depression
+Categorization: medicine - specialties - psychiatry - mental disorders - depression
+
+URL: http://www.wikiwand.com/en/Anxiety_disorder
+Resource Name: Anxiety disorder
+Headline: anxiety
+Topic: anxiety
+Categorization: medicine - specialties - psychiatry - mental disorders - anxiety
+
+URL: https://www.youtube.com/watch?v=uxktavpRdzU
+Resource Name: Schizophrenia &amp; dissociative disorders
+Headline: Schizophrenia: Basics
+Topic: schizophrenia
+Categorization: medicine - specialties - psychiatry - mental disorders - schizophrenia
+
+URL: https://www.youtube.com/watch?v=ChGUVLSpWh4&amp;t=4s
+Resource Name: Alan Watts: worry, disease, depression and the mind
+Headline: Depression: Help
+Topic: depression
+Categorization: medicine - specialties - psychiatry - mental disorders - depression
+
+Pediatrics
+Obstetrics and Gynecology
+Radiology
+Anesthesiology

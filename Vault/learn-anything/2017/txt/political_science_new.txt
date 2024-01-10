@@ -1,0 +1,70 @@
+
+Government
+URL: https://www.youtube.com/watch?v=lrk4oY7UxpQ&amp;list=PL8dPuuaLjXtOfse2ncvffeelTrqvhrz8H
+Resource Name: US government and politics
+Headline: US history: Basics
+Topic: US history
+Categorization: history - united states
+
+
+Constitution
+No result
+
+Political Ideologies
+No result
+
+Political Systems
+No result
+
+Elections
+URL: http://www.jeromecukier.net/blog/2013/03/05/d3-tutorial-at-strata-redux/
+Resource Name: Selections in d3 - the long story  \ufe0f
+Headline: Help: Articles
+Topic: d3.js library
+Categorization: web development - javascript libraries - d3js
+
+
+Political Parties
+No result
+
+Public Policy
+No result
+
+Voting
+No result
+
+Political Behavior
+No result
+
+International Relations
+No result
+
+Public Administration
+No result
+
+Political Economy
+No result
+
+Political Philosophy
+No result
+
+Media and Politics
+No result
+
+Comparative Politics
+No result
+
+Political Sociology
+No result
+
+Political Theory
+No result
+
+Policy Analysis
+No result
+
+Research Methods
+No result
+
+Global Governance
+No result

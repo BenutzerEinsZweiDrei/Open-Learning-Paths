@@ -1,0 +1,103 @@
+
+Electric Circuits
+http://www.ibiblio.org/kuphaldt/electricCircuits/ - Lessons in electric circuits - Electrical engineering: Basics - electrical engineering - engineering - electrical engineering
+
+Ohm's Law
+
+Kirchhoff's Laws
+
+Resistors
+
+Capacitors
+
+Inductors
+
+DC Circuits
+
+AC Circuits
+
+Transformers
+
+Electric Motors
+
+Three Phase Systems
+
+Power Factor Correction
+
+Semiconductor Devices
+http://www.wikiwand.com/en/Semiconductor_device - Semiconductor devices - semiconductor devices - semiconductor devices - engineering - electrical engineering - electronics - electronic components - semiconductor devices
+https://www.youtube.com/watch?v=OwS9aTE2Go4 - Transistors - invention that changed the world - Transistors: Basics - transistors - engineering - electrical engineering - electronics - electronic components - semiconductor devices - transistor
+https://www.youtube.com/watch?v=DK4tfiHPdvg&amp;list=PLyWzPf87clvFN4-C-_PTSaCfnsSu-ybtG - Semiconductor device physics - Semiconductor devices: Basics - semiconductor devices - engineering - electrical engineering - electronics - electronic components - semiconductor devices
+information - Semiconductor devices  \ufe0f - Basics: Semiconductor devices  \ufe0f - electronic components - engineering - electrical engineering - electronics - electronic components
+https://www.universalclass.com/articles/science/electronics/what-are-semiconductor-devices.htm - What are semiconductor devices  \ufe0f - Semiconductor devices: Basics - semiconductor devices - engineering - electrical engineering - electronics - electronic components - semiconductor devices
+information - Transistors  \ufe0f - Basics: Transistors  \ufe0f - semiconductor devices - engineering - electrical engineering - electronics - electronic components - semiconductor devices
+http://www.wikiwand.com/en/Transistor - Transistors - transistors - transistors - engineering - electrical engineering - electronics - electronic components - semiconductor devices - transistor
+https://www.youtube.com/watch?v=IcrBqCFLHIY - How does a transistor work? - Transistors: Basics - transistors - engineering - electrical engineering - electronics - electronic components - semiconductor devices - transistor
+
+Operational Amplifiers
+
+Digital Electronics
+
+Control Systems
+https://www.reddit.com/r/Automate/ - /r/Automate - automation - automation - control systems - automation
+information - Automation  \ufe0f - Control systems: Automation  \ufe0f - control systems - control systems
+https://www.goodreads.com/book/show/14764640-control-systems-engineering - Control systems engineering - Mechatronics: Basics - mechatronics - engineering - mechatronics
+http://www.wikiwand.com/en/Automation - Automation - automation - automation - control systems - automation
+https://www.youtube.com/watch?v=WSKi8HfcxEk - The rise of the machines \u2013 why automation is different this time - Automation: Basics - automation - control systems - automation
+https://www.youtube.com/watch?v=7Pq-S557XQU - Humans need not apply - Automation: Basics - automation - control systems - automation
+http://www.wikiwand.com/en/Industrial_control_system - Industrial control systems - Control systems: Industrial control systems - control systems - control systems
+https://www.replacedbyrobot.info/ - Will your job be replaced by a robot? - Automation: Tools - automation - control systems - automation
+http://www.wikiwand.com/en/Control_system - Control systems - control systems - control systems - control systems
+
+Electric Power Systems
+
+Electromagnetic Field Theory
+
+Signal Processing
+https://www.youtube.com/watch?v=yBX8GFqt6GA - The problem with JPEG - JPEG: Basics - JPEG - information theory - signals - signal processing - digital signal processing - data compression - jpeg
+https://www.youtube.com/watch?v=YmSvQe2FDKs - Introduction - Signal processing: Basics - signal processing - information theory - signals - signal processing
+https://www.reddit.com/r/DSP/ - /r/DSP - digital signal processing - digital signal processing - information theory - signals - signal processing - digital signal processing
+http://www.wikiwand.com/en/Compressed_sensing - Compressed sensing - compressed sensing - compressed sensing - information theory - signals - signal processing - compressed sensing
+http://www.wikiwand.com/en/LZ77_and_LZ78 - LZ77 and LZ78 - Compression algorithms: LZ77 and LZ78 - data compression - information theory - signals - signal processing - digital signal processing - data compression
+http://www.wikiwand.com/en/Spatial_anti-aliasing - Spatial anti-aliasing - Basics: Spatial anti aliasing - aliasing - information theory - signals - signal processing - digital signal processing - aliasing
+https://www.youtube.com/watch?v=906EEPlB3Ao&amp;feature=youtu.be - How to use supersampling to make games look better - Supersampling: Basics - supersampling - information theory - signals - signal processing - digital signal processing - aliasing - supersampling
+information - Signal processing  \ufe0f - Basics: Signal processing  \ufe0f - signals - information theory - signals
+information - Supersampling  \ufe0f - Spatial anti aliasing: Supersampling  \ufe0f - aliasing - information theory - signals - signal processing - digital signal processing - aliasing
+https://www.youtube.com/watch?v=Lto-ajuqW3w - Explanation - Data compression: Basics - data compression - information theory - signals - signal processing - digital signal processing - data compression
+https://www.youtube.com/watch?v=Q2aEzeMDHMA - JPEG DCT, discrete cosine transform - JPEG: Basics - JPEG - information theory - signals - signal processing - digital signal processing - data compression - jpeg
+http://www.wikiwand.com/en/Aliasing - Aliasing - aliasing - aliasing - information theory - signals - signal processing - digital signal processing - aliasing
+https://www.youtube.com/watch?v=yWqrx08UeUs - Sampling, aliasing &amp; Nyquist theorem - Nyqust Shannon sampling theorem: Basics - Nyqust-Shannon sampling theorem - information theory - signals - signal processing - digital signal processing - nyqust shannon sampling theorem
+https://www.youtube.com/watch?v=n_uNPbdenRs - JPEG \u2018files\u2019 &amp; colour - JPEG: Basics - JPEG - information theory - signals - signal processing - digital signal processing - data compression - jpeg
+https://www.reddit.com/r/datacompression/ - /r/datacompression - data compression - data compression - information theory - signals - signal processing - digital signal processing - data compression
+information - Digital signal processing  \ufe0f - Basics: Digital signal processing  \ufe0f - signal processing - information theory - signals - signal processing
+http://www.wikiwand.com/en/Data_compression - Data compression - data compression - data compression - information theory - signals - signal processing - digital signal processing - data compression
+http://dspguide.com/ - The Scientist and Engineer's Guide to Digital Signal Processing - digital signal processing - digital signal processing - information theory - signals - signal processing - digital signal processing
+information - JPEG  \ufe0f - Lossy compression: JPEG  \ufe0f - data compression - information theory - signals - signal processing - digital signal processing - data compression
+https://www.youtube.com/watch?v=goOa3DGezUA - Elegant compression in text - Compression algorithms: LZ77 and LZ78 - data compression - information theory - signals - signal processing - digital signal processing - data compression
+https://www.youtube.com/watch?v=M5c_RFKVkko - Entropy in compression - Data compression: Basics - data compression - information theory - signals - signal processing - digital signal processing - data compression
+http://www.wikiwand.com/en/Digital_signal_processing - Digital signal processing - digital signal processing - digital signal processing - information theory - signals - signal processing - digital signal processing
+https://github.com/mavam/compbench - Benchmark and visualisation of various compression algorithms - Data compression: Interesting - data compression - information theory - signals - signal processing - digital signal processing - data compression
+https://jackschaedler.github.io/circles-sines-signals/ - Seeing circles, sines and signals - Digital signal processing: Basics - digital signal processing - information theory - signals - signal processing - digital signal processing
+https://dsp.stackexchange.com/ - \ufe0f - digital signal processing - digital signal processing - information theory - signals - signal processing - digital signal processing
+https://www.youtube.com/watch?v=yWqrx08UeUs - Sampling, aliasing &amp; Nyquist theorem - Aliasing: Basics - aliasing - information theory - signals - signal processing - digital signal processing - aliasing
+http://www.wikiwand.com/en/JPEG - JPEG - JPEG - JPEG - information theory - signals - signal processing - digital signal processing - data compression - jpeg
+https://www.youtube.com/watch?v=i2aY7tZ5S7U&amp;list=PLC94A02A1218B24DF - Compressed seeing by Terrence Tao - Compressed sensing: Basics - compressed sensing - information theory - signals - signal processing - compressed sensing
+information - Nyqust-Shannon sampling theorem  \ufe0f - Basics: Nyqust Shannon sampling theorem - digital signal processing - information theory - signals - signal processing - digital signal processing
+https://en.wikipedia.org/wiki/Category:Lossless_compression_algorithms - Compression algorithms - Basics: Compression algorithms - data compression - information theory - signals - signal processing - digital signal processing - data compression
+http://www.wikiwand.com/en/Lossy_compression - Lossy compression - Basics: Lossy compression - data compression - information theory - signals - signal processing - digital signal processing - data compression
+http://www.wikiwand.com/en/Supersampling - Supersampling - supersampling - supersampling - information theory - signals - signal processing - digital signal processing - aliasing - supersampling
+https://www.youtube.com/watch?v=zytez36XlCU - Compressie sensing - Compressed sensing: Basics - compressed sensing - information theory - signals - signal processing - compressed sensing
+http://www.wikiwand.com/en/Signal_processing - Signal processing - signal processing - signal processing - information theory - signals - signal processing
+information - Data compression  \ufe0f - Basics: Data compression  \ufe0f - digital signal processing - information theory - signals - signal processing - digital signal processing
+http://www.wikiwand.com/en/Nyquist%E2%80%93Shannon_sampling_theorem - Nyqust-Shannon sampling theorem - Nyqust-Shannon sampling theorem - Nyqust-Shannon sampling theorem - information theory - signals - signal processing - digital signal processing - nyqust shannon sampling theorem
+information - Aliasing  \ufe0f - Basics: Aliasing  \ufe0f - digital signal processing - information theory - signals - signal processing - digital signal processing
+
+Communication Systems
+
+Renewable Energy Systems
+
+Power Electronics
+https://www.coursera.org/learn/power-electronics - Introduction to power electronics - Power electronics: Basics - power electronics - engineering - electrical engineering - electronics - power electronics
+https://www.youtube.com/watch?v=aE4UPFvafaM&amp;list=PLmK1EnKxphikP6c9Yc9kGYO0kvrbEoWN8 - Fundamentals of power electronics - Power electronics: Basics - power electronics - engineering - electrical engineering - electronics - power electronics
+http://www.wikiwand.com/en/Power_electronics - Power electronics - power electronics - power electronics - engineering - electrical engineering - electronics - power electronics
+information - Power electronics  \ufe0f - Solid state electronics: Power electronics  \ufe0f - electronics - engineering - electrical engineering - electronics

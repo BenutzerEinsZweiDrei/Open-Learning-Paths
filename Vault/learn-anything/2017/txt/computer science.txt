@@ -1,0 +1,1050 @@
+Binary representation
+
+Logic gates
+URL: http://www.wikiwand.com/en/Solid-state_electronics
+Resource Name: Solid-state electronics
+Headline: Logic gates  \ufe0f: Solid state electronics
+Topic: electronics
+Categorization: engineering - electrical engineering - electronics
+
+URL: https://docs.google.com/viewer?a=v&amp;pid=sites&amp;srcid=amJ1cnJvdWdocy5vcmd8ZW5naW5lZXJpbmctZXhwbG9yYXRpb258Z3g6NmM2YzI3ZTEwODBhMGFkZA
+Resource Name: Logic gates cheat sheet
+Headline: Logic gates: Help
+Topic: logic gates
+Categorization: engineering - electrical engineering - electronics - logic gates
+
+URL: information
+Resource Name: Analog electronics  \ufe0f
+Headline: Logic gates  \ufe0f: Analog electronics  \ufe0f
+Topic: electronics
+Categorization: engineering - electrical engineering - electronics
+
+URL: information
+Resource Name: Electronic circuits  \ufe0f
+Headline: Logic gates  \ufe0f: Electronic circuits  \ufe0f
+Topic: electronics
+Categorization: engineering - electrical engineering - electronics
+
+URL: information
+Resource Name: Electronic components  \ufe0f
+Headline: Logic gates  \ufe0f: Electronic components  \ufe0f
+Topic: electronics
+Categorization: engineering - electrical engineering - electronics
+
+URL: http://www.wikiwand.com/en/Logic_gate
+Resource Name: Logic gates
+Headline: logic gates
+Topic: logic gates
+Categorization: engineering - electrical engineering - electronics - logic gates
+
+URL: http://silon.slaks.net/#gates
+Resource Name: Interactive logic gates
+Headline: Logic gates: Basics
+Topic: logic gates
+Categorization: engineering - electrical engineering - electronics - logic gates
+
+URL: http://www.ee.surrey.ac.uk/Projects/CAL/digital-logic/gatesfunc/
+Resource Name: Basic logic gates and functions
+Headline: Logic gates: Basics
+Topic: logic gates
+Categorization: engineering - electrical engineering - electronics - logic gates
+
+URL: https://www.youtube.com/watch?v=UvI-AMAtrvE
+Resource Name: Explanation
+Headline: Logic gates: Basics
+Topic: logic gates
+Categorization: engineering - electrical engineering - electronics - logic gates
+
+URL: information
+Resource Name: Logic gates  \ufe0f
+Headline: Basics: Logic gates  \ufe0f
+Topic: electronics
+Categorization: engineering - electrical engineering - electronics
+
+
+Algorithms
+URL: information
+Resource Name: Sorting  \ufe0f
+Headline: Algorithms on: Sorting  \ufe0f
+Topic: algorithms
+Categorization: computer science - algorithms
+
+URL: http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.471.4772&amp;rep=rep1&amp;type=pdf
+Resource Name: Algorithm design manual
+Headline: Algorithms: Basics
+Topic: algorithms
+Categorization: computer science - algorithms
+
+URL: https://github.com/keon/algorithms
+Resource Name: Algorithms in python
+Headline: Algorithms: Help
+Topic: algorithms
+Categorization: computer science - algorithms
+
+URL: http://jeffe.cs.illinois.edu/teaching/algorithms/
+Resource Name: Algorithms by Jeff Erickson
+Headline: Algorithms: Help
+Topic: algorithms
+Categorization: computer science - algorithms
+
+URL: http://eulercoder.me/AlgoWiki/
+Resource Name: AlgoWiki
+Headline: Algorithms: Help
+Topic: algorithms
+Categorization: computer science - algorithms
+
+URL: https://www.coursera.org/learn/algorithms-part2
+Resource Name: Algorithms: part II
+Headline: Algorithms: Basics
+Topic: algorithms
+Categorization: computer science - algorithms
+
+URL: http://www.wikiwand.com/en/Matrix_multiplication_algorithm
+Resource Name: Matrix multiplication
+Headline: Algorithms on: Matrix multiplication
+Topic: algorithms
+Categorization: computer science - algorithms
+
+URL: https://github.com/jbrownlee/CleverAlgorithms
+Resource Name: Clever algorithms
+Headline: Algorithms: Help
+Topic: algorithms
+Categorization: computer science - algorithms
+
+URL: http://frnsys.com/ai_notes/foundations/algorithms.html
+Resource Name: Algorithms notes  \ufe0f
+Headline: Algorithms: Basics
+Topic: algorithms
+Categorization: computer science - algorithms
+
+URL: https://www.coursera.org/learn/algorithms-part1
+Resource Name: Algorithms: part I
+Headline: Algorithms: Basics
+Topic: algorithms
+Categorization: computer science - algorithms
+
+URL: https://github.com/enjalot/algovis
+Resource Name: Algorithm visualisations
+Headline: Algorithms: Help
+Topic: algorithms
+Categorization: computer science - algorithms
+
+URL: http://algs4.cs.princeton.edu/home/
+Resource Name: Algorithms
+Headline: Algorithms: Basics
+Topic: algorithms
+Categorization: computer science - algorithms
+
+URL: https://github.com/raywenderlich/swift-algorithm-club
+Resource Name: Algorithms in swift
+Headline: Swift: Help
+Topic: swift programming language
+Categorization: programming - programming languages - swift
+
+URL: https://www.youtube.com/watch?v=NLKQEOgBAnw
+Resource Name: Algorithms: bit manipulation
+Headline: Bitwise operations: Basics
+Topic: bitwise operations
+Categorization: information theory - information - bits - bitwise operations
+
+URL: information
+Resource Name: Algorithms  \ufe0f
+Headline: Basics: Algorithms  \ufe0f
+Topic: computer science
+Categorization: computer science
+
+URL: information
+Resource Name: Searching  \ufe0f
+Headline: Algorithms on: Searching  \ufe0f
+Topic: algorithms
+Categorization: computer science - algorithms
+
+URL: https://github.com/coells/100days
+Resource Name: 100 days of algoritms
+Headline: Algorithms: Basics
+Topic: algorithms
+Categorization: computer science - algorithms
+
+URL: http://www.cs.princeton.edu/%7Ewayne/kleinberg-tardos/
+Resource Name: Lecture slides for algorithm design
+Headline: Algorithms: Help
+Topic: algorithms
+Categorization: computer science - algorithms
+
+URL: http://www.wikiwand.com/en/List_of_algorithms
+Resource Name: List of algorithms
+Headline: Algorithms: Help
+Topic: algorithms
+Categorization: computer science - algorithms
+
+URL: http://www.wikiwand.com/en/Domain_reduction_algorithm
+Resource Name: Domain reduction
+Headline: Algorithms on: Domain reduction
+Topic: algorithms
+Categorization: computer science - algorithms
+
+URL: http://www.techiedelight.com/list-of-problems/
+Resource Name: Data structures and algorithms problems
+Headline: Algorithms: Help
+Topic: algorithms
+Categorization: computer science - algorithms
+
+URL: https://www.youtube.com/playlist?list=PLEbnTDJUr_IeHYw_sfBOJ6gk5pie0yP-0
+Resource Name: Gate lectures
+Headline: Algorithms: Basics
+Topic: algorithms
+Categorization: computer science - algorithms
+
+URL: http://openclassroom.stanford.edu/MainFolder/CoursePage.php?course=IntroToAlgorithms
+Resource Name: Design and analysis of algorithms
+Headline: Algorithms: Basics
+Topic: algorithms
+Categorization: computer science - algorithms
+
+URL: http://www.wikiwand.com/en/Algorithm
+Resource Name: Algorithms
+Headline: algorithms
+Topic: algorithms
+Categorization: computer science - algorithms
+
+URL: https://visualgo.net/en
+Resource Name: Visualgo
+Headline: Algorithms: Help
+Topic: algorithms
+Categorization: computer science - algorithms
+
+URL: https://rubyalgo.github.io/algorithms/
+Resource Name: Ruby algorithms
+Headline: Algorithms: Help
+Topic: algorithms
+Categorization: computer science - algorithms
+
+URL: information
+Resource Name: Evolutionary  \ufe0f
+Headline: Algorithms on: Evolutionary  \ufe0f
+Topic: algorithms
+Categorization: computer science - algorithms
+
+URL: information
+Resource Name: Genetic  \ufe0f
+Headline: Algorithms on: Genetic  \ufe0f
+Topic: algorithms
+Categorization: computer science - algorithms
+
+URL: information
+Resource Name: Graphs  \ufe0f
+Headline: Algorithms on: Graphs  \ufe0f
+Topic: algorithms
+Categorization: computer science - algorithms
+
+URL: https://bost.ocks.org/mike/algorithms/
+Resource Name: Visualising algorithms
+Headline: Algorithms: Help
+Topic: algorithms
+Categorization: computer science - algorithms
+
+URL: http://ce.bonabu.ac.ir/uploads/30/CMS/user/file/115/EBook/Introduction.to.Algorithms.3rd.Edition.Sep.2010.pdf
+Resource Name: Introduction to algorithms
+Headline: Algorithms: Basics
+Topic: algorithms
+Categorization: computer science - algorithms
+
+URL: https://github.com/mdipierro/nlib
+Resource Name: Annotated algorithms in python
+Headline: Algorithms: Help
+Topic: algorithms
+Categorization: computer science - algorithms
+
+
+Data Structures
+
+Flowcharts
+
+Sorting algorithms
+URL: http://sorting.at/
+Resource Name: Sorting algos
+Headline: Sorting algorithms: Help
+Topic: sorting algorithms
+Categorization: computer science - algorithms - sorting
+
+URL: http://www.wikiwand.com/en/Sorting_algorithm
+Resource Name: Sorting algorithms
+Headline: sorting algorithms
+Topic: sorting algorithms
+Categorization: computer science - algorithms - sorting
+
+URL: https://www.toptal.com/developers/sorting-algorithms/
+Resource Name: Animations
+Headline: Sorting algorithms: Help
+Topic: sorting algorithms
+Categorization: computer science - algorithms - sorting
+
+URL: https://www.youtube.com/watch?v=Kg4bqzAqRBM
+Resource Name: Insertion sort, merge sort
+Headline: Sorting algorithms: Basics
+Topic: sorting algorithms
+Categorization: computer science - algorithms - sorting
+
+
+Pseudocode
+
+Searching algorithms
+
+Graph theory
+URL: information
+Resource Name: Graph theory  \ufe0f
+Headline: Discrete  \ufe0f: Graph theory  \ufe0f
+Topic: mathematics
+Categorization: mathematics
+
+URL: http://frnsys.com/ai_notes/scratch/graph%20analysis.html
+Resource Name: Notes on graph analysis  \ufe0f
+Headline: Graph theory: Help
+Topic: graph theory
+Categorization: mathematics - graph theory
+
+URL: http://www.wikiwand.com/en/Graph_theory
+Resource Name: Graph theory
+Headline: graph theory
+Topic: graph theory
+Categorization: mathematics - graph theory
+
+URL: https://dev.to/vaidehijoshi/a-gentle-introduction-to-graph-theory
+Resource Name: Gentle introduction to graph theory  \ufe0f
+Headline: Graph theory: Basics
+Topic: graph theory
+Categorization: mathematics - graph theory
+
+URL: http://math.stanford.edu/~dankane/113/Sets.pdf
+Resource Name: Set theory notation
+Headline: Graph theory  \ufe0f: Set theory  \ufe0f
+Topic: math notation
+Categorization: mathematics - math notation
+
+URL: https://webdocs.cs.ualberta.ca/~stewart/c672/Definitions.pdf
+Resource Name: Basic graph theory definitions and notation
+Headline: Algebra  \ufe0f: Graph theory  \ufe0f
+Topic: math notation
+Categorization: mathematics - math notation
+
+URL: http://frnsys.com/ai_notes/foundations/graphs.html
+Resource Name: Graph notes  \ufe0f
+Headline: Graph theory: Basics
+Topic: graph theory
+Categorization: mathematics - graph theory
+
+URL: https://webdocs.cs.ualberta.ca/~stewart/c672/Definitions.pdf
+Resource Name: Basic graph theory definitions and notation
+Headline: Graph theory: Help
+Topic: graph theory
+Categorization: mathematics - graph theory
+
+URL: http://www.redblobgames.com/pathfinding/grids/graphs.html
+Resource Name: Intro to graph theory
+Headline: Graph theory: Basics
+Topic: graph theory
+Categorization: mathematics - graph theory
+
+URL: information
+Resource Name: Graph theory  \ufe0f
+Headline: Algebra  \ufe0f: Graph theory  \ufe0f
+Topic: math notation
+Categorization: mathematics - math notation
+
+URL: https://simons.berkeley.edu/workshops/schedule/77
+Resource Name: Unifying theory and experiment for large-scale networks
+Headline: Graph theory: Basics
+Topic: graph theory
+Categorization: mathematics - graph theory
+
+URL: information
+Resource Name: Set theory  \ufe0f
+Headline: Graph theory  \ufe0f: Set theory  \ufe0f
+Topic: math notation
+Categorization: mathematics - math notation
+
+
+Complexity analysis
+
+Recursion
+URL: http://www.wikiwand.com/en/Recursion_(computer_science)
+Resource Name: Recursion
+Headline: recursion
+Topic: recursion
+Categorization: computer science - recursion
+
+URL: information
+Resource Name: Recursion  \ufe0f
+Headline: Basics: Recursion  \ufe0f
+Topic: computer science
+Categorization: computer science
+
+URL: https://www.youtube.com/watch?v=i7sm9dzFtEI
+Resource Name: The most difficult program to compute?
+Headline: Recursion: Basics
+Topic: recursion
+Categorization: computer science - recursion
+
+URL: https://www.reddit.com/r/learnprogramming/comments/3dmyap/wrapping_my_head_around_recursion/ct6sfcz/
+Resource Name: Example of recursion
+Headline: Recursion: Basics
+Topic: recursion
+Categorization: computer science - recursion
+
+URL: https://medium.freecodecamp.com/recursion-recursion-recursion-4db8890a674d
+Resource Name: Recursion, recursion, recursion  \ufe0f
+Headline: Recursion: Articles
+Topic: recursion
+Categorization: computer science - recursion
+
+URL: https://www.youtube.com/watch?v=Mv9NEXX1VHc
+Resource Name: What is recursion?
+Headline: Recursion: Basics
+Topic: recursion
+Categorization: computer science - recursion
+
+
+OOP principles
+
+Machine learning
+URL: https://blog.acolyer.org/
+Resource Name: The morning paper  \ufe0f
+Headline: Machine learning  \ufe0f: Computer science  \ufe0f
+Topic: blogs
+Categorization: more - blogs
+
+URL: https://github.com/hangtwenty/dive-into-machine-learning
+Resource Name: Dive into machine learning
+Headline: Machine learning: Help
+Topic: machine learning
+Categorization: machine learning
+
+URL: https://github.com/Microsoft/CNTK
+Resource Name: CNTK
+Headline: Machine learning libraries: CNTK
+Topic: machine learning libraries
+Categorization: machine learning - machine learning libraries
+
+URL: http://nbviewer.jupyter.org/github/rhiever/Data-Analysis-and-Machine-Learning-Projects/blob/master/example-data-science-notebook/Example%20Machine%20Learning%20Notebook.ipynb
+Resource Name: An example machine learning notebook
+Headline: Machine learning: Help
+Topic: machine learning
+Categorization: machine learning
+
+URL: http://hunch.net/
+Resource Name: Machine learning theory  \ufe0f
+Headline: Physics  \ufe0f: Machine learning  \ufe0f
+Topic: blogs
+Categorization: more - blogs
+
+URL: http://colah.github.io/
+Resource Name: Christopher Olah  \ufe0f
+Headline: Physics  \ufe0f: Machine learning  \ufe0f
+Topic: blogs
+Categorization: more - blogs
+
+URL: https://people.ucsc.edu/~praman1/static/pub/math-for-ml.pdf
+Resource Name: Math for machine learning
+Headline: Machine learning: Help
+Topic: machine learning
+Categorization: machine learning
+
+URL: https://github.com/CodingTrain/Machine-Learning
+Resource Name: Examples and experiments around ML
+Headline: Machine learning: Help
+Topic: machine learning
+Categorization: machine learning
+
+URL: information
+Resource Name: Machine learning libraries  \ufe0f
+Headline: Basics: Machine learning libraries  \ufe0f
+Topic: machine learning
+Categorization: machine learning
+
+URL: https://deepmind.com/blog/
+Resource Name: Deepmind  \ufe0f
+Headline: Physics  \ufe0f: Machine learning  \ufe0f
+Topic: blogs
+Categorization: more - blogs
+
+URL: http://cs229.stanford.edu/materials.html
+Resource Name: Machine learning CS 229 course materials
+Headline: Prerequisites: Basics
+Topic: machine learning
+Categorization: machine learning
+
+URL: information
+Resource Name: Caffe  \ufe0f
+Headline: Machine learning libraries: Caffe  \ufe0f
+Topic: machine learning libraries
+Categorization: machine learning - machine learning libraries
+
+URL: https://machinelearning.apple.com/
+Resource Name: Apple machine learning journal  \ufe0f
+Headline: Physics  \ufe0f: Machine learning  \ufe0f
+Topic: blogs
+Categorization: more - blogs
+
+URL: http://www.mlpack.org/
+Resource Name: Mlpack
+Headline: Machine learning libraries: Mlpack
+Topic: machine learning libraries
+Categorization: machine learning - machine learning libraries
+
+URL: https://github.com/eriklindernoren/ML-From-Scratch
+Resource Name: Ml from scratch
+Headline: Machine learning: Help
+Topic: machine learning
+Categorization: machine learning
+
+URL: https://github.com/Theano/Theano
+Resource Name: Theano
+Headline: Machine learning libraries: Theano
+Topic: machine learning libraries
+Categorization: machine learning - machine learning libraries
+
+URL: https://pjreddie.com/darknet/
+Resource Name: Darknet
+Headline: Machine learning libraries: Darknet
+Topic: machine learning libraries
+Categorization: machine learning - machine learning libraries
+
+URL: https://www.youtube.com/watch?v=3kYujfDgmNk
+Resource Name: Machine learning - random forests
+Headline: Random forest: Basics
+Topic: random forests
+Categorization: machine learning - pattern recognition - statistical classification - random forests
+
+URL: http://paddlepaddle.org/
+Resource Name: paddle paddle
+Headline: Basics: Machine learning libraries  \ufe0f
+Topic: machine learning
+Categorization: machine learning
+
+URL: information
+Resource Name: Machine learning   \ufe0f
+Headline: Python libraries: Machine learning   \ufe0f
+Topic: python libraries
+Categorization: programming - programming languages - python - python libraries
+
+URL: information
+Resource Name: Statistics  \ufe0f
+Headline: Machine learning: Prerequisites
+Topic: machine learning
+Categorization: machine learning
+
+URL: http://www.statsblogs.com/2014/12/30/machine-learning-books-suggested-by-michael-i-jordan-from-berkeley/
+Resource Name: Books suggested for machine learning study
+Headline: Machine learning: Help
+Topic: machine learning
+Categorization: machine learning
+
+URL: information
+Resource Name: Machine learning  \ufe0f
+Headline: Physics  \ufe0f: Machine learning  \ufe0f
+Topic: blogs
+Categorization: more - blogs
+
+URL: https://metacademy.org/roadmaps/cjrd/level-up-your-ml
+Resource Name: Machine learning requirements list
+Headline: Machine learning: Help
+Topic: machine learning
+Categorization: machine learning
+
+URL: https://medium.com/machine-learning-for-humans/why-machine-learning-matters-6164faf1df12
+Resource Name: Machine learning for humans  \ufe0f
+Headline: Prerequisites: Basics
+Topic: machine learning
+Categorization: machine learning
+
+URL: https://unsupervisedmethods.com/my-curated-list-of-ai-and-machine-learning-resources-from-around-the-web-9a97823b8524
+Resource Name: Curated list of AI and machine learning resources from around the web  \ufe0f
+Headline: Machine learning: Help
+Topic: machine learning
+Categorization: machine learning
+
+URL: http://bair.berkeley.edu/blog/about/
+Resource Name: The BAIR blog  \ufe0f
+Headline: Physics  \ufe0f: Machine learning  \ufe0f
+Topic: blogs
+Categorization: more - blogs
+
+URL: information
+Resource Name: Pytorch  \ufe0f
+Headline: Machine learning libraries: Pytorch  \ufe0f
+Topic: machine learning libraries
+Categorization: machine learning - machine learning libraries
+
+URL: https://research.google.com/teams/brain/
+Resource Name: Google brain team
+Headline: Machine learning: Help
+Topic: machine learning
+Categorization: machine learning
+
+URL: http://rylanschaeffer.github.io/content/research.html
+Resource Name: Rylan Schaeffer  \ufe0f
+Headline: Physics  \ufe0f: Machine learning  \ufe0f
+Topic: blogs
+Categorization: more - blogs
+
+URL: https://www.quora.com/Is-functional-analysis-relevant-to-machine-learning
+Resource Name: Is functional analysis relevant to machine learning?
+Headline: Machine learning: Help
+Topic: machine learning
+Categorization: machine learning
+
+URL: https://github.com/BAILOOL/DoYouEvenLearn
+Resource Name: Essential Guide to keep up with AI/ML/CV/UNameIt
+Headline: Machine learning: Help
+Topic: machine learning
+Categorization: machine learning
+
+URL: https://github.com/ujjwalkarn/Machine-Learning-Tutorials
+Resource Name: Machine learning tutorials
+Headline: Machine learning: Help
+Topic: machine learning
+Categorization: machine learning
+
+URL: http://iamtrask.github.io/
+Resource Name: I am trask  \ufe0f
+Headline: Physics  \ufe0f: Machine learning  \ufe0f
+Topic: blogs
+Categorization: more - blogs
+
+URL: https://github.com/h2oai/h2o-3
+Resource Name: H2O
+Headline: Machine learning libraries: H2O
+Topic: machine learning libraries
+Categorization: machine learning - machine learning libraries
+
+URL: https://research.fb.com/blog/
+Resource Name: Facebook research  \ufe0f
+Headline: Physics  \ufe0f: Machine learning  \ufe0f
+Topic: blogs
+Categorization: more - blogs
+
+URL: https://github.com/deeplearning4j/deeplearning4j
+Resource Name: Deeplearning4j
+Headline: Machine learning libraries: Deeplearning4j
+Topic: machine learning libraries
+Categorization: machine learning - machine learning libraries
+
+URL: information
+Resource Name: MXNet  \ufe0f
+Headline: Machine learning libraries: MXNet  \ufe0f
+Topic: machine learning libraries
+Categorization: machine learning - machine learning libraries
+
+URL: https://www.youtube.com/watch?v=2pEkWk-LHmU
+Resource Name: Machine learning: variational inference
+Headline: Variational Bayesian methods: Basics
+Topic: variational Bayesian methods
+Categorization: mathematics - statistics - bayesian statistics - bayesian inference - variational bayesian methods
+
+URL: https://github.com/ZuzooVn/machine-learning-for-software-engineers
+Resource Name: Machine learning for software engineers
+Headline: Machine learning: Help
+Topic: machine learning
+Categorization: machine learning
+
+URL: https://news.ycombinator.com/item?id=15116379
+Resource Name: Ask HN: what math is critical to learn ML
+Headline: Machine learning: Help
+Topic: machine learning
+Categorization: machine learning
+
+URL: https://www.springboard.com/learning-paths/machine-learning-python/
+Resource Name: Machine learning in python course
+Headline: Machine learning: Help
+Topic: machine learning
+Categorization: machine learning
+
+URL: https://github.com/NervanaSystems/neon
+Resource Name: Neon
+Headline: Machine learning libraries: Neon
+Topic: machine learning libraries
+Categorization: machine learning - machine learning libraries
+
+URL: https://github.com/hughperkins/DeepCL
+Resource Name: DeepCL
+Headline: Machine learning libraries: DeepCL
+Topic: machine learning libraries
+Categorization: machine learning - machine learning libraries
+
+URL: http://frnsys.com/ai_notes/machine_learning/in_practice.html
+Resource Name: Machine learning system design  \ufe0f
+Headline: Prerequisites: Basics
+Topic: machine learning
+Categorization: machine learning
+
+URL: https://www.wikiwand.com/en/Machine_learning
+Resource Name: Machine learning
+Headline: machine learning
+Topic: machine learning
+Categorization: machine learning
+
+URL: https://github.com/onmyway133/fantastic-machine-learning
+Resource Name: Fantastic machine learning
+Headline: Machine learning: Help
+Topic: machine learning
+Categorization: machine learning
+
+URL: https://distill.pub/
+Resource Name: Distill  \ufe0f
+Headline: Physics  \ufe0f: Machine learning  \ufe0f
+Topic: blogs
+Categorization: more - blogs
+
+URL: https://github.com/zsdonghao/tensorlayer
+Resource Name: TensorLayer
+Headline: Machine learning libraries: TensorLayer
+Topic: machine learning libraries
+Categorization: machine learning - machine learning libraries
+
+URL: http://www.umiacs.umd.edu/~hal/courses/2013S_ML/math4ml.pdf
+Resource Name: Math for machine learning II
+Headline: Machine learning: Help
+Topic: machine learning
+Categorization: machine learning
+
+URL: https://medium.com/@ageitgey/machine-learning-is-fun-80ea3ec3c471
+Resource Name: Machine learning is fun  \ufe0f
+Headline: Prerequisites: Basics
+Topic: machine learning
+Categorization: machine learning
+
+URL: information
+Resource Name: Torch  \ufe0f
+Headline: Machine learning libraries: Torch  \ufe0f
+Topic: machine learning libraries
+Categorization: machine learning - machine learning libraries
+
+URL: https://github.com/JohnLangford/vowpal_wabbit
+Resource Name: Vowpal wabbit
+Headline: Machine learning libraries: Vowpal wabbit
+Topic: machine learning libraries
+Categorization: machine learning - machine learning libraries
+
+URL: https://babushk.in/archive.html
+Resource Name: Igor Babuschkin  \ufe0f
+Headline: Physics  \ufe0f: Machine learning  \ufe0f
+Topic: blogs
+Categorization: more - blogs
+
+URL: information
+Resource Name: Nnabla  \ufe0f
+Headline: Machine learning libraries: Nnabla  \ufe0f
+Topic: machine learning libraries
+Categorization: machine learning - machine learning libraries
+
+URL: information
+Resource Name: Tensorflow  \ufe0f
+Headline: Machine learning libraries: Tensorflow  \ufe0f
+Topic: machine learning libraries
+Categorization: machine learning - machine learning libraries
+
+URL: https://github.com/acbraith/CSML_notes
+Resource Name: UCL MSc Computational Statistics and Machine Learning Revision Notes
+Headline: Machine learning: Help
+Topic: machine learning
+Categorization: machine learning
+
+URL: https://research.googleblog.com/
+Resource Name: Google research  \ufe0f
+Headline: Physics  \ufe0f: Machine learning  \ufe0f
+Topic: blogs
+Categorization: more - blogs
+
+URL: https://github.com/dmlc/xgboost
+Resource Name: Xgboost
+Headline: Machine learning libraries: Xgboost
+Topic: machine learning libraries
+Categorization: machine learning - machine learning libraries
+
+URL: https://github.com/shekit/machine-learning-demystified
+Resource Name: Machine learning demystified
+Headline: Machine learning: Help
+Topic: machine learning
+Categorization: machine learning
+
+URL: https://github.com/pybrain/pybrain
+Resource Name: Pybrain
+Headline: Machine learning libraries: Pybrain
+Topic: machine learning libraries
+Categorization: machine learning - machine learning libraries
+
+URL: http://www.ritchieng.com/machine-learning-resources/
+Resource Name: Machine learning resources
+Headline: Machine learning: Help
+Topic: machine learning
+Categorization: machine learning
+
+URL: https://learn-anything.xyz/mathematics/optimisation/convex-optimisation
+Resource Name: Optimisation
+Headline: Machine learning: Prerequisites
+Topic: machine learning
+Categorization: machine learning
+
+URL: https://www.youtube.com/playlist?list=PL5-da3qGB5ICeMbQuqbbCOQWcS6OYBr5A
+Resource Name: Machine learning in python with scikit-learn
+Headline: Scikit learn: Basics
+Topic: scikit-learn library
+Categorization: machine learning - machine learning libraries - scikit learn
+
+URL: https://github.com/dformoso/machine-learning-mindmap
+Resource Name: Machine learning mindmap / cheatsheet
+Headline: Machine learning: Help
+Topic: machine learning
+Categorization: machine learning
+
+URL: https://github.com/metrofun/machine-learning-surveys
+Resource Name: Machine learning surveys
+Headline: Machine learning: Help
+Topic: machine learning
+Categorization: machine learning
+
+URL: information
+Resource Name: Computer science  \ufe0f
+Headline: Machine learning  \ufe0f: Computer science  \ufe0f
+Topic: blogs
+Categorization: more - blogs
+
+URL: https://www.youtube.com/watch?v=-dCtJjlEEgM
+Resource Name: Machine learning - decision trees
+Headline: Decision tree learning: Basics
+Topic: decision tree learning
+Categorization: machine learning - decision tree learning
+
+URL: https://blog.openai.com/
+Resource Name: OpenAI  \ufe0f
+Headline: Physics  \ufe0f: Machine learning  \ufe0f
+Topic: blogs
+Categorization: more - blogs
+
+URL: information
+Resource Name: Linear algebra  \ufe0f
+Headline: Machine learning: Prerequisites
+Topic: machine learning
+Categorization: machine learning
+
+URL: http://deepdojo.com/
+Resource Name: The deep dojo ML blog  \ufe0f
+Headline: Physics  \ufe0f: Machine learning  \ufe0f
+Topic: blogs
+Categorization: more - blogs
+
+URL: http://ocdevel.com/podcasts/machine-learning
+Resource Name: Machine learning guide
+Headline: Prerequisites: Basics
+Topic: machine learning
+Categorization: machine learning
+
+URL: information
+Resource Name: Scikit-learn  \ufe0f
+Headline: Machine learning libraries: Scikit learn
+Topic: machine learning libraries
+Categorization: machine learning - machine learning libraries
+
+URL: https://github.com/EdwardRaff/JSAT
+Resource Name: JSAT
+Headline: Machine learning libraries: JSAT
+Topic: machine learning libraries
+Categorization: machine learning - machine learning libraries
+
+URL: http://frnsys.com/ai_notes/machine_learning/overview.html
+Resource Name: Machine learning overview  \ufe0f
+Headline: Help: Articles
+Topic: machine learning
+Categorization: machine learning
+
+URL: https://fkcd.ca/EpU.svg
+Resource Name: Machine learning concept map
+Headline: Machine learning: Help
+Topic: machine learning
+Categorization: machine learning
+
+URL: https://karpathy.github.io/
+Resource Name: Andrej Karpathy  \ufe0f
+Headline: Physics  \ufe0f: Machine learning  \ufe0f
+Topic: blogs
+Categorization: more - blogs
+
+URL: https://elitedatascience.com/learn-machine-learning
+Resource Name: How to learn machine learning
+Headline: Machine learning: Help
+Topic: machine learning
+Categorization: machine learning
+
+
+Parallel computing
+
+Cryptography
+URL: https://www.wikiwand.com/en/Cryptography
+Resource Name: Cryptography
+Headline: cryptography
+Topic: cryptography
+Categorization: cryptography
+
+URL: https://www.udacity.com/course/applied-cryptography--cs387
+Resource Name: Applied cryptography
+Headline: Cryptography: Basics
+Topic: cryptography
+Categorization: cryptography
+
+URL: https://github.com/sustrik/crypto-for-kids
+Resource Name: Crypto for kids
+Headline: Cryptography: Basics
+Topic: cryptography
+Categorization: cryptography
+
+URL: http://cryptopals.com/
+Resource Name: Crypto challenges
+Headline: Cryptography: Basics
+Topic: cryptography
+Categorization: cryptography
+
+URL: https://www-ee.stanford.edu/~hellman/publications/24.pdf
+Resource Name: New directions in cryptography
+Headline: Cryptography: Basics
+Topic: cryptography
+Categorization: cryptography
+
+URL: https://gist.github.com/TheZ3ro/fb521a3cde0c91fcb350
+Resource Name: Cryptographic right answers
+Headline: Cryptography: Help
+Topic: cryptography
+Categorization: cryptography
+
+URL: https://www.goodreads.com/book/show/17994.The_Code_Book
+Resource Name: The code book
+Headline: Cryptography: Basics
+Topic: cryptography
+Categorization: cryptography
+
+URL: https://www.crypto101.io/
+Resource Name: Crypto 101
+Headline: Cryptography: Basics
+Topic: cryptography
+Categorization: cryptography
+
+URL: https://www.coursera.org/learn/crypto
+Resource Name: Cryptography I
+Headline: Cryptography: Basics
+Topic: cryptography
+Categorization: cryptography
+
+
+Compiler design
+URL: http://smallcultfollowing.com/babysteps/blog/2017/02/12/compiler-design-sprint-summary/
+Resource Name: Compiler design sprint summary  \ufe0f
+Headline: Help: Articles
+Topic: compilers
+Categorization: computer science - compilers
+
+
+Operating systems
+URL: https://www.youtube.com/watch?v=qdkxXygc3rE
+Resource Name: Operating systems: memory manager
+Headline: Memory management: Basics
+Topic: memory management
+Categorization: computer hardware - computer - computer memory - memory management
+
+URL: https://www.bottomupcs.com/
+Resource Name: Computer science from bottom up
+Headline: Operating systems: Basics
+Topic: operating systems
+Categorization: operating systems
+
+URL: https://www.youtube.com/playlist?list=PLEbnTDJUr_If_BnzJkkN_J0Tl3iXTL8vq
+Resource Name: Gate lectures
+Headline: Operating systems: Basics
+Topic: operating systems
+Categorization: operating systems
+
+URL: information
+Resource Name: IOS  \ufe0f
+Headline: Operating systems: IOS  \ufe0f
+Topic: mobile applications development
+Categorization: programming - mobile applications
+
+URL: https://github.com/tuhdo/os01
+Resource Name: Bootstrap yourself to write an OS from scratch
+Headline: Operating systems: Help
+Topic: operating systems
+Categorization: operating systems
+
+URL: https://littleosbook.github.io/
+Resource Name: The little book about OS development
+Headline: Operating systems: Basics
+Topic: operating systems
+Categorization: operating systems
+
+URL: http://www.barrelfish.org/
+Resource Name: Barrelfish operating system
+Headline: Operating systems: Help
+Topic: operating systems
+Categorization: operating systems
+
+URL: http://www.cl.cam.ac.uk/projects/raspberrypi/tutorials/os/
+Resource Name: Baking pi \u2013 operating systems development
+Headline: Operating systems: Basics
+Topic: operating systems
+Categorization: operating systems
+
+URL: http://greenteapress.com/thinkos/
+Resource Name: Brief introduction to operating systems
+Headline: Operating systems: Basics
+Topic: operating systems
+Categorization: operating systems
+
+URL: http://wiki.osdev.org/Main_Page
+Resource Name: Os dev wiki
+Headline: Operating systems: Help
+Topic: operating systems
+Categorization: operating systems
+
+URL: information
+Resource Name: Android  \ufe0f
+Headline: Operating systems: Android  \ufe0f
+Topic: mobile applications development
+Categorization: programming - mobile applications
+
+URL: http://www.wikiwand.com/en/Operating_system
+Resource Name: Operating systems
+Headline: operating systems
+Topic: operating systems
+Categorization: operating systems
+
+URL: https://pdos.csail.mit.edu/6.828/2016/xv6/book-rev9.pdf
+Resource Name: Xv6 - a simple, unix-like teaching operating system
+Headline: Operating systems: Help
+Topic: operating systems
+Categorization: operating systems
+
+URL: https://os.phil-opp.com/
+Resource Name: Writing an OS in Rust
+Headline: Operating systems: Help
+Topic: operating systems
+Categorization: operating systems
+
+URL: http://pages.cs.wisc.edu/~remzi/OSTEP/
+Resource Name: Operating systems: three easy pieces
+Headline: Operating systems: Basics
+Topic: operating systems
+Categorization: operating systems
+
+URL: https://tuhdo.github.io/os01/
+Resource Name: Operating systems: from 0 to 1
+Headline: Operating systems: Basics
+Topic: operating systems
+Categorization: operating systems
+
+
+Network protocols
+URL: https://www.destroyallsoftware.com/compendium/network-protocols/97d3ba4c24d21147
+Resource Name: Network protocols for anyone who knows a programming language  \ufe0f
+Headline: Computer networking: Basics
+Topic: computer networking
+Categorization: network science - computer networking
+
+

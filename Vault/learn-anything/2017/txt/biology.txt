@@ -1,0 +1,300 @@
+Cell Structure
+Resource Name: Cell structure
+URL: https://www.youtube.com/watch?v=URUJD5NEXC8
+Headline: Cells: Basics
+Topic: cells
+Categorization: biology - organisms - cells
+
+Basic Biochemistry
+No result
+
+DNA and RNA
+No result
+
+Cellular Metabolism
+No result
+
+Genetics
+Resource Name: Everything you should know about CRISPR - and where to learn more  \ufe0f
+URL: https://medium.com/startup-grind/a-primer-on-crispr-and-how-to-learn-more-c1b4ca7159f6
+Headline: CRISPR: Articles
+Topic: CRISPR
+Categorization: biology - genetics - genetic engineering - crispr
+Resource Name: GMOs  \ufe0f
+URL: information
+Headline: Genetic engineering: GMOs  \ufe0f
+Topic: genetic engineering
+Categorization: biology - genetics - genetic engineering
+Resource Name: Genetic engineering  \ufe0f
+URL: information
+Headline: Genetics: Genetic engineering  \ufe0f
+Topic: genetics
+Categorization: biology - genetics
+Resource Name: /r/CRISPR
+URL: https://www.reddit.com/r/CRISPR/
+Headline: CRISPR
+Topic: CRISPR
+Categorization: biology - genetics - genetic engineering - crispr
+Resource Name: CRISPR  \ufe0f
+URL: information
+Headline: Genetic engineering: CRISPR  \ufe0f
+Topic: genetic engineering
+Categorization: biology - genetics - genetic engineering
+Resource Name: Genetic engineering will change everything forever
+URL: https://www.youtube.com/watch?v=jAhjPd4uNFY
+Headline: CRISPR: Basics
+Topic: CRISPR
+Categorization: biology - genetics - genetic engineering - crispr
+Resource Name: Are GMOs good or bad? genetic engineering &amp; our food
+URL: https://www.youtube.com/watch?v=7TmcXYp8xu4
+Headline: Genetically modified organisms: Basics
+Topic: genetically modified organisms
+Categorization: biology - genetics - genetic engineering - gmo
+Resource Name: /r/genetics
+URL: https://www.reddit.com/r/genetics/
+Headline: genetics
+Topic: genetics
+Categorization: biology - genetics
+Resource Name: Genetically modified organisms
+URL: http://www.wikiwand.com/en/Genetically_modified_organism
+Headline: genetically modified organisms
+Topic: genetically modified organisms
+Categorization: biology - genetics - genetic engineering - gmo
+Resource Name: DNA  \ufe0f
+URL: information
+Headline: Genetics: DNA  \ufe0f
+Topic: genetics
+Categorization: biology - genetics
+Resource Name: Genetics
+URL: http://www.wikiwand.com/en/Genetics
+Headline: genetics
+Topic: genetics
+Categorization: biology - genetics
+Resource Name: RNA  \ufe0f
+URL: information
+Headline: Genetics: RNA  \ufe0f
+Topic: genetics
+Categorization: biology - genetics
+Resource Name: Genetic engineering
+URL: http://www.wikiwand.com/en/Genetic_engineering
+Headline: genetic engineering
+Topic: genetic engineering
+Categorization: biology - genetics - genetic engineering
+Resource Name: CRISPR
+URL: http://www.wikiwand.com/en/CRISPR
+Headline: CRISPR
+Topic: CRISPR
+Categorization: biology - genetics - genetic engineering - crispr
+Resource Name: Genetics  \ufe0f
+URL: information
+Headline: Basics: Genetics  \ufe0f
+Topic: biology
+Categorization: biology
+
+Evolutionary Biology
+No result
+
+Microbiology
+Resource Name: Overview
+URL: https://www.youtube.com/watch?v=ThU9Ckp1mB8
+Headline: Microbiology: Basics
+Topic: microbiology
+Categorization: biology - microbiology
+Resource Name: Microbiology  \ufe0f
+URL: information
+Headline: Basics: Microbiology  \ufe0f
+Topic: biology
+Categorization: biology
+Resource Name: Microbiology
+URL: http://www.wikiwand.com/en/Microbiology
+Headline: microbiology
+Topic: microbiology
+Categorization: biology - microbiology
+Resource Name: Medical microbiology &amp; immunology
+URL: http://www.goodreads.com/book/show/808109.Medical_Microbiology_Immunology
+Headline: Immunology: Basics
+Topic: immunology
+Categorization: biology - immunology
+
+Anatomy and Physiology
+Resource Name: Anatomy and physiology
+URL: https://www.youtube.com/playlist?list=PLCC2DB523BA8BCB53
+Headline: Anatomy: Basics
+Topic: anatomy
+Categorization: biology - anatomy
+Resource Name: Khan academy human anatomy and physiology
+URL: https://www.khanacademy.org/science/health-and-medicine/human-anatomy-and-physiology
+Headline: Anatomy: Basics
+Topic: anatomy
+Categorization: biology - anatomy
+
+Ecology
+Resource Name: Sustainability  \ufe0f
+URL: information
+Headline: Basics: Sustainability  \ufe0f
+Topic: ecology
+Categorization: biology - ecology
+Resource Name: Ecology
+URL: http://www.wikiwand.com/en/Ecology
+Headline: Basics: Ecology
+Topic: environmental science
+Categorization: environmental science
+Resource Name: Ecology  \ufe0f
+URL: information
+Headline: Basics: Ecology  \ufe0f
+Topic: biology
+Categorization: biology
+Resource Name: Population, sustainability and malthus
+URL: https://www.youtube.com/watch?v=QAkW_i0bDpQ
+Headline: Sustainability: Basics
+Topic: sustainability
+Categorization: biology - ecology - sustainability
+Resource Name: /r/ecology
+URL: https://www.reddit.com/r/ecology/
+Headline: ecology
+Topic: ecology
+Categorization: biology - ecology
+Resource Name: The rise of sustainability
+URL: https://www.youtube.com/watch?v=L_skrxnh7Ik
+Headline: Sustainability: Interesting
+Topic: sustainability
+Categorization: biology - ecology - sustainability
+Resource Name: Crash course ecology
+URL: https://www.youtube.com/watch?v=sjE-Pkjp3u4&amp;list=PL8dPuuaLjXtNdTKZkV_GiIYXpV9w4WxbX
+Headline: Ecology: Basics
+Topic: ecology
+Categorization: biology - ecology
+Resource Name: Khan academy ecology
+URL: https://www.khanacademy.org/science/biology/ecology
+Headline: Ecology: Basics
+Topic: ecology
+Categorization: biology - ecology
+Resource Name: Ecology
+URL: http://www.wikiwand.com/en/Ecology
+Headline: ecology
+Topic: ecology
+Categorization: biology - ecology
+Resource Name: Sustainability
+URL: http://www.wikiwand.com/en/Sustainability
+Headline: sustainability
+Topic: sustainability
+Categorization: biology - ecology - sustainability
+Resource Name: /r/sustainability
+URL: https://www.reddit.com/r/sustainability/
+Headline: sustainability
+Topic: sustainability
+Categorization: biology - ecology - sustainability
+
+Biostatistics
+No result
+
+Bioinformatics
+Resource Name: /r/bioinformatics
+URL: https://www.reddit.com/r/bioinformatics/
+Headline: bioinformatics
+Topic: bioinformatics
+Categorization: biology - bioinformatics
+Resource Name: Bioinformatics  \ufe0f
+URL: information
+Headline: Basics: Bioinformatics  \ufe0f
+Topic: biology
+Categorization: biology
+Resource Name: Awesome
+URL: https://github.com/danielecook/Awesome-Bioinformatics
+Headline: bioinformatics
+Topic: bioinformatics
+Categorization: biology - bioinformatics
+Resource Name: Rosalind
+URL: http://rosalind.info/about/
+Headline: Bioinformatics: Basics
+Topic: bioinformatics
+Categorization: biology - bioinformatics
+Resource Name: Bioinformatics
+URL: http://www.wikiwand.com/en/Bioinformatics
+Headline: bioinformatics
+Topic: bioinformatics
+Categorization: biology - bioinformatics
+
+Immunology
+Resource Name: Immunology  \ufe0f
+URL: information
+Headline: Basics: Immunology  \ufe0f
+Topic: biology
+Categorization: biology
+Resource Name: Immunology khan academy
+URL: https://www.youtube.com/watch?v=O1N2rENXq_Y&amp;list=PLNpslXVNsEGNkGKJ3jeTFkNpQAL3l919h
+Headline: Immunology: Basics
+Topic: immunology
+Categorization: biology - immunology
+Resource Name: Immunology
+URL: http://www.wikiwand.com/en/Immunology
+Headline: immunology
+Topic: immunology
+Categorization: biology - immunology
+Resource Name: Immunology: innate immunity
+URL: https://www.youtube.com/watch?v=2-57bqFSJ1E
+Headline: Immune system: Basics
+Topic: immune system
+Categorization: biology - organisms - immune system
+Resource Name: Immunology overview
+URL: https://www.youtube.com/watch?v=LSYED-7riNY
+Headline: Immune system: Basics
+Topic: immune system
+Categorization: biology - organisms - immune system
+Resource Name: Immunology: adaptive immune system
+URL: https://www.youtube.com/watch?v=U1FyrtDZ3aE
+Headline: Immune system: Basics
+Topic: immune system
+Categorization: biology - organisms - immune system
+Resource Name: Immunology 101
+URL: https://www.youtube.com/watch?v=gKkvTXLvbhs
+Headline: Immunology: Basics
+Topic: immunology
+Categorization: biology - immunology
+Resource Name: Medical microbiology &amp; immunology
+URL: http://www.goodreads.com/book/show/808109.Medical_Microbiology_Immunology
+Headline: Immunology: Basics
+Topic: immunology
+Categorization: biology - immunology
+
+Neurobiology
+No result
+
+Developmental Biology
+No result
+
+Molecular Biology
+Resource Name: Polymerase chain reaction
+URL: https://en.wikipedia.org/wiki/Polymerase_chain_reaction
+Headline: molecular biology
+Topic: molecular biology
+Categorization: chemistry - biochemistry - molecular biology
+Resource Name: Molecular biology  \ufe0f
+URL: information
+Headline: Basics: Molecular biology  \ufe0f
+Topic: biochemistry
+Categorization: chemistry - biochemistry
+Resource Name: Molecular biology
+URL: https://www.youtube.com/watch?v=yYIZgS-L5Sc
+Headline: Molecular biology: Basics
+Topic: molecular biology
+Categorization: chemistry - biochemistry - molecular biology
+Resource Name: Molecular biology
+URL: http://www.wikiwand.com/en/Molecular_biology
+Headline: molecular biology
+Topic: molecular biology
+Categorization: chemistry - biochemistry - molecular biology
+
+Human Pathophysiology
+No result
+
+Biotechnology
+No result
+
+Systems Biology
+Resource Name: Foundations of computational and systems biology
+URL: https://www.youtube.com/watch?v=lJzybEXmIj0&amp;list=PLUl4u3cNGP63uK-oWiLgO7LLJV6ZCWXac
+Headline: Computational biology: Basics
+Topic: computational biology
+Categorization: biology - computational biology
+

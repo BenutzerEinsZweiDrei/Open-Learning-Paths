@@ -1,0 +1,114 @@
+World Geography
+No result
+Physical Geography
+Resource Name: Physical geography
+URL: http://www.wikiwand.com/en/Physical_geography
+Headline: Geography: Physical geography
+Topic: geography
+Categorization: geography
+
+Human Geography
+Resource Name: Human geography
+URL: http://www.wikiwand.com/en/Human_geography
+Headline: Geography: Human geography
+Topic: geography
+Categorization: geography
+
+Cartography
+Resource Name: Cartography  \ufe0f
+URL: information
+Headline: Geography: Cartography  \ufe0f
+Topic: geography
+Categorization: geography
+Resource Name: /r/mapmaking
+URL: https://www.reddit.com/r/mapmaking/
+Headline: cartography
+Topic: cartography
+Categorization: geography - cartography
+Resource Name: Brief history of cartography and maps
+URL: https://www.youtube.com/watch?v=fLdvInDrQ2c
+Headline: Cartography: Basics
+Topic: cartography
+Categorization: geography - cartography
+Resource Name: Cartography
+URL: http://www.wikiwand.com/en/Cartography
+Headline: cartography
+Topic: cartography
+Categorization: geography - cartography
+
+Climate Zones
+No result
+Population Geography
+No result
+Topography
+No result
+Map Reading
+No result
+Geographical Information Systems (GIS)
+No result
+Geopolitics
+No result
+Cultural Geography
+No result
+Economic Geography
+No result
+Urban Geography
+No result
+Environmental Geography
+No result
+Remote Sensing
+No result
+Geographic Research Methods
+No result
+Sustainability
+Resource Name: Sustainability  \ufe0f
+URL: information
+Headline: Basics: Sustainability  \ufe0f
+Topic: ecology
+Categorization: biology - ecology
+Resource Name: Population, sustainability and malthus
+URL: https://www.youtube.com/watch?v=QAkW_i0bDpQ
+Headline: Sustainability: Basics
+Topic: sustainability
+Categorization: biology - ecology - sustainability
+Resource Name: Circular economy  \ufe0f
+URL: information
+Headline: Sustainability: Circular economy  \ufe0f
+Topic: environmental science
+Categorization: environmental science
+Resource Name: Sustainability
+URL: http://www.wikiwand.com/en/Sustainability
+Headline: Basics: Sustainability
+Topic: environmental science
+Categorization: environmental science
+Resource Name: The rise of sustainability
+URL: https://www.youtube.com/watch?v=L_skrxnh7Ik
+Headline: Sustainability: Interesting
+Topic: sustainability
+Categorization: biology - ecology - sustainability
+Resource Name: Renewable energy  \ufe0f
+URL: information
+Headline: Sustainability: Renewable energy  \ufe0f
+Topic: environmental science
+Categorization: environmental science
+Resource Name: Sustainability
+URL: http://www.wikiwand.com/en/Sustainability
+Headline: sustainability
+Topic: sustainability
+Categorization: biology - ecology - sustainability
+Resource Name: /r/sustainability
+URL: https://www.reddit.com/r/sustainability/
+Headline: sustainability
+Topic: sustainability
+Categorization: biology - ecology - sustainability
+
+Spatial Analysis
+No result
+Geographic Theory
+No result
+Geomorphic Processes
+No result
+Geographic Information Science (GIScience)
+No result
+Critical Geography
+No result
