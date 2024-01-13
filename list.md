@@ -1,5 +1,8 @@
 The following is a list of ressources
 
+https://github.com/ossu/computer-science
+
+
 |    Category    |              Name             |                     URL                    |                                                             Description                                                            |   |
 |:--------------:|:-----------------------------:|:------------------------------------------:|:----------------------------------------------------------------------------------------------------------------------------------:|---|
 | Knowledge Base | Perplexity AI                 | https://www.perplexity.ai/                 | A large language model that can answer your questions in an informative way, even if they are open ended, challenging, or strange. |   |
