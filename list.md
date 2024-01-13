@@ -1,7 +1,5 @@
 The following is a list of ressources
 
-https://github.com/ossu/computer-science
-
 
 |    Category    |              Name             |                     URL                    |                                                             Description                                                            |   |
 |:--------------:|:-----------------------------:|:------------------------------------------:|:----------------------------------------------------------------------------------------------------------------------------------:|---|
@@ -50,3 +48,6 @@ https://github.com/ossu/computer-science
 | Learning Paths   | Learn Anything xyz    | https://learn-anything.xyz/       | A platform for discovering and learning new skills and knowledge.                                      |
 | Learning Paths   | Shapes of Knowledge   | https://shapesofknowledge.io/     | A platform for exploring and learning about different areas of knowledge.                              |
 | Learning Paths   | Kinnu xyz             | https://kinnu.xyz/                | An AI-powered personal learning assistant that helps you learn new things.                             |
+
+
+- watch also https://github.com/ossu/computer-science
