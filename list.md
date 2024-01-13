@@ -1,4 +1,4 @@
-The following is a list of ressources
+## List of (AI) Learning Ressources
 
 
 |    Category    |              Name             |                     URL                    |                                                             Description                                                            |   |
@@ -51,3 +51,26 @@ The following is a list of ressources
 
 
 - watch also https://github.com/ossu/computer-science
+- 
+
+## Talk to your knowledge base/second brain/digital garden
+
+Best thing is probably 
+https://github.com/pashpashpash/vault-ai
+
+
+| Name                | Description                                                                                                  | URL                                                                | Messages  in Free Tier     |   |
+|---------------------|--------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------|----------------|---|
+| Knowbase.ai         | Versatile knowledge base platform that allows you to store, organize, and chat with your knowledge base.     | https://www.knowbase.ai/: https://www.knowbase.ai/                 | 200 per month  |   |
+| Pragma.ai           | AI-powered knowledge base tool that helps businesses create, manage, and share knowledge.                    | https://www.pragma.ai/pricing: https://www.pragma.ai/pricing       | Varies         |   |
+| Dante AI            | Cloud-based knowledge base tool with a focus on natural language processing and machine learning.            | https://www.dante-ai.com/: https://www.dante-ai.com/               | 50 Nachrichten |   |
+| XChat.stochastic.ai | Powerful knowledge base tool that can handle large volumes of data and complex queries.                      | https://www.xchat.stochastic.ai/: https://www.xchat.stochastic.ai/ | 200 per day    |   |
+| Hansei.app          | Simple and intuitive knowledge base tool that is easy to learn and use.                                      | https://hansei.app/: https://hansei.app/                           | 15 messages    |   |
+| Gitbook             | Online documentation platform that allows you to create and share knowledgebases.                            | https://www.gitbook.com/: https://www.gitbook.com/                 | Varies         |   |
+| Quivr.app           | Collaborative knowledge base tool that allows teams to work together to create and maintain knowledge bases. | https://www.quivr.app/: https://www.quivr.app/                     | Varies         |   |
+| Powerdrill.ai       | AI-powered knowledge base tool that can generate summaries, answer questions, and even translate languages.  | https://powerdrill.ai/: https://powerdrill.ai/                     | 200 per month  |   |
+| Omnimind.ai         | Comprehensive knowledge base tool with AI features such as topic modeling, sentiment analysis, and chatbots. | https://omnimind.ai/: https://omnimind.ai/                         | 500 per month  |   |
+| Wizy.chat           | AI-powered knowledge base tool that can provide real-time customer support.                                  | https://wizy.chat/#home: https://wizy.chat/#home                   | 50 messages    |   |
+| Mindpal.space       | Personal knowledge base tool that can help you organize your thoughts and ideas.                             | https://mindpal.space/pricing: https://mindpal.space/pricing       | 20 per month   |   |
+| Myreach.io          | Knowledge base tool for sales teams that can help you track and manage customer interactions.                | https://myreach.io/: https://myreach.io/                           | 100 messages   |   |
+| GetChunky.io        | Knowledge base tool for developers that can help you document code and procedures.                           | https://getchunky.io/: https://getchunky.io/                       | Varies         |   |
